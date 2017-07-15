@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-navbar>
+
+      <button menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>    
+    <ion-title>Speakers</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content center class="outer-content speaker-list">
+
+  <ion-list no-lines center>
+  <ion-item class="speaker" center wrap *ngFor="let speaker of speakers">
+
+
+    <ion-item-content >
+      <button ion-item (click)="goToSpeakerDetail(speaker)">
+
+        <ion-avatar item-left>
+          <img [src]="speaker.profilePic">
+        </ion-avatar>
+        <h2> {{speaker.name}}</h2>
+
+        <button twitter (click)="goToSpeakerTwitter(speaker)" clear item-right>
+          <ion-icon name="logo-twitter"></ion-icon>
+          Tweet
+        </button>
+      </button>
+      <ion-list >
+        <button text-wrap wrap ion-item *ngFor="let session of speaker.sessions" (click)="goToSessionDetail(session)">
+          <h3 wrap>{{session.name}}</h3>
+        </button>
+
+      </ion-list>
+    </ion-item-content>
+
+</ion-item>
+</ion-list>
+</ion-content>

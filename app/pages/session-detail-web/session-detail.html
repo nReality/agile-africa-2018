@@ -1,0 +1,34 @@
+<ion-header>
+  <ion-navbar >
+
+
+    <ion-title>Session Description</ion-title>
+    <ion-buttons end>
+      <button (click)="close()" >
+        <ion-icon name="close"></ion-icon>
+      </button>
+    </ion-buttons>
+
+
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h1>{{session.name}}</h1>
+
+
+
+  <h4 *ngFor="let speaker of session.speakers">
+    {{speaker.name}}
+  </h4>
+
+  <p>
+  {{session.date}}   {{session.timeStart}} - {{session.timeEnd}}
+  </p>
+
+  <h6>{{session.location}}</h6>
+
+  <p class="session-description">{{session.description}}</p>
+
+  <button right-item (click)="close()">Close</button>
+</ion-content>

@@ -1,0 +1,22 @@
+.session-description{
+  white-space: pre-wrap;
+}
+
+.speaker-button{
+  color: Black;
+}
+
+.stars {
+  color: #989898;
+  cursor: pointer;
+  font-size: 4rem;
+  transition: color .4s ease-in-out;
+  text-align: center;
+}
+.star.active {
+  color: #FFD600;
+}
+
+.session-header{
+  text-align: center;
+}

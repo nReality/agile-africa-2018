@@ -1,0 +1,63 @@
+{
+  "name": "Test App",
+  "description": "Test Description",
+  "about": {
+    "heading":"",
+    "subHeading": "",
+    "description": "",
+    "website": "",
+    "links": []
+  },
+  "schedule": [
+    {
+      "date": "TBA",
+      "groups": [
+        {
+          "time": "7:30 am",
+          "sessions": [
+            {
+              "name": "Lean Coffee",
+              "locationId": "room1",
+              "description": "Coffe and the space proudly sponsored by agile42.",
+              "timeStart": "7:30 am",
+              "timeEnd": "8:30 am",
+              "tracks": [
+                "Lean Coffee"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Speaker 1",
+      "priority": 1,
+      "profilePic": "img/speakers/no-image-head.png",
+      "twitter": "@someone",
+      "about": "something"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Awesome Company",
+      "imageSrc": "https://robohash.org/awesome",
+      "url": "https://robohash.org"
+    }
+  ],
+  "map": [
+    {
+      "name": "dunno",
+      "lat": -33.9353866,
+      "lng": 18.4550375,
+      "center": true
+    }
+  ],
+  "locationMappings": [
+    {
+      "name": "Test",
+      "id": "room1"
+    }
+  ]
+}

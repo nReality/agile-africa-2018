@@ -1,0 +1,84 @@
+<ion-header>
+  <ion-navbar class="nav-no-border">
+    <button menuToggle>
+    <ion-icon name="menu"></ion-icon>
+  </button>
+
+    <ion-searchbar primary [(ngModel)]="queryText" (ionInput)="updateSchedule()" placeholder="Search schedule">
+    </ion-searchbar>
+    <ion-buttons end>
+
+      <button (click)="toggleFavourites()" *ngIf="segment === 'all'">
+        <ion-icon name="star-outline"></ion-icon>
+      </button>
+      <button (click)="toggleFavourites()" *ngIf="segment !== 'all'">
+        <ion-icon name="star"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+  <ion-toolbar class="toggletoolbar" no-border-top>
+
+    <table width="100%">
+      <tr>
+        <td *ngFor="let location of locations" class="scheduletoggle"><button (click)="toggleLocation(location.id)" [outline]="location.hide" class="scheduletogglebutton" small block [color]="location.id">{{location.name}}</button></td>
+      </tr>
+    </table>
+  </ion-toolbar>
+
+</ion-header>
+
+
+<ion-content class="schedule" on-scroll="onPageScroll()">
+
+  <ion-list #scheduleList>
+    <ion-list-header text-center class="time-group" [hidden]="days.length > 0">
+      No sessions were found.
+    </ion-list-header>
+
+    <ion-item-group no-lines *ngFor="let day of days">
+      <ion-item-divider sticky class="time-group">
+        {{day.date}}
+      </ion-item-divider>
+
+      <ion-item-content class="time-group">
+
+        <ion-item-group *ngFor="let group of day.groups" [hidden]="group.hide">
+          <ion-item-divider [class]="checkIfTimeHasPassed(day.date, group.time)">
+            {{group.time}}
+          </ion-item-divider>
+
+          <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem [attr.location]="locationNoSpaces(session.locationId) | lowercase" [hidden]="session.hide">
+
+            <ion-item>
+
+              <ion-grid style="padding:0">
+                <ion-row style="padding:0">
+                  <ion-col style="padding:0;max-width: 1%;" width-10>
+                    <button *ngIf="isFavourite(session)" [color]="session.locationId" style="height:35px; width:35px" favorite (click)="removeFavorite(session)">
+                      <ion-icon  name="star" ></ion-icon>
+                    </button>
+                    <button *ngIf="!isFavourite(session)" [color]="session.locationId" style="height:35px; width:35px" favorite (click)="addFavorite(session)">
+                      <ion-icon  name="star-outline" ></ion-icon>
+                    </button>
+
+                  </ion-col>
+                  <ion-col style="padding:0;padding-left:25px;" width-100>
+                    <button text-wrap ion-item (click)="goToSessionDetail(session)">
+
+                      <h3>{{session.name}}</h3>
+                      <p>
+                        <span  *ngIf="session.speakerNames">{{session.speakerNames}} in</span>
+                        {{session.locationName}}
+                      </p>
+                    </button>
+                  </ion-col>
+                </ion-row>
+              </ion-grid>
+            </ion-item>
+          </ion-item-sliding>
+        </ion-item-group>
+      </ion-item-content>
+    </ion-item-group>
+  </ion-list>
+</ion-content>
