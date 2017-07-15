@@ -14,7 +14,7 @@ This repo only works with ionic 2.0.0, to run install: `npm install ionic@2.0.0 
 * Clone this repository.
 * Want to use TypeScript? Both the `master` branch and the `typescript` branch now use TypeScript.
 * Run `npm install` from the project root.
-* Install the ionic CLI (`npm install -g ionic@beta`)
+* Install the ionic CLI (`npm install -g ionic@2.0.0`)
 * Run `ionic serve` in a terminal from the project root.
 * Profit
 
