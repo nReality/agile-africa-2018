@@ -1,4 +1,4 @@
-# SUGSA Scrum Gathering 2016 Conference Application
+# Conference App
 
 ## Table of Contents
  - [Getting Started](#getting-started)
