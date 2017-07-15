@@ -28,8 +28,11 @@ class PopoverPage {
 })
 export class AboutPage {
   about: any;
+  name: string;
+  
   constructor(public popoverCtrl: PopoverController, conferenceData: ConferenceData) {
     this.about = conferenceData.data.about;
+    this.name = conferenceData.data.name;
   }
 
   presentPopover(event) {
