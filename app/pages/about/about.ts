@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { ConferenceData } from '../../providers/conference-data';
 import { PopoverController, ViewController } from 'ionic-angular';
 
 
@@ -27,9 +27,10 @@ class PopoverPage {
   templateUrl: 'build/pages/about/about.html'
 })
 export class AboutPage {
-  conferenceDate = '2016-08-22';
-
-  constructor(public popoverCtrl: PopoverController) { }
+  about: any;
+  constructor(public popoverCtrl: PopoverController, conferenceData: ConferenceData) {
+    this.about = conferenceData.data.about;
+  }
 
   presentPopover(event) {
     let popover = this.popoverCtrl.create(PopoverPage);
