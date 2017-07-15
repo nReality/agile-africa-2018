@@ -25,7 +25,7 @@ export class SchedulePage {
   segment = 'all';
   excludeTracks = [];
   excludeLocations = [];
-  locations: Array<{name: string, id: string, hide: boolean}> = [];
+  locations: Array<{name: string, id: string, hide: boolean, color: string}> = [];
   excludeDays = [];
   days = [];
   storage : Storage;
@@ -43,7 +43,8 @@ export class SchedulePage {
           this.locations.push({
             name: location.name,
             id: location.id,
-            hide: false
+            hide: false,
+            color: location.color
           });
     });
    this.storage = new Storage(LocalStorage);
