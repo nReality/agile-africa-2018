@@ -17,19 +17,19 @@
   },
   "schedule": [
     {
-      "date": "TBA",
+      "date": "22 August 2017",
       "groups": [
         {
-          "time": "7:30 am",
+          "time": "9:20 am",
           "sessions": [
             {
-              "name": "Lean Coffee",
-              "locationId": "room1",
-              "description": "Coffe and the space proudly sponsored by agile42.",
-              "timeStart": "7:30 am",
-              "timeEnd": "8:30 am",
+              "name": "Keynote",
+              "locationId": "ball-room",
+              "description": "Key Note",
+              "timeStart": "9:20 am",
+              "timeEnd": "10:20 am",
               "tracks": [
-                "Lean Coffee"
+                "Kent Beck, Keynote"
               ]
             }
           ]
@@ -39,7 +39,7 @@
           "sessions": [
             {
               "name": "Lean Tea",
-              "locationId": "room2",
+              "locationId": "ball-room",
               "description": "Coffe and the space proudly sponsored by agile42.",
               "timeStart": "7:30 am",
               "timeEnd": "8:30 am",
@@ -50,15 +50,35 @@
           ]
         }
       ]
+    },
+    {
+      "date": "23 August 2017",
+      "groups": [
+        {
+          "time": "9:10 am",
+          "sessions": [
+            {
+              "name": "Keynote TBA",
+              "locationId": "ball-room",
+              "description": "Key Note",
+              "timeStart": "9:20 am",
+              "timeEnd": "10:20 am",
+              "tracks": [
+                "TBA"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "speakers": [
     {
-      "name": "Speaker 1",
+      "name": "Kent Beck",
       "priority": 1,
       "profilePic": "img/speakers/no-image-head.png",
       "twitter": "@someone",
-      "about": "something"
+      "about": "Pretty Epic"
     }
   ],
   "sponsors": [
@@ -78,13 +98,18 @@
   ],
   "locationMappings": [
     {
-      "name": "Room 1",
-      "id": "room1",
+      "name": "Ballroom",
+      "id": "ball-room",
       "color": "#0a485f"
     },
     {
-      "name": "Room 2",
-      "id": "room2",
+      "name": "Gala Room",
+      "id": "gala-room",
+      "color": "#188faf"
+    },
+    {
+      "name": "Boundary Room",
+      "id": "boundry-room",
       "color": "#188faf"
     }
   ]
