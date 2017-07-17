@@ -114,11 +114,15 @@ if [ -e "$DEPLOYMENT_TARGET/package.json" ]; then
   cd "$DEPLOYMENT_TARGET"
   eval $NPM_CMD install --production
   exitWithMessageOnError "npm failed"
-  cd - > /dev/null
 fi
 
-cd "$DEPLOYMENT_TARGET"
-./node_modules/gulp/bin/gulp.js build
+# 4. Run gulp for build
+if [ -e "$DEPLOYMENT_TARGET/gulpfile.js" ]; then
+  eval $NPM_CMD install gulp
+  exitWithMessageOnError "installing gulpfailed"
+  ./node_modules/.bin/gulp build
+  exitWithMessageOnError "gulp failed"
+fi
 
 ##################################################################################################################################
 echo "Finished successfully."
