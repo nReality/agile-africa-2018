@@ -112,14 +112,12 @@ selectNodeVersion
 # 3. Install npm packages
 if [ -e "$DEPLOYMENT_TARGET/package.json" ]; then
   cd "$DEPLOYMENT_TARGET"
-  eval $NPM_CMD install --production
+  eval $NPM_CMD install
   exitWithMessageOnError "npm failed"
 fi
 
 # 4. Run gulp for build
 if [ -e "$DEPLOYMENT_TARGET/gulpfile.js" ]; then
-  eval $NPM_CMD install gulp
-  exitWithMessageOnError "installing gulpfailed"
   ./node_modules/.bin/gulp build
   exitWithMessageOnError "gulp failed"
 fi
