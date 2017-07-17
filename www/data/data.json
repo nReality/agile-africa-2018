@@ -2,16 +2,16 @@
   "name": "Test App",
   "description": "Test Description",
   "about": {
-    "imageSrc": "https://robohash.org/happy",
-    "heading":"Test Conference 2017",
-    "subHeading": "Time to shine",
-    "description": "Awesome Conference oh yea!",
+    "imageSrc": "img/Agile-Africa-2016-logo-83.5@2x.png",
+    "heading":"Agile Africa 2017",
+    "subHeading": "About the conference",
+    "description": "2017 marks the five-year anniversary of the Agile Africa conference, and we will build on previous years to create an engaging, memorable event. Our keynotes for the Agile Africa 2017 conference include leading experts of international acclaim. Furthermore, the conference includes a diversity of both local and international speakers, and you will get to interact with and learn from people working in all different environments. ",
     "website": "",
     "links": [
       {
         "linkText": "Book",
-        "text": "tickets",
-        "link": "https://robohash.org"
+        "text": "tickets now!",
+        "link": "http://2017.agileafricaconf.com/#tile_registration"
       }
     ]
   },
@@ -19,6 +19,36 @@
     {
       "date": "22 August 2017",
       "groups": [
+        {
+          "time": "8:30 am",
+          "sessions": [
+            {
+              "name": "Registration",
+              "locationId": "ball-room",
+              "description": "Registration",
+              "timeStart": "8:30 am",
+              "timeEnd": "9:00 am",
+              "tracks": [
+                "Registration"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "9:00 am",
+          "sessions": [
+            {
+              "name": "Welcome Prof & Jo",
+              "locationId": "ball-room",
+              "description": "Welcome",
+              "timeStart": "9:00 am",
+              "timeEnd": "9:20 am",
+              "tracks": [
+                "Welcome"
+              ]
+            }
+          ]
+        },
         {
           "time": "9:20 am",
           "sessions": [
@@ -100,17 +130,17 @@
     {
       "name": "Ballroom",
       "id": "ball-room",
-      "color": "#0a485f"
+      "color": "#73BE5B"
     },
     {
       "name": "Gala Room",
       "id": "gala-room",
-      "color": "#188faf"
+      "color": "#3095CF"
     },
     {
       "name": "Boundary Room",
       "id": "boundry-room",
-      "color": "#188faf"
+      "color": "#4C9689"
     }
   ]
 }
