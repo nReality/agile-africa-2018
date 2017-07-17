@@ -117,7 +117,8 @@ if [ -e "$DEPLOYMENT_TARGET/package.json" ]; then
   cd - > /dev/null
 fi
 
-node_modules/gulp/bin/gulp.js build
+cd "$DEPLOYMENT_TARGET"
+./node_modules/gulp/bin/gulp.js build
 
 ##################################################################################################################################
 echo "Finished successfully."
