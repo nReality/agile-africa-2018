@@ -162,7 +162,11 @@ export class SchedulePage {
     return this.confData.getLocationName(locationId);
   }
 
-  getColor(location) {
+  getLocationBackgroungColor(location) {
     return location.hide ? "white" : location.color;
+  }
+
+  getLocationColor(location) {
+    return location.hide ? "gray" : "white";
   }
 }
