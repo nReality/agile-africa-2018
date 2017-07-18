@@ -139,8 +139,9 @@ function download(uri, filename, callback) {
 
 function mapCompletedSessions(completedSessions) {
   var scheduleMap = {};
+  var sessionsCopy = completedSessions;
   function mapNextSession() {
-    var currentSession = completedSessions.pop();
+    var currentSession = sessionsCopy.pop();
 
     if (!currentSession) {
       return;
@@ -152,12 +153,12 @@ function mapCompletedSessions(completedSessions) {
       };
     }
 
-    var groupedSessions = completedSessions.filter(function(ses) {
+    var groupedSessions = sessionsCopy.filter(function(ses) {
       return ses.date === currentSession.date && ses.timeStart === currentSession.timeStart;
     });
 
     if (groupedSessions.length) {
-      completedSessions = completedSessions.filter(function(item) {
+      sessionsCopy = sessionsCopy.filter(function(item) {
         return groupedSessions.indexOf(item) === -1;
       });
     }
@@ -172,6 +173,7 @@ function mapCompletedSessions(completedSessions) {
 
   mapNextSession();
 
+  var result = {};
   var schedule = [];
   for (var key in scheduleMap) {
     if (scheduleMap.hasOwnProperty(key)) {
@@ -182,8 +184,10 @@ function mapCompletedSessions(completedSessions) {
     }
   }
 
-  console.log(util.inspect(schedule, false, null))
-  fs.writeFile('test.json', JSON.stringify(schedule, null, 4));
+  result.schedule = schedule;
+  result.speakers = getSpeakers(completedSessions);
+  console.log(util.inspect(result, false, null))
+  fs.writeFile('test.json', JSON.stringify(result, null, 4));
 }
 
 function mapLocation(location) {
@@ -199,6 +203,16 @@ function mapLocation(location) {
     return "tbd";
   }
   return mappedLocation;
+}
+
+function getSpeakers(completedSessions) {
+  return [].concat.apply([], completedSessions.map(function(session) {
+    console.log(session);
+    return session.speakers.map(function(speaker) {
+      console.log(speaker)
+      return speaker;
+    });
+  }));
 }
 
 loadschedule();

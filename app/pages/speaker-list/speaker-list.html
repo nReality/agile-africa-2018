@@ -3,7 +3,7 @@
 
       <button menuToggle>
         <ion-icon name="menu"></ion-icon>
-      </button>    
+      </button>
     <ion-title>Speakers</ion-title>
   </ion-navbar>
 </ion-header>
@@ -18,7 +18,7 @@
       <button ion-item (click)="goToSpeakerDetail(speaker)">
 
         <ion-avatar item-left>
-          <img [src]="speaker.profilePic">
+          <img [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         <h2> {{speaker.name}}</h2>
 

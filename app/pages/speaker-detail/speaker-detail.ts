@@ -25,4 +25,9 @@ export class SpeakerDetailPage {
   //  window.open(`https://twitter.com/${speaker.twitter}`);
     this.tweetShare.shareViaTwitter("."+speaker.twitter+" @SUGSA",null,null)
   }
+
+  getSpeakerImage(speaker) {
+    var imageName = speaker.profilePic ? speaker.profilePic : "no-image-head.png";
+    return 'img/speakers/' + imageName;
+  }
 }

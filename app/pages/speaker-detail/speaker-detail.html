@@ -7,7 +7,7 @@
 <ion-content padding class="speaker-detail">
 
   <div text-center>
-    <img [src]="speaker.profilePic" [alt]="speaker.name"><br>
+    <img [src]="getSpeakerImage(speaker)" [alt]="speaker.name"><br>
 
     <button clear twitter (click)="goToSpeakerTwitter(speaker)"><ion-icon name="logo-twitter"></ion-icon></button>
     <!--<button clear small github><ion-icon name="logo-github"></ion-icon></button>
