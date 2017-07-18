@@ -68,7 +68,7 @@
                   <ion-col style="padding:0;padding-left:25px;" width-100>
                     <button text-wrap ion-item (click)="goToSessionDetail(session)">
 
-                      <h3>{{session.name}}</h3>
+                      <h3 [innerHtml]="session.name"></h3>
                       <p>
                         <span  *ngIf="session.speakerNames">{{session.speakerNames}} in</span>
                         {{session.locationName}}

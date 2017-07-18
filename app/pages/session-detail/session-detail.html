@@ -37,6 +37,6 @@
     <h2 text-center>{{session.date}}</h2>
     <h5 text-center>{{session.timeStart}} - {{session.timeEnd}}</h5>
     <ion-card-header>{{session.locationName}}</ion-card-header>
-    <ion-card-content class="session-description">{{session.description}}</ion-card-content>
+    <ion-card-content class="session-description" [innerHTML]="session.description"></ion-card-content>
   </ion-card>
 </ion-content>
