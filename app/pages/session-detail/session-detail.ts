@@ -83,5 +83,10 @@ export class SessionDetailPage {
       this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
   }
 
+  getSpeakerImage(speaker) {
+    var imageName = speaker.profilePic ? speaker.profilePic : "no-image-head.png";
+    return 'img/speakers/' + imageName;
+  }
+
 
 }

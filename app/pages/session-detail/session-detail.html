@@ -5,7 +5,7 @@
 </ion-header>
 
 <ion-content padding>
-  <h3 class="session-header">{{session.name}}</h3>
+  <h3 class="session-header" [innerHTML]="session.name"></h3>
 
   <ion-divider>
     <ion-item no-lines>
@@ -26,7 +26,7 @@
     <center>
       <button margin-top light outline class="speaker-button" *ngFor="let speaker of session.speakers" (click)="goToSpeakerDetail(speaker)">
         <ion-avatar item-left>
-          <img [src]="speaker.profilePic">
+          <img [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         {{speaker.name}}
       </button>
