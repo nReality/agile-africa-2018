@@ -29,7 +29,7 @@ export class SpeakerListPage {
   }
 
   goToSpeakerTwitter(speaker) {
-    this.tweetShare.shareViaTwitter("." + speaker.twitter + " @SUGSA", null, null);
+    this.tweetShare.shareViaTwitter("." + speaker.twitter + " @AgileAfrica", null, null);
   }
 
   getSpeakerImage(speaker) {
