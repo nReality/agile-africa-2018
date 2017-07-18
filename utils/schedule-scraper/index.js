@@ -39,7 +39,9 @@ function scheduleLoaded(error, response, body) {
       sessionDetail.timeStart = sessionDetail.time;
       sessionDetail.timeEnd = sessionDetail.end_time;
       sessionDetail.tracks = [sessionDetail.location];
-      sessionDetail.speakerNames = [];
+      sessionDetail.speakerNames = sessionDetail.speakers.map(function(speaker) {
+        return speaker.name;
+      });
 
       delete sessionDetail.post_title;
       delete sessionDetail.url;

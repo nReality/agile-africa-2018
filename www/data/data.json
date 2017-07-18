@@ -94,7 +94,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Kent Beck"
+                          ]
                       }
                   ]
               },
@@ -131,7 +133,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Benjamin Hinson"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -151,7 +155,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Lorraine Steyn"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -171,7 +177,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Don Gray"
+                          ]
                       }
                   ]
               },
@@ -195,7 +203,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Wayne Yan"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -214,14 +224,16 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Yogini Moodley"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
                           "speakers": [
                               {
                                   "about": "Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.<br/>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.<br/>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.<br/>View full schedule",
-                                  "name": "Julia Kiddie",
+                                  "name": "Julia Keddie",
                                   "priority": 1,
                                   "profilePic": "Julia-Keddie-email.jpg"
                               },
@@ -240,7 +252,10 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Julia Keddie",
+                              "Alfred Mukudu"
+                          ]
                       }
                   ]
               },
@@ -264,7 +279,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Wayne Sinclair"
+                          ]
                       }
                   ]
               },
@@ -288,7 +305,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Catherine Holland"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -307,7 +326,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Geoffrey Lydall"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -327,7 +348,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Simon van Dyk"
+                          ]
                       }
                   ]
               },
@@ -358,7 +381,10 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Sam Laing",
+                              "Jay-Allen Morris"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -383,7 +409,10 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Louise Perold",
+                              "Joshua Lewis"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -403,7 +432,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Sonja Blignaut"
+                          ]
                       }
                   ]
               },
@@ -428,7 +459,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Rouan Wilsenach"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -448,7 +481,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Verna van Schaik"
+                          ]
                       },
                       {
                           "date": "21st August 2017",
@@ -468,7 +503,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Cara Turner"
+                          ]
                       }
                   ]
               },
@@ -582,7 +619,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Liandra Bassiane"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -601,7 +640,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "James Knupfer"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -621,7 +662,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Ryan Ripley"
+                          ]
                       }
                   ]
               },
@@ -646,7 +689,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Jacques de Vos"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -665,7 +710,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Travis Frisinger"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -685,7 +732,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Biase De Gregorio"
+                          ]
                       }
                   ]
               },
@@ -709,7 +758,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Louise Perold"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -729,7 +780,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Pavel Dabrytski"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -755,7 +808,10 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Angie Doyle",
+                              "Talia Lancaster"
+                          ]
                       }
                   ]
               },
@@ -786,7 +842,10 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Jeff Lopes",
+                              "Shane Ferley"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -805,7 +864,9 @@
                           "tracks": [
                               "Boundary Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Faye Thompson"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -825,7 +886,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Oded Tamir"
+                          ]
                       }
                   ]
               },
@@ -849,7 +912,9 @@
                           "tracks": [
                               "Gala Room"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Donovan Brown"
+                          ]
                       },
                       {
                           "date": "22nd August 2017",
@@ -869,7 +934,9 @@
                           "tracks": [
                               "Ballroom"
                           ],
-                          "speakerNames": []
+                          "speakerNames": [
+                              "Sizwe Mabanga"
+                          ]
                       }
                   ]
               }
