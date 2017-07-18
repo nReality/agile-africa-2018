@@ -56,14 +56,9 @@
 
               <ion-grid style="padding:0">
                 <ion-row style="padding:0">
-                  <ion-col style="padding:0;max-width: 1%;" width-10>
-                    <button *ngIf="isFavourite(session)" [color]="session.locationId" style="height:35px; width:35px" favorite (click)="removeFavorite(session)">
-                      <ion-icon  name="star" ></ion-icon>
-                    </button>
-                    <button *ngIf="!isFavourite(session)" [color]="session.locationId" style="height:35px; width:35px" favorite (click)="addFavorite(session)">
-                      <ion-icon  name="star-outline" ></ion-icon>
-                    </button>
-
+                  <ion-col style="padding:0; max-width: 1%;" width-10>
+                    <ion-icon style="font-size: 35px;" [ngStyle]="{'color': session.location.color}" name="star" *ngIf="isFavourite(session)" favorite (click)="removeFavorite(session)"></ion-icon>
+                    <ion-icon style="font-size: 35px;" [ngStyle]="{'color': session.location.color}" name="star-outline" *ngIf="!isFavourite(session)" favorite (click)="addFavorite(session)"></ion-icon>
                   </ion-col>
                   <ion-col style="padding:0;padding-left:25px;" width-100>
                     <button text-wrap ion-item (click)="goToSessionDetail(session)">
