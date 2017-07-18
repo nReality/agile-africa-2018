@@ -1155,22 +1155,22 @@
     {
       "name": "Ballroom",
       "id": "ballroom",
-      "color": "#73BE5B"
+      "color": "#6285A0"
     },
     {
       "name": "Gala Room",
       "id": "gala-room",
-      "color": "#3095CF"
+      "color": "#866686"
     },
     {
       "name": "Boundary Room",
       "id": "boundary-room",
-      "color": "#4C9689"
+      "color": "#D95F62"
     },
     {
       "name": "TBD",
       "id": "tbd",
-      "color": "#4C9689"
+      "color": "#EFA584"
     },
     {
       "name": "foyer",
