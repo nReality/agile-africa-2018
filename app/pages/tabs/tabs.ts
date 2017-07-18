@@ -4,6 +4,7 @@ import { AboutPage } from '../about/about';
 import { MapPage } from '../map/map';
 import { SchedulePage } from '../schedule/schedule';
 import { SpeakerListPage } from '../speaker-list/speaker-list';
+import { SponsorsPage } from '../sponsors/sponsors';
 
 
 @Component({
@@ -14,6 +15,7 @@ export class TabsPage {
   tab1Root: any = SchedulePage;
   tab2Root: any = SpeakerListPage;
   tab4Root: any = AboutPage;
+  tab3Root: any = SponsorsPage;
   mySelectedIndex: number;
 
   constructor(navParams: NavParams) {
