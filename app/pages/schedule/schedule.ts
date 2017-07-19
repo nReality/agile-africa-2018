@@ -167,6 +167,6 @@ export class SchedulePage {
   }
 
   getLocationColor(location) {
-    return location.hide ? "gray" : "white";
+    return location.hide ? "#ACACAC" : "white";
   }
 }
