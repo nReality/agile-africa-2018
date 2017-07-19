@@ -132,7 +132,10 @@ function joinParagraphs(paragraphs, $) {
     var line = $(p).text();
     lines.push(line.trim());
   });
-  return lines.join('<br/>');
+  var htmlLines = lines.map(function(line) {
+    return "<p>" + line + "</p>";
+  });
+  return htmlLines.join("<br>");
 }
 
 function download(uri, filename, callback) {
