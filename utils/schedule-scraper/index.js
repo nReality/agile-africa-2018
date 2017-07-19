@@ -97,7 +97,7 @@ function loadSpeakerDetail(speaker, done) {
     var paragraphs = $(".container > p");
     var joinedLines = joinParagraphs(paragraphs, $);
 
-    speaker.about = joinedLines === "" ? "No About" : joinedLines;
+    speaker.about = joinedLines === "" ? "No About" : joinedLines.replace("View full schedule", "");
     speaker.name = speaker.post_title;
     speaker.priority = 1;
 
@@ -192,7 +192,7 @@ function mapCompletedSessions(completedSessions) {
   result.schedule = schedule;
   result.speakers = getSpeakers(completedSessions);
   console.log(util.inspect(result, false, null))
-  fs.writeFile('test.json', JSON.stringify(result, null, 4));
+  fs.writeFile('output.json', JSON.stringify(result, null, 4));
 }
 
 function mapLocation(location) {
