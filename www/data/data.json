@@ -27,11 +27,11 @@
                           "speakers": [],
                           "description": "No Description",
                           "name": "Lean Coffee (Day 1)",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "7:30 am",
                           "timeEnd": "8:30 am",
                           "tracks": [
-                              "TBD"
+                              "foyer"
                           ],
                           "speakerNames": []
                       }
@@ -45,11 +45,11 @@
                           "speakers": [],
                           "description": "Please visit the Welcome Desk in the Foyer to register.<br/>",
                           "name": "Registration",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "8:00 am",
                           "timeEnd": "9:00 am",
                           "tracks": [
-                              "Foyer"
+                              "tbd"
                           ],
                           "speakerNames": []
                       }
@@ -67,7 +67,7 @@
                           "timeStart": "9:00 am",
                           "timeEnd": "9:20 am",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": []
                       }
@@ -92,7 +92,7 @@
                           "timeStart": "9:20 am",
                           "timeEnd": "10:20 am",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Kent Beck"
@@ -108,11 +108,11 @@
                           "speakers": [],
                           "description": "Lots of conversations and open space stuff happening here , join the fishbowl, have a look at the posters or just have an impromptu conversation<br/>",
                           "name": "Indaba Tree Day 1",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "10:30 am",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "TBD"
+                              "foyer"
                           ],
                           "speakerNames": []
                       },
@@ -131,7 +131,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "12:00 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Benjamin Hinson"
@@ -153,7 +153,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "12:00 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Lorraine Steyn"
@@ -175,7 +175,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "12:00 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Don Gray"
@@ -201,7 +201,7 @@
                           "timeStart": "12:00 pm",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Wayne Yan"
@@ -222,7 +222,7 @@
                           "timeStart": "12:00 pm",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Yogini Moodley"
@@ -250,7 +250,7 @@
                           "timeStart": "12:00 pm",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Julia Keddie",
@@ -277,7 +277,7 @@
                           "timeStart": "12:15 pm",
                           "timeEnd": "12:30 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Wayne Sinclair"
@@ -303,7 +303,7 @@
                           "timeStart": "1:30 pm",
                           "timeEnd": "2:15 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Catherine Holland"
@@ -324,7 +324,7 @@
                           "timeStart": "1:30 pm",
                           "timeEnd": "2:15 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Geoffrey Lydall"
@@ -346,7 +346,7 @@
                           "timeStart": "1:30 pm",
                           "timeEnd": "2:15 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Simon van Dyk"
@@ -379,7 +379,7 @@
                           "timeStart": "2:30 pm",
                           "timeEnd": "4:00 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Sam Laing",
@@ -407,7 +407,7 @@
                           "timeStart": "2:30 pm",
                           "timeEnd": "4:00 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Louise Perold",
@@ -430,7 +430,7 @@
                           "timeStart": "2:30 pm",
                           "timeEnd": "4:00 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Sonja Blignaut"
@@ -457,7 +457,7 @@
                           "timeStart": "4:15 pm",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Rouan Wilsenach"
@@ -479,7 +479,7 @@
                           "timeStart": "4:15 pm",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Verna van Schaik"
@@ -501,7 +501,7 @@
                           "timeStart": "4:15 pm",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Cara Turner"
@@ -517,11 +517,11 @@
                           "speakers": [],
                           "description": "Social event<br/>",
                           "name": "Drinks",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "5:00 pm",
                           "timeEnd": "7:00 pm",
                           "tracks": [
-                              "Foyer"
+                              "tbd"
                           ],
                           "speakerNames": []
                       }
@@ -540,11 +540,11 @@
                           "speakers": [],
                           "description": "No Description",
                           "name": "Lean Coffee (Day 2)",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "7:30 am",
                           "timeEnd": "8:30 am",
                           "tracks": [
-                              "TBD"
+                              "foyer"
                           ],
                           "speakerNames": []
                       }
@@ -562,7 +562,7 @@
                           "timeStart": "9:00 am",
                           "timeEnd": "9:10 am",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": []
                       }
@@ -580,7 +580,7 @@
                           "timeStart": "9:10 am",
                           "timeEnd": "10:10 am",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": []
                       }
@@ -594,11 +594,11 @@
                           "speakers": [],
                           "description": "Lots of conversations and open space stuff happening here , join the fishbowl, have a look at the posters or just have an impromptu conversation<br/>",
                           "name": "Indaba Tree Day 2",
-                          "locationId": "tbd",
+                          "locationId": "foyer",
                           "timeStart": "10:30 am",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "TBD"
+                              "foyer"
                           ],
                           "speakerNames": []
                       },
@@ -617,7 +617,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "11:15 am",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Liandra Bassiane"
@@ -638,7 +638,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "11:15 am",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "James Knupfer"
@@ -660,7 +660,7 @@
                           "timeStart": "10:30 am",
                           "timeEnd": "11:15 am",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Ryan Ripley"
@@ -687,7 +687,7 @@
                           "timeStart": "11:30 am",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Jacques de Vos"
@@ -708,7 +708,7 @@
                           "timeStart": "11:30 am",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Travis Frisinger"
@@ -730,7 +730,7 @@
                           "timeStart": "11:30 am",
                           "timeEnd": "12:15 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Biase De Gregorio"
@@ -756,7 +756,7 @@
                           "timeStart": "1:15 pm",
                           "timeEnd": "2:45 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Louise Perold"
@@ -778,7 +778,7 @@
                           "timeStart": "1:15 pm",
                           "timeEnd": "2:45 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Pavel Dabrytski"
@@ -806,7 +806,7 @@
                           "timeStart": "1:15 pm",
                           "timeEnd": "2:45 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Angie Doyle",
@@ -840,7 +840,7 @@
                           "timeStart": "3:00 pm",
                           "timeEnd": "3:45 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Jeff Lopes",
@@ -862,7 +862,7 @@
                           "timeStart": "3:00 pm",
                           "timeEnd": "3:45 pm",
                           "tracks": [
-                              "Boundary Room"
+                              "boundary-room"
                           ],
                           "speakerNames": [
                               "Faye Thompson"
@@ -884,7 +884,7 @@
                           "timeStart": "3:00 pm",
                           "timeEnd": "3:45 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Oded Tamir"
@@ -910,7 +910,7 @@
                           "timeStart": "4:00 pm",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "Gala Room"
+                              "gala-room"
                           ],
                           "speakerNames": [
                               "Donovan Brown"
@@ -932,7 +932,7 @@
                           "timeStart": "4:00 pm",
                           "timeEnd": "5:00 pm",
                           "tracks": [
-                              "Ballroom"
+                              "ballroom"
                           ],
                           "speakerNames": [
                               "Sizwe Mabanga"
@@ -1158,19 +1158,14 @@
       "color": "#6285A0"
     },
     {
-      "name": "Gala Room",
+      "name": "Gala",
       "id": "gala-room",
       "color": "#866686"
     },
     {
-      "name": "Boundary Room",
+      "name": "Boundary",
       "id": "boundary-room",
       "color": "#D95F62"
-    },
-    {
-      "name": "TBD",
-      "id": "tbd",
-      "color": "#EFA584"
     },
     {
       "name": "Foyer",

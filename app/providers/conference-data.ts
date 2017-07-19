@@ -61,6 +61,9 @@ export class ConferenceData {
 
     this.user.checkIfLocalfavourite(session.name);
     var locationArray = data.locationMappings.filter(function(obj) {return obj.id == session.locationId});
+    if (!locationArray.length) {
+      console.log(session.locationId);
+    }
     session.locationName = locationArray? locationArray[0].name : null;
     session.location = locationArray? locationArray[0] : null;
     session.date = date

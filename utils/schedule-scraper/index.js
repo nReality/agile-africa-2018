@@ -38,7 +38,7 @@ function scheduleLoaded(error, response, body) {
       sessionDetail.locationId = mapLocation(sessionDetail.location);
       sessionDetail.timeStart = sessionDetail.time;
       sessionDetail.timeEnd = sessionDetail.end_time;
-      sessionDetail.tracks = [sessionDetail.location];
+      sessionDetail.tracks = [sessionDetail.locationId];
       sessionDetail.speakerNames = sessionDetail.speakers.map(function(speaker) {
         return speaker.name;
       });
@@ -197,12 +197,12 @@ function mapLocation(location) {
     "Ballroom": "ballroom",
     "Gala Room": "gala-room",
     "Boundary Room": "boundary-room",
-    "TBD": "tbd",
+    "TBD": "foyer",
     "foyer": "foyer"
   };
   var mappedLocation = map[location];
   if (!mappedLocation) {
-    return "tbd";
+    return "foyer";
   }
   return mappedLocation;
 }
