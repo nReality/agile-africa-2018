@@ -1,6 +1,6 @@
 {
   "name": "AgileAfrica2017",
   "app_id": "",
-  "typescript": true,
-  "v2": true
+  "type": "ionic-angular",
+  "watchPatterns": []
 }

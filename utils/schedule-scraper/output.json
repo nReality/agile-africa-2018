@@ -557,16 +557,32 @@
                     "sessions": [
                         {
                             "date": "22nd August 2017",
-                            "speakers": [],
-                            "description": "<p></p>",
-                            "name": "Keynote Day 2",
+                            "speakers": [
+                                {
+                                    "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
+                                    "name": "Ryan Ripley",
+                                    "priority": 1,
+                                    "profilePic": "ryan-ripley.png"
+                                },
+                                {
+                                    "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
+                                    "name": "Faye Thompson",
+                                    "priority": 1,
+                                    "profilePic": "Faye-Thompson.jpg"
+                                }
+                            ],
+                            "description": "<p>Does your team optimize their learning opportunities?  Is it safe to explore, experiment and fail?  Are you looking for some ideas on getting your team ‘unstuck’?  Bring your questions, as you are the product owner to this conversation about celebrating curiosity, becoming more agile and fostering an environment that allows your team to succeed. Leveraging the power of the crowd, we will address the questions of the room and facilitate a whole-conference conversation.</p><br><p></p>",
+                            "name": "Keynote: Collaborative Curiosity",
                             "locationId": "ballroom",
                             "timeStart": "9:10 am",
                             "timeEnd": "10:10 am",
                             "tracks": [
                                 "ballroom"
                             ],
-                            "speakerNames": []
+                            "speakerNames": [
+                                "Ryan Ripley",
+                                "Faye Thompson"
+                            ]
                         }
                     ]
                 },
@@ -837,7 +853,8 @@
                                 {
                                     "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
                                     "name": "Faye Thompson",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "Faye-Thompson.jpg"
                                 }
                             ],
                             "description": "<p>Humans process millions of bits of information each day. In order to handle that data load, our brains have developed shortcuts to take advantage of patterns, shared knowledge and experience. Unfortunately, sometimes those short cuts lead us astray, and cause us to draw inaccurate conclusions. These cognitive biases are amplified when you pull together a team of people all trying to work together. Come learn about some of the most common types of biases and how to recognize when they are negatively impacting your team. We will also practice some techniques for working around their impacts.</p><br><p></p>",
@@ -883,12 +900,13 @@
                             "date": "22nd August 2017",
                             "speakers": [
                                 {
-                                    "about": "<p></p>",
+                                    "about": "<p>Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft’s Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan’s unofficial tag line is #RubDevOpsOnIt and he’s here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan’s also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.</p><br><p></p>",
                                     "name": "Donovan Brown",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "donovan-brown.png"
                                 }
                             ],
-                            "description": "<p></p>",
+                            "description": "<p>Hear how Microsoft embarked on their own DevOps journey reducing a three-year release cycle down to three weeks. Donovan Brown, a Principal DevOps Manager on the US Developer Division team in Microsoft, shares how they managed to make an Agile Transformation that scaled to support business needs.</p><br><p></p>",
                             "name": "Microsoft&#8217;s Agile Transformation Story",
                             "locationId": "gala-room",
                             "timeStart": "4:00 pm",
@@ -929,9 +947,10 @@
     ],
     "speakers": [
         {
-            "about": "<p></p>",
+            "about": "<p>Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft’s Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan’s unofficial tag line is #RubDevOpsOnIt and he’s here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan’s also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.</p><br><p></p>",
             "name": "Donovan Brown",
-            "priority": 1
+            "priority": 1,
+            "profilePic": "donovan-brown.png"
         },
         {
             "about": "<p>I write software and lead a team of great developers at Investec. I like to leave it all on the dancefloor. I was once a guy who did a poem where the audience snapped fingers instead of clapping. Now I’m married with two kids. This presentation is my last chance at the big time.</p><br><p></p>",
@@ -954,7 +973,8 @@
         {
             "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
             "name": "Faye Thompson",
-            "priority": 1
+            "priority": 1,
+            "profilePic": "Faye-Thompson.jpg"
         },
         {
             "about": "<p>Oded Tamir – an Agile Lead Coach and certified SPC4 (SAFe Program Consultant) at Agilesparks (www.agilesparks.com), Israel Supporting Agile transition in large global enterprises\nMy first experience in Agile implementation in 2006 became my main professional engagement during the last three years.\nFor over 20 years, I held various executive roles- CIO, Project Management in the High-Tech industry, including the position of VP Project Management in a large global company- where I focused on project tracking, problem- solving and crisis management.\nAlthough I have successfully implemented “crisis solving” processes that saved the company millions of dollars, I found that traditional project management has limited tools to solve problems and so the way back to Agile was only a matter of time.\n2014 was the next breakthrough in my career when I joined Agilesparks.\nSince then, I support Agile and DevOps change journey in large global technological projects supporting distributed teams across the globe (Israel, USA, India, Argentina, Ukraine, Moldova and more) as well as in IT departments of financial institutions.\nMoving from adopting Agile in teams to fully adopting it across the organization is challenging for organizations.\nAs an Agile Lead coach and SPC, I am sure that with knowledge, experience and practices we can move large enterprises to be much more Agile in the way they act in the market and manage people.\nI believe that Learning and sharing knowledge is an inherent part of my role as Agile coach. Therefore, I used to attend Agile conferences across the globe (Agile Prague, Agile Singapore, Agile Israel) and joint workshops (Value Stream workshops in Toyota Japan) as an attendee as well as a lecturer.</p><br><p></p>",
@@ -1017,6 +1037,18 @@
             "name": "Ryan Ripley",
             "priority": 1,
             "profilePic": "ryan-ripley.png"
+        },
+        {
+            "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
+            "name": "Ryan Ripley",
+            "priority": 1,
+            "profilePic": "ryan-ripley.png"
+        },
+        {
+            "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
+            "name": "Faye Thompson",
+            "priority": 1,
+            "profilePic": "Faye-Thompson.jpg"
         },
         {
             "about": "<p>Rouan Wilsenach is a software developer. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He now works remotely for Tes, where he builds full-stack JavaScript microservices to help teachers and schools.</p><br><p></p>",
