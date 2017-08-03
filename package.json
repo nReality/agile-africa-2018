@@ -40,6 +40,7 @@
         "gulp": "3.9.1",
         "gulp-tslint": "^5.0.0",
         "gulp-watch": "4.3.5",
+        "ionic": "^2.0.0",
         "ionic-gulp-browserify-typescript": "^2.0.0",
         "ionic-gulp-fonts-copy": "^1.0.0",
         "ionic-gulp-html-copy": "^1.0.0",
