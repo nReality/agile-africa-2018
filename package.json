@@ -16,6 +16,8 @@
         "@angular/platform-browser-dynamic": "2.0.0-rc.4",
         "@angular/router": "^2.0.0-rc.2",
         "@ionic/app-scripts": "^2.0.2",
+        "cordova-android": "^6.2.3",
+        "cordova-ios": "^4.4.0",
         "cordova-plugin-device": "^1.1.6",
         "cordova-plugin-inappbrowser": "^1.4.0",
         "cordova-plugin-splashscreen": "https://github.com/apache/cordova-plugin-splashscreen.git",
@@ -72,6 +74,9 @@
             "cordova-plugin-splashscreen": {},
             "cordova-plugin-whitelist": {}
         },
-        "platforms": []
+        "platforms": [
+            "android",
+            "ios"
+        ]
     }
 }
