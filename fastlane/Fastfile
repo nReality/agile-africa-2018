@@ -1,0 +1,23 @@
+fastlane_version "2.50.1"
+
+default_platform :ios
+
+platform :ios do
+  before_all do
+  end
+
+  desc "Submit a new Beta Build to Apple TestFlight"
+  desc "This will also make sure the profile is up to date"
+  lane :beta do
+      sh('../ionic build ios')
+      match(git_branch: "nreality", type: "appstore", app_identifier: "com.nreality.agileafricaconf")
+      gym(workspace: 'platforms/ios/Agile Africa Conference.xcworkspace', export_method: "app-store")
+      pilot
+  end
+
+  after_all do |lane|
+  end
+
+  error do |lane, exception|
+  end
+end

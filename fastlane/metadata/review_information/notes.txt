@@ -1,0 +1,1 @@
+This is a simple Cordova based app that runs completely anonymously.

@@ -1,0 +1,10 @@
+Agile Africa 2016 Conference | August 22-23 | Johannesburg
+
+This App is your companion to the Agile Africa conference that helps you:
+• Navigate the schedule
+• See talk and speaker details to help you choose
+• Rate the talks (after the talk, please open the talk and tap your rating and optionally add a comment )
+
+Agile Africa is an annual conference where African software professionals meet to uncover better ways of working and developing software.
+
+You will get the chance to hear leading international and local speakers and more importantly, interact with professionals from various software development communities.
