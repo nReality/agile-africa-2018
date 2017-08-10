@@ -21,7 +21,7 @@
   <div *ngFor="let group of sponsors">
     <h2 text-center>{{group.groupName}}</h2>
     <div *ngFor="let sponsor of group.sponsors">
-        <a [href]="sponsor.url">
+        <a href="#" (click)="openPagInNewWindow(sponsor.url)">
             <img [src]="sponsor.imageSrc" width="200px">
         </a>
     </div>

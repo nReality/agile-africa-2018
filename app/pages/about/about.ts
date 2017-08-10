@@ -29,7 +29,7 @@ class PopoverPage {
 export class AboutPage {
   about: any;
   name: string;
-  
+
   constructor(public popoverCtrl: PopoverController, conferenceData: ConferenceData) {
     this.about = conferenceData.data.about;
     this.name = conferenceData.data.name;
@@ -38,5 +38,10 @@ export class AboutPage {
   presentPopover(event) {
     let popover = this.popoverCtrl.create(PopoverPage);
     popover.present({ ev: event });
+  }
+
+  openPagInNewWindow(link) {
+      window.open(link, "_system", "location=yes");
+      return false;
   }
 }

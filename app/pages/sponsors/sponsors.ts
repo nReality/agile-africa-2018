@@ -25,4 +25,9 @@ export class SponsorsPage {
     let popover = this.popoverCtrl.create(PopoverPage);
     popover.present({ ev: event });
   }
+
+  openPagInNewWindow(link) {
+      window.open(link, "_system", "location=yes");
+      return false;
+  }
 }

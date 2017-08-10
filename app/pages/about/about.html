@@ -23,7 +23,7 @@
       {{about.description}}
     </p>
     <h4 *ngFor="let link of about.links">
-      <a [href]="link.link" target="_blank">{{link.linkText}}</a> {{link.text}}
+      <a href="#" target="_system" (click)="openPagInNewWindow(link.link)">{{link.linkText}}</a> {{link.text}}
     </h4>
   </div>
 </ion-content>
