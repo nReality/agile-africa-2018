@@ -1176,7 +1176,7 @@
             "sponsors": [
                 {
                     "name": "JCSE",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/03/jcse_logo_rgb-280.gif",
+                    "imageSrc": "img/sponsors/jcse_logo_rgb-280.gif",
                     "url": "http://www.jcse.org.za/"
                 }
             ]
@@ -1186,7 +1186,7 @@
             "sponsors": [
                 {
                     "name": "IQ Business",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/IQBusiness-Logo.png",
+                    "imageSrc": "img/sponsors/IQBusiness-Logo.png",
                     "url": "http://www.iqbusiness.net/"
                 }
             ]
@@ -1196,12 +1196,12 @@
             "sponsors": [
                 {
                     "name": "Prodigy Finance",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Prodigy_LandscapeLogo.jpg",
+                    "imageSrc": "img/sponsors/Prodigy_LandscapeLogo.jpg",
                     "url": "http://www.prodigyfinance.com/"
                 },
                 {
                     "name": "Liberty",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Liberty.png",
+                    "imageSrc": "img/sponsors/Liberty.png",
                     "url": "http://www.liberty.co.za/"
                 }
             ]
@@ -1211,12 +1211,12 @@
             "sponsors": [
                 {
                     "name": "nReality",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/07/nReality-dark-300x79.png",
+                    "imageSrc": "img/sponsors/nReality-dark-300x79.png",
                     "url": "http://www.nreality.com/"
                 },
                 {
                     "name": "Agile 42",
-                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Agile42-e1497864739541.jpg",
+                    "imageSrc": "img/sponsors/Agile42-e1497864739541.jpg",
                     "url": "http://www.agile42.com/"
                 }
             ]
