@@ -70,9 +70,7 @@ export class UserData {
   }
 
   getConferenceData() {
-      return this.storage.get('conference-data').then(data => {
-         return JSON.parse(data);
-      });
+      return this.storage.get('conference-data');
   }
 
   // return a promise

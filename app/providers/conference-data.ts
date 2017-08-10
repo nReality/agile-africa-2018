@@ -22,7 +22,7 @@ export class ConferenceData {
                 this.downloadData(resolve);
                 return;
             }
-            this.downloadData(resolve, conferenceData);
+            this.downloadData(resolve, JSON.parse(conferenceData));
         });
     });
   }
@@ -31,21 +31,30 @@ export class ConferenceData {
       this.http.get('https://api.github.com/repos/nreality/agile-africa-2017/git/refs/heads/master')
       .subscribe(res => {
         let result = res.json();
+        console.log(result);
         let latestCommit = result.object.sha;
 
-        if (oldConferenceData && latestCommit !== oldConferenceData.version) {
-            this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
-              let conferenceData = res.json();
-              conferenceData.version = latestCommit;
-              this.user.saveConferenceData(conferenceData);
-              this.data = this.processData(conferenceData);
-              resolve(this.data);
-            });
-        } else {
+        if (oldConferenceData && latestCommit === oldConferenceData.version) {
             this.data = this.processData(oldConferenceData);
             resolve(this.data);
+        } else  {
+            this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
+              this.processResponse(res, latestCommit, resolve);
+            });
         }
-      });
+    }, error => {
+        this.http.get('data/data.json').subscribe(res => {
+            this.processResponse(res, 'offline', resolve);
+        });
+    });
+  }
+
+  processResponse(response: any, version: string, resolve: Function) {
+      let conferenceData = response.json();
+      conferenceData.version = version;
+      this.user.saveConferenceData(conferenceData);
+      this.data = this.processData(conferenceData);
+      resolve(this.data);
   }
 
   processData(data) {

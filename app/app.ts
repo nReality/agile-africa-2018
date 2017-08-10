@@ -40,8 +40,7 @@ class ConferenceApp {
     { title: 'About', component: TabsPage, icon: 'information-circle' },
     { title: 'Sponsors', component: TabsPage, icon: 'ribbon' }
   ];
-
-  rootPage: any = TabsPage;
+ rootPage: any = 'test';
 
   constructor(
     public events: Events,
@@ -65,16 +64,10 @@ class ConferenceApp {
     platform.ready().then(() => {
       StatusBar.styleDefault();
       confData.load().then(() => {
+          this.menu.enable(true, 'mainmenu');
           Splashscreen.hide();
       });
     });
-
-    // load the conference data
-
-
-
-    this.menu.enable(true, 'mainmenu');
-
   }
 
   openPage(page: PageObj) {
