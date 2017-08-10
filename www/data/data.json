@@ -83,8 +83,7 @@
                                     "about": "<p></p>",
                                     "name": "Kent Beck",
                                     "priority": 1,
-                                    "profilePic": "kent-beck.jpg",
-                                    "twitter": "@KentBeck"
+                                    "profilePic": "kent-beck.jpg"
                                 }
                             ],
                             "description": "<p></p>",
@@ -233,16 +232,16 @@
                             "date": "21st August 2017",
                             "speakers": [
                                 {
+                                    "about": "<p>Greg is a member of the BSG Business Analytics team specialising in the role of Business Domain and Business Intelligence.\nGreg has over 12 years of experience in Logistics, Financial Services, Automotive and Mining where he has gained extensive knowledge of agile project delivery in a variety of roles including:\n•         Project manager\n•         Project risk management\n•         Project assurance and compliance\n•         Business analysis\n•         Data & analytics\n•         Business intelligence and reporting</p><br><p></p>",
+                                    "name": "Greg Desilla",
+                                    "priority": 1,
+                                    "profilePic": "Greg-Desilla-email.jpg"
+                                },
+                                {
                                     "about": "<p>Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.</p><br><p>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.</p><br><p>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.</p><br><p></p>",
                                     "name": "Julia Keddie",
                                     "priority": 1,
                                     "profilePic": "Julia-Keddie-email.jpg"
-                                },
-                                {
-                                    "about": "<p>Alfred is a customer-centric IT delivery manager with a strong project management background and hands on experience in client management, technology implementation and strategy execution.</p><br><p>A senior consultant at BSG he has 10 years of experience in project management, business analysis and software development. His focus has been on financial applications and business operational efficiency projects across the banking, health and commercial real estate sectors.</p><br><p>Projects he’s worked on have focused strongly on shaping the business’ strategic objectives into pragmatic solutions and executable feature development cycles across the business and IT domain.</p><br><p>Using agile methodologies has enabled Alfred to successfully implement integrated business and ICT solutions and optimisations for many clients.</p><br><p></p>",
-                                    "name": "Alfred Mukudu",
-                                    "priority": 1,
-                                    "profilePic": "Alfred-Mukudu-email.jpg"
                                 }
                             ],
                             "description": "<p>This session is targeted at leaders in organisations who want to understand what multi-skilled delivery looks like, to enable their companies to embrace agility. An agile company requires multi-skilled delivery, which in turn requires t-shaped people.</p><br><p>A t-shaped person is cross-functionally diverse, ensuring the job will get done. They combine a breadth of knowledge with deep experience, ensuring they can work outside of their core area.</p><br><p>This talk will explore the challenges and successes that arise from multi-skilled delivery using a real life project that combined analysis, design, strategy, data science and scrum.</p><br><p></p>",
@@ -254,8 +253,8 @@
                                 "ballroom"
                             ],
                             "speakerNames": [
-                                "Julia Keddie",
-                                "Alfred Mukudu"
+                                "Greg Desilla",
+                                "Julia Keddie"
                             ]
                         }
                     ]
@@ -625,7 +624,8 @@
                                 {
                                     "about": "<p>Building the right software product in the right way is my passion. Working with teams and being part of a team that is building solutions that our users actually want or need is my commitment.\nI have 5 years of experience working in Agile teams across the banking and insurance industry in South Africa and Australia.\nI started my career as an agile business analyst then started doing a combination of BA and Iteration management. I majored in computer science and economics at the University of Witwatersrand. I currently work for a software consultancy called Khabane Majestic Consulting</p><br><p></p>",
                                     "name": "Liandra Bassiane",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "liandre.jpg"
                                 }
                             ],
                             "description": "<p>Have you ever felt like you have all this agile knowledge that will make everyone’s life much easier and your team members don’t really get it or already have preconceived ideas on how agile doesn’t work and you have a feeling they thought agile is just having stickies and a board? And you want to know more about how do you bridge this gap how do you transform your team ? Get to that Aha moment.</p><br><p>Or answer questions and have good suggestions on dealing with</p><br><p>1. Stories not being completed in Production\n2. Ping pong on requirements from testing to dev\n3. Product owner not signing off what has been built because it’s not aligned to what they want\n4. External teams out outside the agile team saying things like “That agile team and they cowgirl and cowboy methods who are they to have less governance\n5. That difficult team member who just isn’t onboard</p><br><p>and so on..</p><br><p>I want to share my learnings, knowledge, and tips on how to answer these question and how to take your team and organization through these changes so we can move from pulling hairs not understanding each other to the AHA moment we building awesome products in the best way possible</p><br><p></p>",
@@ -1026,8 +1026,7 @@
             "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
             "name": "Jacques de Vos",
             "priority": 1,
-            "profilePic": "Jacques.jpg",
-            "twitter": "@jacdevos"
+            "profilePic": "Jacques.jpg"
         },
         {
             "about": "<p>Travis is the Agile Practice Manager at Chillisoft. He has spent the last 11 years traveling and working around the world in various countries.\nHe is passionate about software quality management, craftsmanship and leadership.\nHe serves on the board of Open Data Durban, a non-profit civic technology lab and is an active member of the Durban software development community.</p><br><p></p>",
@@ -1043,7 +1042,8 @@
         {
             "about": "<p>Building the right software product in the right way is my passion. Working with teams and being part of a team that is building solutions that our users actually want or need is my commitment.\nI have 5 years of experience working in Agile teams across the banking and insurance industry in South Africa and Australia.\nI started my career as an agile business analyst then started doing a combination of BA and Iteration management. I majored in computer science and economics at the University of Witwatersrand. I currently work for a software consultancy called Khabane Majestic Consulting</p><br><p></p>",
             "name": "Liandra Bassiane",
-            "priority": 1
+            "priority": 1,
+            "profilePic": "liandre.jpg"
         },
         {
             "about": "<p>I am a father and a husband with a passion for reading, MMA, English football and science fiction. I refer to myself as recovering traditional leader with a focus on developing high performing people,teams and organisation’s. Having spent the last 15 years in financial technology in Africa and have had the privilege of having a diverse career leading departments across  networks, distributed technologies, end user technologies within 12 African countries which has exposed me to all facets of a large enterprise. In the last few years I have been focused on business strategy and leadership and through my current role as the head of Agile transformation and strategy, have been driving a new way of thinking and radical management within my organisation. I received my MBA from GIBS with a specialisation in people and basic psychological needs within the workplace providing me a better understanding into intrinsic motivation and how to structure organisation’s to support the right culture.</p><br><p></p>",
@@ -1147,16 +1147,16 @@
             "priority": 1
         },
         {
+            "about": "<p>Greg is a member of the BSG Business Analytics team specialising in the role of Business Domain and Business Intelligence.\nGreg has over 12 years of experience in Logistics, Financial Services, Automotive and Mining where he has gained extensive knowledge of agile project delivery in a variety of roles including:\n•         Project manager\n•         Project risk management\n•         Project assurance and compliance\n•         Business analysis\n•         Data & analytics\n•         Business intelligence and reporting</p><br><p></p>",
+            "name": "Greg Desilla",
+            "priority": 1,
+            "profilePic": "Greg-Desilla-email.jpg"
+        },
+        {
             "about": "<p>Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.</p><br><p>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.</p><br><p>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.</p><br><p></p>",
             "name": "Julia Keddie",
             "priority": 1,
             "profilePic": "Julia-Keddie-email.jpg"
-        },
-        {
-            "about": "<p>Alfred is a customer-centric IT delivery manager with a strong project management background and hands on experience in client management, technology implementation and strategy execution.</p><br><p>A senior consultant at BSG he has 10 years of experience in project management, business analysis and software development. His focus has been on financial applications and business operational efficiency projects across the banking, health and commercial real estate sectors.</p><br><p>Projects he’s worked on have focused strongly on shaping the business’ strategic objectives into pragmatic solutions and executable feature development cycles across the business and IT domain.</p><br><p>Using agile methodologies has enabled Alfred to successfully implement integrated business and ICT solutions and optimisations for many clients.</p><br><p></p>",
-            "name": "Alfred Mukudu",
-            "priority": 1,
-            "profilePic": "Alfred-Mukudu-email.jpg"
         },
         {
             "about": "<p>I exist in a world of creative people, disruptive technologies and innovation, with a software engineering background from and an extensive working career, I ultimately still help organizations fail fast and learn!\nI’m a Software Engineering Manager at ABSA, I’m involved in the DevOps transformation journey and assist teams to adopt new ways of working. I also coach Lean/Agile principles, the value of DevOps, DevOps Culture and Software Engineering Principles. I previously worked extensively as an Agile Coach and Scrum Master helping teams deliver valuable software.\nI’m inspired by people and product teams that make awesome software for their customers, I’m excited to share my journey and learning to the rest of Chef\ncommunity.</p><br><p></p>",
@@ -1173,43 +1173,53 @@
     "sponsors": [
         {
             "groupName": "Title Sponsor",
-            "sponsors": [{
-                "name": "JCSE",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/03/jcse_logo_rgb-280.gif",
-                "url": "http://www.jcse.org.za/"
-            }]
+            "sponsors": [
+                {
+                    "name": "JCSE",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/03/jcse_logo_rgb-280.gif",
+                    "url": "http://www.jcse.org.za/"
+                }
+            ]
         },
         {
             "groupName": "Diamond Sponsor",
-            "sponsors": [{
-                "name": "IQ Business",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/IQBusiness-Logo.png",
-                "url": "http://www.iqbusiness.net/"
-            }]
+            "sponsors": [
+                {
+                    "name": "IQ Business",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/IQBusiness-Logo.png",
+                    "url": "http://www.iqbusiness.net/"
+                }
+            ]
         },
         {
             "groupName": "Gold Sponsors",
-            "sponsors": [{
-                "name": "Prodigy Finance",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Prodigy_LandscapeLogo.jpg",
-                "url": "http://www.prodigyfinance.com/"
-            }, {
-                "name": "Liberty",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Liberty.png",
-                "url": "http://www.liberty.co.za/"
-            }]
+            "sponsors": [
+                {
+                    "name": "Prodigy Finance",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Prodigy_LandscapeLogo.jpg",
+                    "url": "http://www.prodigyfinance.com/"
+                },
+                {
+                    "name": "Liberty",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Liberty.png",
+                    "url": "http://www.liberty.co.za/"
+                }
+            ]
         },
         {
             "groupName": "Silver Sponsors",
-            "sponsors": [{
-                "name": "nReality",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/07/nReality-dark-300x79.png",
-                "url": "http://www.nreality.com/"
-            }, {
-                "name": "Agile 42",
-                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Agile42-e1497864739541.jpg",
-                "url": "http://www.agile42.com/"
-            }]
+            "sponsors": [
+                {
+                    "name": "nReality",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/07/nReality-dark-300x79.png",
+                    "url": "http://www.nreality.com/"
+                },
+                {
+                    "name": "Agile 42",
+                    "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Agile42-e1497864739541.jpg",
+                    "url": "http://www.agile42.com/"
+                }
+            ]
         }
     ],
     "map": [
