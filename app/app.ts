@@ -64,11 +64,13 @@ class ConferenceApp {
     // Call any initial plugins when ready
     platform.ready().then(() => {
       StatusBar.styleDefault();
-      Splashscreen.hide();
+      confData.load().then(() => {
+          Splashscreen.hide();
+      });
     });
 
     // load the conference data
-    confData.load();
+
 
 
     this.menu.enable(true, 'mainmenu');

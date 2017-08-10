@@ -65,6 +65,16 @@ export class UserData {
     });
   }
 
+  saveConferenceData(data) {
+      this.storage.set('conference-data', JSON.stringify(data));
+  }
+
+  getConferenceData() {
+      return this.storage.get('conference-data').then(data => {
+         return JSON.parse(data);
+      });
+  }
+
   // return a promise
   hasLoggedIn() {
     return this.storage.get(this.HAS_LOGGED_IN).then((value) => {
