@@ -5,32 +5,17 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.00222">
+      <testcase classname="fastlane.lanes" name="0: Verifying required fastlane version" time="0.011208">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.002258">
+      <testcase classname="fastlane.lanes" name="1: default_platform" time="0.001455">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="2: ../ionic build ios" time="17.990108">
-        
-      </testcase>
-    
-      
-      <testcase classname="fastlane.lanes" name="3: match" time="16.078848">
-        
-      </testcase>
-    
-      
-      <testcase classname="fastlane.lanes" name="4: gym" time="16.466847">
-        
-      </testcase>
-    
-      
-      <testcase classname="fastlane.lanes" name="5: pilot" time="1149.020099">
+      <testcase classname="fastlane.lanes" name="2: ../ionic build ios" time="6.100644">
         
       </testcase>
     

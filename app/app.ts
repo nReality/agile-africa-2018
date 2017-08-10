@@ -51,11 +51,11 @@ class ConferenceApp {
     confData: ConferenceData
   ) {
     var config = {
-      apiKey: "AIzaSyBJpyz1Y4ueO2dqqT2iNobdCSdTb3dHpBQ",
-      authDomain: "scrum-gathering-sa-2016-80aef.firebaseapp.com",
-      databaseURL: "https://scrum-gathering-sa-2016-80aef.firebaseio.com",
-      storageBucket: "scrum-gathering-sa-2016-80aef.appspot.com",
-      messagingSenderId: "908541757826"
+      apiKey: "AIzaSyByXyIgWx9_jKNEYvnCpglS8tdY912fGRA",
+      authDomain: "agile-africa-fa653.firebaseapp.com",
+      databaseURL: "https://agile-africa-fa653.firebaseio.com/",
+      storageBucket: "agile-africa-fa653",
+      messagingSenderId: "816289217843"
     };
 
     firebase.initializeApp(config);

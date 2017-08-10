@@ -37,10 +37,10 @@ export class SessionDetailPage {
   }
 
   restoreState(){
-    this.local.get(this.session.name).then((data) => {
+    this.local.get(this.session.name + '-rating').then((data) => {
       var storedRating = JSON.parse(data);
 
-      if(data){
+      if(data) {
         this.onRate(storedRating.value);
         this.comment = storedRating.comment;
       }
@@ -55,7 +55,7 @@ export class SessionDetailPage {
   postRating(session){
     var deviceId = Device.device.uuid || Date.now();
     firebase.database().ref(session.name + '/' + deviceId).set({value: this._rating, comment:(this.comment || "")});
-    this.local.set(session.name, JSON.stringify({value: this._rating, comment: this.comment}));
+    this.local.set(session.name + '-rating', JSON.stringify({value: this._rating, comment: this.comment}));
 
     this.showSuccess();
   }
