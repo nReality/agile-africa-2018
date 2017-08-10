@@ -21,11 +21,12 @@
   <div *ngFor="let group of sponsors">
     <h2 text-center>{{group.groupName}}</h2>
     <div *ngFor="let sponsor of group.sponsors">
-        <h4 text-center>{{sponsor.name}}</h4>
+        <!-- <h4 text-center>{{sponsor.name}}</h4> -->
         <a [href]="sponsor.url">
-            <img [src]="sponsor.imageSrc">
+            <img [src]="sponsor.imageSrc" width="200px">
         </a>
     </div>
+    <hr />
   </div>
  <br/>
   <h6 text-center>This hybrid app is an open source contribution by <a href="#"onclick="window.open('http://www.nreality.com/', '_system', 'location=yes'); return false;">nReality</a> based on <a href="#" onclick="window.open('https://github.com/driftyco/ionic-conference-app', '_system', 'location=yes'); return false;">Driftyco's Ionic 2 demo</a>. Feel free to fork it for your own conference or send us a pull request to modify at
