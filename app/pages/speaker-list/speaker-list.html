@@ -18,7 +18,7 @@
         </ion-avatar>
         <h2> {{speaker.name}}</h2>
 
-        <button twitter (click)="goToSpeakerTwitter(speaker)" clear item-right>
+        <button twitter (click)="goToSpeakerTwitter(speaker)" clear item-right *ngIf="speaker.twitter">
           <ion-icon name="logo-twitter"></ion-icon>
           Tweet
         </button>

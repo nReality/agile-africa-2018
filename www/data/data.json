@@ -83,7 +83,8 @@
                                     "about": "<p></p>",
                                     "name": "Kent Beck",
                                     "priority": 1,
-                                    "profilePic": "kent-beck.jpg"
+                                    "profilePic": "kent-beck.jpg",
+                                    "twitter": "@KentBeck"
                                 }
                             ],
                             "description": "<p></p>",
@@ -1025,7 +1026,8 @@
             "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
             "name": "Jacques de Vos",
             "priority": 1,
-            "profilePic": "Jacques.jpg"
+            "profilePic": "Jacques.jpg",
+            "twitter": "@jacdevos"
         },
         {
             "about": "<p>Travis is the Agile Practice Manager at Chillisoft. He has spent the last 11 years traveling and working around the world in various countries.\nHe is passionate about software quality management, craftsmanship and leadership.\nHe serves on the board of Open Data Durban, a non-profit civic technology lab and is an active member of the Durban software development community.</p><br><p></p>",
@@ -1170,9 +1172,44 @@
     ],
     "sponsors": [
         {
-            "name": "Awesome Company",
-            "imageSrc": "https://robohash.org/awesome",
-            "url": "https://robohash.org"
+            "groupName": "Title Sponsor",
+            "sponsors": [{
+                "name": "JCSE",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/03/jcse_logo_rgb-280.gif",
+                "url": "http://www.jcse.org.za/"
+            }]
+        },
+        {
+            "groupName": "Diamond Sponsor",
+            "sponsors": [{
+                "name": "IQ Business",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/IQBusiness-Logo.png",
+                "url": "http://www.iqbusiness.net/"
+            }]
+        },
+        {
+            "groupName": "Gold Sponsors",
+            "sponsors": [{
+                "name": "Prodigy Finance",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Prodigy_LandscapeLogo.jpg",
+                "url": "http://www.prodigyfinance.com/"
+            }, {
+                "name": "Liberty",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Liberty.png",
+                "url": "http://www.liberty.co.za/"
+            }]
+        },
+        {
+            "groupName": "Silver Sponsors",
+            "sponsors": [{
+                "name": "nReality",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/07/nReality-dark-300x79.png",
+                "url": "http://www.nreality.com/"
+            }, {
+                "name": "Agile 42",
+                "imageSrc": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Agile42-e1497864739541.jpg",
+                "url": "http://www.agile42.com/"
+            }]
         }
     ],
     "map": [

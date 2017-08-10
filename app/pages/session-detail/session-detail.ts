@@ -75,12 +75,22 @@ export class SessionDetailPage {
   }
 
   goToTwitter(speakers) {
-    var speakerstring = ""
-    for (var speaker of speakers) {
-        speakerstring += speaker.twitter + " "
-    }
+      let speakerstring = this.getTwitterString(speakers);
     //window.open(`https://twitter.com/share?text=` + sessionName);
       this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
+  }
+
+  hasTwitterAccounts(speakers) {
+      let speakerstring = this.getTwitterString(speakers);
+      return speakerstring.replace(/undefined/g, "").trim() || false;
+  }
+
+  getTwitterString(speakers) {
+      var speakerstring = ""
+      for (var speaker of speakers) {
+          speakerstring += speaker.twitter + " "
+      }
+      return speakerstring;
   }
 
   getSpeakerImage(speaker) {

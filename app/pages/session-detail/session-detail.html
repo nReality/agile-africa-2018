@@ -31,7 +31,7 @@
         {{speaker.name}}
       </button>
       <br/>
-      <button clear twitter (click)="goToTwitter(session.speakers)"><ion-icon name="logo-twitter"></ion-icon>Tweet</button>
+      <button clear twitter (click)="goToTwitter(session.speakers)" *ngIf="hasTwitterAccounts(session.speakers)"><ion-icon name="logo-twitter"></ion-icon>Tweet</button>
     </center>
 
     <h2 text-center>{{session.date}}</h2>
