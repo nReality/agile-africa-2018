@@ -53,8 +53,9 @@ class ConferenceApp {
     var config = {
       apiKey: "AIzaSyByXyIgWx9_jKNEYvnCpglS8tdY912fGRA",
       authDomain: "agile-africa-fa653.firebaseapp.com",
-      databaseURL: "https://agile-africa-fa653.firebaseio.com/",
-      storageBucket: "agile-africa-fa653",
+      databaseURL: "https://agile-africa-fa653.firebaseio.com",
+      projectId: "agile-africa-fa653",
+      storageBucket: "agile-africa-fa653.appspot.com",
       messagingSenderId: "816289217843"
     };
 
