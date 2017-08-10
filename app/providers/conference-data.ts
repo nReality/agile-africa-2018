@@ -28,6 +28,22 @@ export class ConferenceData {
   }
 
   downloadData(resolve: Function, oldConferenceData?:any) {
+      if (oldConferenceData) {
+          this.data = this.processData(oldConferenceData);
+          resolve(this.data);
+      }
+
+      let fallback = () => {
+          if (oldConferenceData) {
+              return;
+          }
+
+          console.log('loading failed, loading local data');
+          this.http.get('data/data.json').subscribe(res => {
+              this.processResponse(res, 'offline', resolve);
+          });
+      }
+
       this.http.get('https://api.github.com/repos/nreality/agile-africa-2017/git/refs/heads/master')
       .subscribe(res => {
         let result = res.json();
@@ -36,21 +52,16 @@ export class ConferenceData {
 
         if (oldConferenceData && latestCommit === oldConferenceData.version) {
             console.log('data still fine, using saved data');
-            this.data = this.processData(oldConferenceData);
-            resolve(this.data);
-        } else  {
+        } else {
             console.log('data outdated, loading new');
             this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
               this.processResponse(res, latestCommit, resolve);
-            });
+          }, fallback);
         }
-    }, error => {
-        console.log('loading failed, loading local data');
-        this.http.get('data/data.json').subscribe(res => {
-            this.processResponse(res, 'offline', resolve);
-        });
-    });
+    }, fallback);
   }
+
+
 
   processResponse(response: any, version: string, resolve: Function) {
       let conferenceData = response.json();
