@@ -39,7 +39,7 @@ export class SchedulePage {
     public user: UserData
   ) {
 
-    this.confData.data?.locations.forEach(location => {
+    this.confData.data.locations.forEach(location => {
           this.locations.push({
             name: location.name,
             id: location.id,

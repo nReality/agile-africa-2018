@@ -40,7 +40,7 @@ class ConferenceApp {
     { title: 'About', component: TabsPage, icon: 'information-circle' },
     { title: 'Sponsors', component: TabsPage, icon: 'ribbon' }
   ];
- rootPage: any = 'test';
+ rootPage: any;
 
   constructor(
     public events: Events,
@@ -64,6 +64,8 @@ class ConferenceApp {
     platform.ready().then(() => {
       StatusBar.styleDefault();
       confData.load().then(() => {
+          console.log('data loaded');
+          this.rootPage = TabsPage;
           this.menu.enable(true, 'mainmenu');
           Splashscreen.hide();
       });

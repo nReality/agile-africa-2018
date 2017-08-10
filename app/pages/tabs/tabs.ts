@@ -16,18 +16,9 @@ export class TabsPage {
   tab2Root: any = SpeakerListPage;
   tab4Root: any = AboutPage;
   tab3Root: any = SponsorsPage;
-  tab5Root: any = BlankPage;
   mySelectedIndex: number;
 
   constructor(navParams: NavParams) {
     this.mySelectedIndex = navParams.data.tabIndex;
-  }
-}
-
-@Component({
-  template: '<span>Blank</span>'
-})
-export class BlankPage {
-  constructor() {
   }
 }

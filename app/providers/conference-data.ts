@@ -35,14 +35,17 @@ export class ConferenceData {
         let latestCommit = result.object.sha;
 
         if (oldConferenceData && latestCommit === oldConferenceData.version) {
+            console.log('data still fine, using saved data');
             this.data = this.processData(oldConferenceData);
             resolve(this.data);
         } else  {
+            console.log('data outdated, loading new');
             this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
               this.processResponse(res, latestCommit, resolve);
             });
         }
     }, error => {
+        console.log('loading failed, loading local data');
         this.http.get('data/data.json').subscribe(res => {
             this.processResponse(res, 'offline', resolve);
         });
