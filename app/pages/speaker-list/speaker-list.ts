@@ -33,8 +33,8 @@ export class SpeakerListPage {
   }
 
   getSpeakerImage(speaker) {
-    var imageName = speaker.profilePic ? speaker.profilePic : "no-image-head.png";
-    return 'img/speakers/' + imageName;
+    var imageName = speaker.profilePic ? speaker.profilePic : "img/speakers/no-image-head.png";
+    return  imageName;
   }
 
   openSpeakerShare(speaker) {

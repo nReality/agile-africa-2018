@@ -67,7 +67,7 @@
                                     "about": "<p></p>",
                                     "name": "Kent Beck",
                                     "priority": 1,
-                                    "profilePic": "kent-beck.jpg"
+                                    "profilePic": "img/speakers/kent-beck.jpg"
                                 }
                             ],
                             "description": "<p></p>",
@@ -128,7 +128,7 @@
                                     "about": "<p>Simplifier-in-Chief for KRS software. An early female entrepreneur, with a love of software and people, and how both mix to solve problems.</p><br><p></p>",
                                     "name": "Lorraine Steyn",
                                     "priority": 1,
-                                    "profilePic": "Lorraine.jpg"
+                                    "profilePic": "img/speakers/Lorraine.jpg"
                                 }
                             ],
                             "description": "<p>Product Owners are critical in an Agile team: they are the primary link between business and developers. But the role, as defined in Scrum, expects so much of the Product Owner that we could rather wish for unicorns!</p><br><p>This interactive workshop will explore the Product Owner role, and guide you to your own decisions on how to make the role work for your team.</p><br><p></p>",
@@ -150,7 +150,7 @@
                                     "about": "<p>Don Gray’s quest to answer “What is the earliest indicator for a project’s status?” has led him to focus on such diverse topics as communication, personality types, team styles, systems thinking and human systems dynamics. For more than 30 years, his clients have ranged from small startups to Fortune 50 involving manufacturing, pharmaceuticals, financial, engineering and telecommunications. Don’s varied interests and client experience provides a platform for helping clients introduce and work through change as they transition to agile development practices. With Esther Derby, he facilitates the Coaching Beyond the Team and Problem-Solving Leadership workshops. Don occasionally writes articles that can be found in STQE, Better Software and on StickyMinds. He contributed to “Readings for Problem-Solving Leadership” and “Center Enter Turn Sustain – Essays on Change Artistry”. His blog can be found at www.donaldegray.com</p><br><p></p>",
                                     "name": "Don Gray",
                                     "priority": 1,
-                                    "profilePic": "don-gray.png"
+                                    "profilePic": "img/speakers/don-gray.png"
                                 }
                             ],
                             "description": "<p>“Why doesn’t my manager listen when I explain the details?”</p><br><p>“Why doesn’t the developer just give me what I ask for?”</p><br><p>If you’ve ever heard these complaints—or made them–you’re not alone. Questions like these are a symptom of incongruent communication. Incongruent communication happens every day a variety of reasons.</p><br><p>In this session we’ll explore the Satir Interaction Model, Congruence and how they combine (or not) creating congruent communication. Additionally we’ll consider how metaphors limit solutions and acceptable actions when problem solving.</p><br><p></p>",
@@ -219,13 +219,13 @@
                                     "about": "<p>Greg is a member of the BSG Business Analytics team specialising in the role of Business Domain and Business Intelligence.\nGreg has over 12 years of experience in Logistics, Financial Services, Automotive and Mining where he has gained extensive knowledge of agile project delivery in a variety of roles including:\n•         Project manager\n•         Project risk management\n•         Project assurance and compliance\n•         Business analysis\n•         Data & analytics\n•         Business intelligence and reporting</p><br><p></p>",
                                     "name": "Greg Desilla",
                                     "priority": 1,
-                                    "profilePic": "Greg-Desilla-email.jpg"
+                                    "profilePic": "img/speakers/Greg-Desilla-email.jpg"
                                 },
                                 {
                                     "about": "<p>Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.</p><br><p>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.</p><br><p>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.</p><br><p></p>",
                                     "name": "Julia Keddie",
                                     "priority": 1,
-                                    "profilePic": "Julia-Keddie-email.jpg"
+                                    "profilePic": "img/speakers/Julia-Keddie-email.jpg"
                                 }
                             ],
                             "description": "<p>This session is targeted at leaders in organisations who want to understand what multi-skilled delivery looks like, to enable their companies to embrace agility. An agile company requires multi-skilled delivery, which in turn requires t-shaped people.</p><br><p>A t-shaped person is cross-functionally diverse, ensuring the job will get done. They combine a breadth of knowledge with deep experience, ensuring they can work outside of their core area.</p><br><p>This talk will explore the challenges and successes that arise from multi-skilled delivery using a real life project that combined analysis, design, strategy, data science and scrum.</p><br><p></p>",
@@ -321,7 +321,7 @@
                                     "about": "<p>Simon is a Technical Product Lead at Platform45, interested in everything software from design & development to machine learning. On his journey, Simon loves sharing his learnings, and has given a couple talks in South Africa and the USA. Catch him on Github (@sighmin), or at simonvandyk.co.za.</p><br><p></p>",
                                     "name": "Simon van Dyk",
                                     "priority": 1,
-                                    "profilePic": "simon.jpg"
+                                    "profilePic": "img/speakers/simon.jpg"
                                 }
                             ],
                             "description": "<p>Platform45 has long believed that it’s at the intersection of technology and the liberal arts that real change happens. We’ve made mistakes in how we manage projects and our workforce. We’re by no means a perfect company, but over the years we have learnt valuable lessons. We’ve learnt to embrace Agile principles and later stumble upon it’s practices. We’ve learnt about how to grow the role of design and collaboration in our company, and how to efficiently scale beyond our size using these techniques. This is the telling of Platform45’s Agile Design and Development story. Find out more at platform45.com.</p><br><p></p>",
@@ -348,13 +348,13 @@
                                     "about": "<p></p>",
                                     "name": "Sam Laing",
                                     "priority": 1,
-                                    "profilePic": "Sam_ATD.jpg"
+                                    "profilePic": "img/speakers/Sam_ATD.jpg"
                                 },
                                 {
                                     "about": "<p>I currently work at Jumo as an Agile Lead and as a volunteer committee member for Scrum User Group South Africa (SUGSA). I think the most amazing thing about me is that I became a scrum master by “accident” but now I can’t imagine doing anything else. I really love finding new ways to encourage collaboration and transparency and hope to always learn new things.</p><br><p></p>",
                                     "name": "Jay-Allen Morris",
                                     "priority": 1,
-                                    "profilePic": "JAY-ALLEN-MORRIS-1.jpg"
+                                    "profilePic": "img/speakers/JAY-ALLEN-MORRIS-1.jpg"
                                 }
                             ],
                             "description": "<p>Sometimes it can feel as if we do retrospectives just because it’s “the agile thing to do” and occasionally, feel as if they have lost their value and purpose or have become boring. This is a 90 minute interactive session where we will explore together the importance of the 5 phases of retrospectives by participating in one. Instead of learning how to do a retrospective through theory, participants will learn by doing. This session is aimed and inexperienced and experienced scrum masters, facilitators or anyone involved in facilitating retrospectives. You’re welcome to join even if you just want to play with lego and learn something new.</p><br><p></p>",
@@ -382,7 +382,7 @@
                                     "about": "<p>Joshua is an experienced Agile and Developer coach. He also lectures part-time at a post-graduate level.</p><br><p></p>",
                                     "name": "Joshua Lewis",
                                     "priority": 1,
-                                    "profilePic": "Josh.jpg"
+                                    "profilePic": "img/speakers/Josh.jpg"
                                 }
                             ],
                             "description": "<p>Do your product managers, developers and testers have different interprations and understanding of the requirements of your software systems? Many organisations struggle to achieve a single, shared understanding of what problem they’re trying to solve with their software, and how they actually expect their software systems to behave. This leads to much wasted time and effort in the software development process. During my coaching and training I have developed a practice designed for whole-team collaborative exploration and specification of expected system behaviour. The practice leads to shared understanding across entire teams, as well as lightweight documentation which can be easily turned into automated tests.</p><br><p></p>",
@@ -405,7 +405,7 @@
                                     "about": "<p>Sonja partners with leaders and other practitioners to enable responsive and agile organisations and make sense of complex problems like culture and change. She does this through the use of pioneering ideas and tools from complexity theory and narrative practice. Her expertise lies in enabling environments in organisations where thinking and behaviour shifts toward greater strategic agility and resilience. Focus areas include: enabling change resilience; effective strategy execution; devolved decision-making; sense-making; and culture.</p><br><p>Sonja has over 15 years experience consulting locally and internationally. Prior to founding More Beyond, she consulted for PWC and IBM. She is the exclusive South African partner for Prof Dave Snowden’s company Cognitive Edge and supplies training in their open source methods; the Cynefin sense-making framework as well as the Sensemaker software suite.</p><br><p></p>",
                                     "name": "Sonja Blignaut",
                                     "priority": 1,
-                                    "profilePic": "Sonja-sml.jpg"
+                                    "profilePic": "img/speakers/Sonja-sml.jpg"
                                 }
                             ],
                             "description": "<p>In today’s VUCA world, organisations are on a quest to become more agile and responsive. The Agile community has found themselves at the “spearhead”, and as the ideas mature, questions around scaling beyond small teams and beyond IT have become pertinent and in many cases seem intractable.</p><br><p>In this session we will go back to first principles and explore what we can learn from others who thrive in uncertainty and who seem to have perfected not only agility but responsiveness. We will apply ideas from complexity thinking and explore principles from the arts, the armed forces and sports teams. The focus will be on enabling strategic agility and responsiveness, not implementing Agile. We will also explore how this has been practically implemented in real client environments.</p><br><p></p>",
@@ -432,7 +432,7 @@
                                     "about": "<p>Rouan Wilsenach is a software developer. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He now works remotely for Tes, where he builds full-stack JavaScript microservices to help teachers and schools.</p><br><p></p>",
                                     "name": "Rouan Wilsenach",
                                     "priority": 1,
-                                    "profilePic": "Rouan.jpg"
+                                    "profilePic": "img/speakers/Rouan.jpg"
                                 }
                             ],
                             "description": "<p>Things always go wrong in production, but this doesn’t have to be a bad thing. It’s an opportunity to learn about your system and the real world with which it interacts. Rouan will show you how to build a set of feedback mechanisms that help you find out about issues as they happen and ship fixes quickly. Using real examples, he’ll walk you through how they use metrics, logging, auditing and alerting to support tes.com and move fast. He’ll show you which tests to throw away and what to put in their place. He’ll guide you to finding the right balance of pre-production and production quality practices, so that you can gain a more realistic and holistic understanding of the quality of your system.</p><br><p></p>",
@@ -454,7 +454,7 @@
                                     "about": "<p>My corporate role is as an Agile Coach within Standard Bank, however my focus and passion is more towards shifting mental models and how people show up so that they actively support and generate Agility (with detours to Kanban and visualisation – if you can’t see it (behaviour included), you seldom talk about it or change it). My goal is to find ways to find ways to generate tools that allow us as Agile coaches to practically and effectively engage with behaviour that often gets in the way of adopting Agile.\nI both facilitate this on our internal Servant Leadership labs as well as coach this as a new way of behaving in stand up’s, other ceremonies and one-on-one coaching sessions that allow individuals to explore their mindsets.\nMy passion for understanding and shifting mind-sets and behaviour started when I was able to shift my own thinking and so acquire the Guinness World Record for the Deepest Dive by a woman.</p><br><p></p>",
                                     "name": "Verna van Schaik",
                                     "priority": 1,
-                                    "profilePic": "Verna2017.jpg"
+                                    "profilePic": "img/speakers/Verna2017.jpg"
                                 }
                             ],
                             "description": "<p>This session is targeted at Coaches and Leaders who are struggling with getting people to think Agile and so behave in an Agile manner. In particular, how do you get managers at all levels to shift out of the old waterfall way of thinking and behaving and really adopt Agile ? How do you get feature teams to be autonomous and self-managing ?\nWe know we need to address the behaviour and cultures that are thwarting Agility, but are stuck on the ‘how ? ’ As organisations and coaches, it is easy to coach only at a process level in the hope that by focusing people on ‘doing’ Agile they will start to ‘think’ Agile. In so doing, we often actively avoid focusing on the people and how they are engaging with Agile, believing that this is a specialized field outside of our scope and limited to people like therapists & professional coaches. This often results in a high demand and dependence on Agile coaches to ensure people stick to the processes and principles.\nAt its core, Agile is a shift away from unilateral control. Only unilateral control is a way of being that is deeply embedded within us (leaders and followers alike) and so hard to shift without a conscious intervention.\nWithin Standard Bank we have been implementing a Behaviour Laboratory run internally by IT resources that focuses on a new style of leadership – the mutual learning model. Introduced by Roger Schwartz in his book “The Skilled Facilitator”, mutual learning and its ground rules for collaboration create strong support for Agile and SAFE implementation at an individual level and in so doing, allows us to create and actively support an environment and behaviours that sustain the agile culture shift.</p><br><p></p>",
@@ -476,7 +476,7 @@
                                     "about": "<p>Cara is the COO and Agile Coach at Project codeX, a disruptive education initiative that equips aspiring coders with high quality skills and experience, while bridging the digital divide.</p><br><p>Her ultimate goal is for us all to find the work we love doing, and build a better future doing it. Having spent years helping teams adopt agile practices that reduce risk and increase workplace happiness, she now helps aspiring coders to discover and follow their tech passions, on their journey to become agile software developers.</p><br><p>She has an insatiable love of learning, and cares deeply about sharing knowledge to build stronger communities and foster greater diversity in the software world.</p><br><p></p>",
                                     "name": "Cara Turner",
                                     "priority": 1,
-                                    "profilePic": "cara-turner.jpg"
+                                    "profilePic": "img/speakers/cara-turner.jpg"
                                 }
                             ],
                             "description": "<p>Diversity is much-praised for fostering healthier and more innovative workplaces. But whichever way you slice ‘diversity’, the majority of our teams reflect one demographic, and simply adding “a diverse hire” won’t magically produce these results. So are the claims true? If so, what else do we need to do?\nThrough our time training and placing coders from widely differing backgrounds we’ve had to get to grips with the realities of integrating teams.</p><br><p>This talk looks at the importance of inclusive practices and explores the link with quality and innovation. We also investigate some of the unconscious biases and infrastructure challenges that reinforce exclusion.\nWith collaboration at their heart, agile teams are best placed to promote inclusion. How can we extend agile practices to place conscious attention on creating connections and to build truly healthy, demographically representative teams?</p><br><p></p>",
@@ -562,13 +562,13 @@
                                     "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
                                     "name": "Ryan Ripley",
                                     "priority": 1,
-                                    "profilePic": "ryan-ripley.png"
+                                    "profilePic": "img/speakers/ryan-ripley.png"
                                 },
                                 {
                                     "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
                                     "name": "Faye Thompson",
                                     "priority": 1,
-                                    "profilePic": "Faye-Thompson.jpg"
+                                    "profilePic": "img/speakers/Faye-Thompson.jpg"
                                 }
                             ],
                             "description": "<p>Does your team optimize their learning opportunities?  Is it safe to explore, experiment and fail?  Are you looking for some ideas on getting your team ‘unstuck’?  Bring your questions, as you are the product owner to this conversation about celebrating curiosity, becoming more agile and fostering an environment that allows your team to succeed. Leveraging the power of the crowd, we will address the questions of the room and facilitate a whole-conference conversation.</p><br><p></p>",
@@ -609,7 +609,7 @@
                                     "about": "<p>Building the right software product in the right way is my passion. Working with teams and being part of a team that is building solutions that our users actually want or need is my commitment.\nI have 5 years of experience working in Agile teams across the banking and insurance industry in South Africa and Australia.\nI started my career as an agile business analyst then started doing a combination of BA and Iteration management. I majored in computer science and economics at the University of Witwatersrand. I currently work for a software consultancy called Khabane Majestic Consulting</p><br><p></p>",
                                     "name": "Liandra Bassiane",
                                     "priority": 1,
-                                    "profilePic": "liandre.jpg"
+                                    "profilePic": "img/speakers/liandre.jpg"
                                 }
                             ],
                             "description": "<p>Have you ever felt like you have all this agile knowledge that will make everyone’s life much easier and your team members don’t really get it or already have preconceived ideas on how agile doesn’t work and you have a feeling they thought agile is just having stickies and a board? And you want to know more about how do you bridge this gap how do you transform your team ? Get to that Aha moment.</p><br><p>Or answer questions and have good suggestions on dealing with</p><br><p>1. Stories not being completed in Production\n2. Ping pong on requirements from testing to dev\n3. Product owner not signing off what has been built because it’s not aligned to what they want\n4. External teams out outside the agile team saying things like “That agile team and they cowgirl and cowboy methods who are they to have less governance\n5. That difficult team member who just isn’t onboard</p><br><p>and so on..</p><br><p>I want to share my learnings, knowledge, and tips on how to answer these question and how to take your team and organization through these changes so we can move from pulling hairs not understanding each other to the AHA moment we building awesome products in the best way possible</p><br><p></p>",
@@ -652,7 +652,7 @@
                                     "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
                                     "name": "Ryan Ripley",
                                     "priority": 1,
-                                    "profilePic": "ryan-ripley.png"
+                                    "profilePic": "img/speakers/ryan-ripley.png"
                                 }
                             ],
                             "description": "<p>#NoEstimates is a critical look at how estimates are used in the software industry.</p><br><p>When will you deliver that feature? How much will this project cost? Which features can I have in 4 weeks? All reasonable questions that both management and customers want addressed. Traditionally, we’ve used estimates to provide such answer.</p><br><p>The problem: estimates can turn in to commitments, dollars get spent based on misinformation, features end up misaligned with business needs, and all parties involved end up feeling misled and frustrated.</p><br><p>The key question is: Can we still make decisions without traditional estimates?</p><br><p>To answer this question, we will explore how teams can use #NoEstimates thinking to meet the needs of their stakeholders, how to maintain alignment without estimates, and pragmatic ways to move the focus from estimates to metrics and measures that enable teams to deliver high quality products that delight their customers.</p><br><p></p>",
@@ -679,7 +679,7 @@
                                     "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
                                     "name": "Jacques de Vos",
                                     "priority": 1,
-                                    "profilePic": "Jacques.jpg"
+                                    "profilePic": "img/speakers/Jacques.jpg"
                                 }
                             ],
                             "description": "<p>Treating your mature enterprise product carelessly will get your business into deep trouble, but gold plating a new product, before you are sure that you are building the right thing, is extremely wasteful.</p><br><p>Although this might seem like common sense, most debates about software practices are still based on the assumption that there is one best practice for all contexts. It took us few failed software product startups and unstable mature products to learn this, and how to adjust our way of work, depending on the business context.</p><br><p>This idea has finally been expressed by a few prominent thinkers, like:\n• Kent Beck’s 3X\n• Simon Wardley’s Pioneers Settlers and Town Planners\n• Jeff Patton’s Dual Track Development</p><br><p>In this talk I will take you through important differences in the 2 contexts, share stories of our own failures and successes, and give you some practical advice on adjusting your approach for the context.</p><br><p>This talk is for any software professional who cares about business value.</p><br><p></p>",
@@ -722,7 +722,7 @@
                                     "about": "<p>As the head of the agility@IQ offering at IQ Business since 2012, I have built an amazing team of Agile consultants (largest in South Africa) that share a common purpose of continuous learning and</p><br><p></p>",
                                     "name": "Biase De Gregorio",
                                     "priority": 1,
-                                    "profilePic": "Biase-De-Gregorio-7.jpg"
+                                    "profilePic": "img/speakers/Biase-De-Gregorio-7.jpg"
                                 }
                             ],
                             "description": "<p>How are we really doing in South Africa with regards to Agile adoption and maturity of Agile with a focus on large organisations that are all going through this fundamental change?</p><br><p>Over the last 7 years of being involved in Agile adoptions in South Africa, primarily, at large financial services organisations, I have observed several trends that have made the adoption of Agile particularly challenging. The challenges can be summarised as follows:\n• Lack of business engagement – most Agile adoptions are driven by the IT organisation and leave business and operations behind\n• Program execution – at a team level, Agile works well, however, when large programmes of execution are required, how do we manage the delivery\n• Team delivery – Ensuring that the team delivering the value is provided with the necessary constraints, conditions and purpose\n• Lack of systems thinking – extending agility to all the supporting functions in the organisation (e.g.) Finance, Procurement, Facilities, Human resources etc\n• Lack of people Change management – the biggest challenge typically is that Agile adoptions are mandated from executives to deliver the promise of Agile, however, leaders underestimate the impact that it has on the people</p><br><p>As a result of these assumptions, we conducted the first Agile Index South Africa which was to validate these observations through a quantitative survey as well as interviews with key leaders in these organisations based on their experiences.</p><br><p>The talk is aimed leaders and individuals that are currently on or starting an Agile adoption by discussing each of these challenges identified and validated (or NOT) through the research as well as providing some options in addressing these challenges.</p><br><p>Note: the research is ongoing at present and therefore, the challenges identified above may change</p><br><p></p>",
@@ -770,7 +770,7 @@
                                     "about": "<p>Pavel Dabrytski is an agile coach and trainer from South Africa. He helps organizations implement Agile sustainably through mentoring, training, and coaching. Over the past years, Pavel worked with major financial organizations and retail giants improving their organisational processes. He also helped organise multiple international conferences in Cape Town and Johannesburg. Pavel is a seasoned presenter who spoke at events in Paris, Prague, Shanghai, Bangalore, Atlanta, New York, Singapore, Orlando as well as in South Africa. Currently, he explores topics on coaching psychology and financial models behind Agile projects.</p><br><p></p>",
                                     "name": "Pavel Dabrytski",
                                     "priority": 1,
-                                    "profilePic": "Pavel.jpg"
+                                    "profilePic": "img/speakers/Pavel.jpg"
                                 }
                             ],
                             "description": "<p>In October 2016 I received a call, “Hey dude, I don’t know nothing about Agile, but I need to become an Agile coach a-s-a-p – my company just got a new contract.” I laughed for a second, explained that it takes a bit longer than a week to learn to coach, and wished him luck. I also knew that, shortly, he would be walking into his customer’s office in this new role.</p><br><p>Agile Coach is the new black! But how can you, a good coach, stand out from the crowd of less competent peers? Let me offer you this workshop to explore the science of coaching and the ways in which it works. We start with concepts of neuroplasticity and the brain processes of creating new neuron pathways. Then we move to motivation and learn which type is the best. Finally, we finish with the discussion on brain activation states which we practice in a few short exercises. By understanding the new field of coaching psychology, you will become a better practitioner.</p><br><p>I am an affiliate member of the Institute of Coaching at McLean Hospital, the Harvard Medical School affiliate. I studied coaching psychology at Harvard Extension School.</p><br><p></p>",
@@ -792,13 +792,13 @@
                                     "about": "<p>Prior to becoming a consultant, I worked in the business process outsourcing industry where I pursued ways to make businesses more effective, more efficient and more capable of adapting to an ever-changing environment. So when I was introduced to Agile a few years later, it was a perfect fit! I now devote my time to anything related to business agility.</p><br><p></p>",
                                     "name": "Angie Doyle",
                                     "priority": 1,
-                                    "profilePic": "Angie-Doyle-profile-pic.jpg"
+                                    "profilePic": "img/speakers/Angie-Doyle-profile-pic.jpg"
                                 },
                                 {
                                     "about": "<p>I have always been a “compulsive note-taker”. In meetings, training and conferences I have always used this as a way to concentrate and understand certain topics. Over the years this doodling has evolved into more of a visual note-taking technique, or sketchnoting. I love that this form of note-taking activates the four modes of learning: audio, read-write, visual and kinaesthetic / movement. Thus people reading them will hopefully remember the presentations more vividly, and those who missed it have access to some of the ideas. The skill of visual thinking has helped me add value as a Scrum Master, which is my profession in the Agility team at IQ Business, and whenever I get a chance I am a Sketchnoter…</p><br><p></p>",
                                     "name": "Talia Lancaster",
                                     "priority": 1,
-                                    "profilePic": "TaliaLancaster.jpg"
+                                    "profilePic": "img/speakers/TaliaLancaster.jpg"
                                 }
                             ],
                             "description": "<p>People are unique in their ability to communicate abstract concepts using symbols and language. After all, that is where the saying “a picture is worth a thousand words” comes from. So it shouldn’t come as a surprise that expressing yourself visually (as well as verbally) improves the likelihood that others will not only understand what you are trying to say but also retain the message. A picture has a way of showing ideas and solutions that would have remained hidden if you hadn’t picked up a pen. But a good picture doesn’t eliminate the need for words. It just reduces the number of words we use, so that the ones left behind are the most important…</p><br><p>So why is thinking visually so important?</p><br><p>When working in complex environments and trying to influence change in the workplace, it is essential that we are equipped with the knowledge and tools to tap into different styles of learning. Recent studies show that 65% of people learn and retain information more effectively by seeing words, as well as images. In contrast, only 30% of people learn through verbal communication alone. So if you aren’t one of the 65% of visual learners, someone in your team probably is!</p><br><p>Luckily, you don’t need to be an artist to think visually! Join us as we co-create a visual vocabulary you can practically apply at work or in your personal capacity (during studying and learning). We will take you through the elements essential for visual thinking, as well as some ideas for visualizing concepts. No PowerPoint slides allowed!</p><br><p>This session is for anyone who needs to innovate, invent, analyze, come up with solutions, ideate, solve problems, retain information and build up their confidence to pick up a pen.</p><br><p></p>",
@@ -826,13 +826,13 @@
                                     "about": "<p>I am a technical programme director on Standard Bank’s Core Banking Transformation Programme. I’m deeply interested in large-scale tranformation programmes that have a societal impact. The agile transformation which we are busy with at Standard Bank has reenergised my career and I have become passionate about what agile means for organisations and the people within them.</p><br><p></p>",
                                     "name": "Jeff Lopes",
                                     "priority": 1,
-                                    "profilePic": "Jeff.jpg"
+                                    "profilePic": "img/speakers/Jeff.jpg"
                                 },
                                 {
                                     "about": "<p></p>",
                                     "name": "Shane Ferley",
                                     "priority": 1,
-                                    "profilePic": "shane.jpg"
+                                    "profilePic": "img/speakers/shane.jpg"
                                 }
                             ],
                             "description": "<p>The idea that you cannot use agile work methods and soft systems engineering approaches on large programmes is flawed. In fact, the thinking that you should use traditional hard systems approaches, such as waterfall methods, on large IT implementations is flawed. There is no shortage of articles and studies which depict the dismal track record of large IT programmes. Large core banking system replacements fall into this category and have typically been said to be too large and complex to use agile methodologies. My view on this has changed over the last eighteen months. This is as a result of applying agile work methods on a large core banking programme. In this talk we will describe how we turned a challenged R18 billion programme around.</p><br><p></p>",
@@ -855,7 +855,7 @@
                                     "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
                                     "name": "Faye Thompson",
                                     "priority": 1,
-                                    "profilePic": "Faye-Thompson.jpg"
+                                    "profilePic": "img/speakers/Faye-Thompson.jpg"
                                 }
                             ],
                             "description": "<p>Humans process millions of bits of information each day. In order to handle that data load, our brains have developed shortcuts to take advantage of patterns, shared knowledge and experience. Unfortunately, sometimes those short cuts lead us astray, and cause us to draw inaccurate conclusions. These cognitive biases are amplified when you pull together a team of people all trying to work together. Come learn about some of the most common types of biases and how to recognize when they are negatively impacting your team. We will also practice some techniques for working around their impacts.</p><br><p></p>",
@@ -877,7 +877,7 @@
                                     "about": "<p>Oded Tamir – an Agile Lead Coach and certified SPC4 (SAFe Program Consultant) at Agilesparks (www.agilesparks.com), Israel Supporting Agile transition in large global enterprises\nMy first experience in Agile implementation in 2006 became my main professional engagement during the last three years.\nFor over 20 years, I held various executive roles- CIO, Project Management in the High-Tech industry, including the position of VP Project Management in a large global company- where I focused on project tracking, problem- solving and crisis management.\nAlthough I have successfully implemented “crisis solving” processes that saved the company millions of dollars, I found that traditional project management has limited tools to solve problems and so the way back to Agile was only a matter of time.\n2014 was the next breakthrough in my career when I joined Agilesparks.\nSince then, I support Agile and DevOps change journey in large global technological projects supporting distributed teams across the globe (Israel, USA, India, Argentina, Ukraine, Moldova and more) as well as in IT departments of financial institutions.\nMoving from adopting Agile in teams to fully adopting it across the organization is challenging for organizations.\nAs an Agile Lead coach and SPC, I am sure that with knowledge, experience and practices we can move large enterprises to be much more Agile in the way they act in the market and manage people.\nI believe that Learning and sharing knowledge is an inherent part of my role as Agile coach. Therefore, I used to attend Agile conferences across the globe (Agile Prague, Agile Singapore, Agile Israel) and joint workshops (Value Stream workshops in Toyota Japan) as an attendee as well as a lecturer.</p><br><p></p>",
                                     "name": "Oded Tamir",
                                     "priority": 1,
-                                    "profilePic": "Oded.jpg"
+                                    "profilePic": "img/speakers/Oded.jpg"
                                 }
                             ],
                             "description": "<p>Why You Must Slow Down in order to get Faster\nHow to handle Bottlenecks, create Flow and improve performance in your Agile Project.</p><br><p>“The Blue Pill or the Red Pill? – Choose your Pill” was the famous question in “The Matrix” movie.\nTaking the “red-pill” refers to a human who chooses to be aware of reality and the true nature of the world.\nAnd the question that this presentation is going to discuss is whether you are ready to take the “Red Pill” and consequently become aware that “Slowing Down” is the right step that will help you to move your organization much faster?\nSlowing Down is not an easy step for managers that were educated for years to optimize their organization business unit and to maximize their capacity and production capabilities.\nSlowing down looks like opposite of all they learned in MBA studies.\nAs Stephen Denning said in his book: “We know it- math quantifies it and experiments confirm it But we still have hard time believing it’s true” (The Leader’s Guide for Radical Management)\n“Theory of Constraint” and “System Thinking” even gave managers tools to implement that:\nAs W. Edwards Deming says: “Management’s job is to optimize the whole system”\nThe presentation will use a ‘phantom’ traffic jam and the traffic jam nature in order to help us better understand the behavior of organizational bottlenecks and why the “opposite way” of slowing down will help organizations improve performance and become much faster.\nAgile implementation and the related change process established new kinds of organization bottlenecks mainly in the product discovery (backlog preparation) and the testing efforts, both require solutions by managers.\nUsing the “shift Left” approach, implementing practices like ATDD will help agile teams and managers to improve both of the above bottlenecks.\nThe presentation will discuss practices that will help managers to analyze bottlenecks in the project and the right ways to handle them.\nAwareness and understanding of the management paradigm will help them take the “Red Pill” and adopt the concept of “Slowing Down in order to get faster”.</p><br><p></p>",
@@ -904,7 +904,7 @@
                                     "about": "<p>Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft’s Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan’s unofficial tag line is #RubDevOpsOnIt and he’s here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan’s also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.</p><br><p></p>",
                                     "name": "Donovan Brown",
                                     "priority": 1,
-                                    "profilePic": "donovan-brown.png"
+                                    "profilePic": "img/speakers/donovan-brown.png"
                                 }
                             ],
                             "description": "<p>Hear how Microsoft embarked on their own DevOps journey reducing a three-year release cycle down to three weeks. Donovan Brown, a Principal DevOps Manager on the US Developer Division team in Microsoft, shares how they managed to make an Agile Transformation that scaled to support business needs.</p><br><p></p>",
@@ -926,7 +926,7 @@
                                     "about": "<p>I write software and lead a team of great developers at Investec. I like to leave it all on the dancefloor. I was once a guy who did a poem where the audience snapped fingers instead of clapping. Now I’m married with two kids. This presentation is my last chance at the big time.</p><br><p></p>",
                                     "name": "Sizwe Mabanga",
                                     "priority": 1,
-                                    "profilePic": "Sizwe.jpg"
+                                    "profilePic": "img/speakers/Sizwe.jpg"
                                 }
                             ],
                             "description": "<p>Well. It’s a full forty five minutes of me bringing together my favourite abstractions, taking care to entertain and perhaps even thrill where permitted.</p><br><p>Thou shalt have no questions.</p><br><p>The concepts covered will include:\nThe battle-lines of organisational entropy.\nThe Conversation (as auxiliary to The Method).\nChomskyism and Semantic Agility.</p><br><p>With these and more I wish to tell a compelling new story about us that introduces new ways for us to see and speak about ourselves.</p><br><p></p>",
@@ -951,37 +951,37 @@
             "about": "<p>Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft’s Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan’s unofficial tag line is #RubDevOpsOnIt and he’s here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan’s also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.</p><br><p></p>",
             "name": "Donovan Brown",
             "priority": 1,
-            "profilePic": "donovan-brown.png"
+            "profilePic": "img/speakers/donovan-brown.png"
         },
         {
             "about": "<p>I write software and lead a team of great developers at Investec. I like to leave it all on the dancefloor. I was once a guy who did a poem where the audience snapped fingers instead of clapping. Now I’m married with two kids. This presentation is my last chance at the big time.</p><br><p></p>",
             "name": "Sizwe Mabanga",
             "priority": 1,
-            "profilePic": "Sizwe.jpg"
+            "profilePic": "img/speakers/Sizwe.jpg"
         },
         {
             "about": "<p>I am a technical programme director on Standard Bank’s Core Banking Transformation Programme. I’m deeply interested in large-scale tranformation programmes that have a societal impact. The agile transformation which we are busy with at Standard Bank has reenergised my career and I have become passionate about what agile means for organisations and the people within them.</p><br><p></p>",
             "name": "Jeff Lopes",
             "priority": 1,
-            "profilePic": "Jeff.jpg"
+            "profilePic": "img/speakers/Jeff.jpg"
         },
         {
             "about": "<p></p>",
             "name": "Shane Ferley",
             "priority": 1,
-            "profilePic": "shane.jpg"
+            "profilePic": "img/speakers/shane.jpg"
         },
         {
             "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
             "name": "Faye Thompson",
             "priority": 1,
-            "profilePic": "Faye-Thompson.jpg"
+            "profilePic": "img/speakers/Faye-Thompson.jpg"
         },
         {
             "about": "<p>Oded Tamir – an Agile Lead Coach and certified SPC4 (SAFe Program Consultant) at Agilesparks (www.agilesparks.com), Israel Supporting Agile transition in large global enterprises\nMy first experience in Agile implementation in 2006 became my main professional engagement during the last three years.\nFor over 20 years, I held various executive roles- CIO, Project Management in the High-Tech industry, including the position of VP Project Management in a large global company- where I focused on project tracking, problem- solving and crisis management.\nAlthough I have successfully implemented “crisis solving” processes that saved the company millions of dollars, I found that traditional project management has limited tools to solve problems and so the way back to Agile was only a matter of time.\n2014 was the next breakthrough in my career when I joined Agilesparks.\nSince then, I support Agile and DevOps change journey in large global technological projects supporting distributed teams across the globe (Israel, USA, India, Argentina, Ukraine, Moldova and more) as well as in IT departments of financial institutions.\nMoving from adopting Agile in teams to fully adopting it across the organization is challenging for organizations.\nAs an Agile Lead coach and SPC, I am sure that with knowledge, experience and practices we can move large enterprises to be much more Agile in the way they act in the market and manage people.\nI believe that Learning and sharing knowledge is an inherent part of my role as Agile coach. Therefore, I used to attend Agile conferences across the globe (Agile Prague, Agile Singapore, Agile Israel) and joint workshops (Value Stream workshops in Toyota Japan) as an attendee as well as a lecturer.</p><br><p></p>",
             "name": "Oded Tamir",
             "priority": 1,
-            "profilePic": "Oded.jpg"
+            "profilePic": "img/speakers/Oded.jpg"
         },
         {
             "about": "<p>Testing is not just a career to me, it is a massive part of who I am. I have been blessed to come across people who have inspired me and taught me and I believe I have been that person to others over the years. The learning never stops though, and I continue to practice the craft and apply learnings from other disciplines back into software testing.</p><br><p>I am at my happiest when I see a team able to do their best testing work and add valuable information into the system. One way I like to do this is to be part of the team. Mentoring and coaching the team from an external viewpoint is also something I am comfortable with. I realise that much of the work we do is heavily influenced by the greater system we are in. I have many years experience of making these things visible and coming up with practical ideas to maximize the value derived from the testing efforts.</p><br><p>Building the craft and community of testing in South Africa is also a passion of mine. To this end, I am the co-organiser of Let’s Test South Africa and the founder and co-organiser of the Joburg Software Testers Meetup.</p><br><p>I enjoy speaking at conferences and have spoken at Let’s Test in Sweden, Copenhagen Context and CAST in North America and I was the co-program chair for CAST 2013.</p><br><p>As Director and Consultant at House of Test South Africa, I am hoping to continue working with awesome people, partnering with friends whom I respect and working my butt off to promote $hit HoT testing.</p><br><p></p>",
@@ -992,25 +992,25 @@
             "about": "<p>Pavel Dabrytski is an agile coach and trainer from South Africa. He helps organizations implement Agile sustainably through mentoring, training, and coaching. Over the past years, Pavel worked with major financial organizations and retail giants improving their organisational processes. He also helped organise multiple international conferences in Cape Town and Johannesburg. Pavel is a seasoned presenter who spoke at events in Paris, Prague, Shanghai, Bangalore, Atlanta, New York, Singapore, Orlando as well as in South Africa. Currently, he explores topics on coaching psychology and financial models behind Agile projects.</p><br><p></p>",
             "name": "Pavel Dabrytski",
             "priority": 1,
-            "profilePic": "Pavel.jpg"
+            "profilePic": "img/speakers/Pavel.jpg"
         },
         {
             "about": "<p>Prior to becoming a consultant, I worked in the business process outsourcing industry where I pursued ways to make businesses more effective, more efficient and more capable of adapting to an ever-changing environment. So when I was introduced to Agile a few years later, it was a perfect fit! I now devote my time to anything related to business agility.</p><br><p></p>",
             "name": "Angie Doyle",
             "priority": 1,
-            "profilePic": "Angie-Doyle-profile-pic.jpg"
+            "profilePic": "img/speakers/Angie-Doyle-profile-pic.jpg"
         },
         {
             "about": "<p>I have always been a “compulsive note-taker”. In meetings, training and conferences I have always used this as a way to concentrate and understand certain topics. Over the years this doodling has evolved into more of a visual note-taking technique, or sketchnoting. I love that this form of note-taking activates the four modes of learning: audio, read-write, visual and kinaesthetic / movement. Thus people reading them will hopefully remember the presentations more vividly, and those who missed it have access to some of the ideas. The skill of visual thinking has helped me add value as a Scrum Master, which is my profession in the Agility team at IQ Business, and whenever I get a chance I am a Sketchnoter…</p><br><p></p>",
             "name": "Talia Lancaster",
             "priority": 1,
-            "profilePic": "TaliaLancaster.jpg"
+            "profilePic": "img/speakers/TaliaLancaster.jpg"
         },
         {
             "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
             "name": "Jacques de Vos",
             "priority": 1,
-            "profilePic": "Jacques.jpg"
+            "profilePic": "img/speakers/Jacques.jpg"
         },
         {
             "about": "<p>Travis is the Agile Practice Manager at Chillisoft. He has spent the last 11 years traveling and working around the world in various countries.\nHe is passionate about software quality management, craftsmanship and leadership.\nHe serves on the board of Open Data Durban, a non-profit civic technology lab and is an active member of the Durban software development community.</p><br><p></p>",
@@ -1021,13 +1021,13 @@
             "about": "<p>As the head of the agility@IQ offering at IQ Business since 2012, I have built an amazing team of Agile consultants (largest in South Africa) that share a common purpose of continuous learning and</p><br><p></p>",
             "name": "Biase De Gregorio",
             "priority": 1,
-            "profilePic": "Biase-De-Gregorio-7.jpg"
+            "profilePic": "img/speakers/Biase-De-Gregorio-7.jpg"
         },
         {
             "about": "<p>Building the right software product in the right way is my passion. Working with teams and being part of a team that is building solutions that our users actually want or need is my commitment.\nI have 5 years of experience working in Agile teams across the banking and insurance industry in South Africa and Australia.\nI started my career as an agile business analyst then started doing a combination of BA and Iteration management. I majored in computer science and economics at the University of Witwatersrand. I currently work for a software consultancy called Khabane Majestic Consulting</p><br><p></p>",
             "name": "Liandra Bassiane",
             "priority": 1,
-            "profilePic": "liandre.jpg"
+            "profilePic": "img/speakers/liandre.jpg"
         },
         {
             "about": "<p>I am a father and a husband with a passion for reading, MMA, English football and science fiction. I refer to myself as recovering traditional leader with a focus on developing high performing people,teams and organisation’s. Having spent the last 15 years in financial technology in Africa and have had the privilege of having a diverse career leading departments across  networks, distributed technologies, end user technologies within 12 African countries which has exposed me to all facets of a large enterprise. In the last few years I have been focused on business strategy and leadership and through my current role as the head of Agile transformation and strategy, have been driving a new way of thinking and radical management within my organisation. I received my MBA from GIBS with a specialisation in people and basic psychological needs within the workplace providing me a better understanding into intrinsic motivation and how to structure organisation’s to support the right culture.</p><br><p></p>",
@@ -1038,49 +1038,49 @@
             "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
             "name": "Ryan Ripley",
             "priority": 1,
-            "profilePic": "ryan-ripley.png"
+            "profilePic": "img/speakers/ryan-ripley.png"
         },
         {
             "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
             "name": "Ryan Ripley",
             "priority": 1,
-            "profilePic": "ryan-ripley.png"
+            "profilePic": "img/speakers/ryan-ripley.png"
         },
         {
             "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
             "name": "Faye Thompson",
             "priority": 1,
-            "profilePic": "Faye-Thompson.jpg"
+            "profilePic": "img/speakers/Faye-Thompson.jpg"
         },
         {
             "about": "<p>Rouan Wilsenach is a software developer. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He now works remotely for Tes, where he builds full-stack JavaScript microservices to help teachers and schools.</p><br><p></p>",
             "name": "Rouan Wilsenach",
             "priority": 1,
-            "profilePic": "Rouan.jpg"
+            "profilePic": "img/speakers/Rouan.jpg"
         },
         {
             "about": "<p>My corporate role is as an Agile Coach within Standard Bank, however my focus and passion is more towards shifting mental models and how people show up so that they actively support and generate Agility (with detours to Kanban and visualisation – if you can’t see it (behaviour included), you seldom talk about it or change it). My goal is to find ways to find ways to generate tools that allow us as Agile coaches to practically and effectively engage with behaviour that often gets in the way of adopting Agile.\nI both facilitate this on our internal Servant Leadership labs as well as coach this as a new way of behaving in stand up’s, other ceremonies and one-on-one coaching sessions that allow individuals to explore their mindsets.\nMy passion for understanding and shifting mind-sets and behaviour started when I was able to shift my own thinking and so acquire the Guinness World Record for the Deepest Dive by a woman.</p><br><p></p>",
             "name": "Verna van Schaik",
             "priority": 1,
-            "profilePic": "Verna2017.jpg"
+            "profilePic": "img/speakers/Verna2017.jpg"
         },
         {
             "about": "<p>Cara is the COO and Agile Coach at Project codeX, a disruptive education initiative that equips aspiring coders with high quality skills and experience, while bridging the digital divide.</p><br><p>Her ultimate goal is for us all to find the work we love doing, and build a better future doing it. Having spent years helping teams adopt agile practices that reduce risk and increase workplace happiness, she now helps aspiring coders to discover and follow their tech passions, on their journey to become agile software developers.</p><br><p>She has an insatiable love of learning, and cares deeply about sharing knowledge to build stronger communities and foster greater diversity in the software world.</p><br><p></p>",
             "name": "Cara Turner",
             "priority": 1,
-            "profilePic": "cara-turner.jpg"
+            "profilePic": "img/speakers/cara-turner.jpg"
         },
         {
             "about": "<p></p>",
             "name": "Sam Laing",
             "priority": 1,
-            "profilePic": "Sam_ATD.jpg"
+            "profilePic": "img/speakers/Sam_ATD.jpg"
         },
         {
             "about": "<p>I currently work at Jumo as an Agile Lead and as a volunteer committee member for Scrum User Group South Africa (SUGSA). I think the most amazing thing about me is that I became a scrum master by “accident” but now I can’t imagine doing anything else. I really love finding new ways to encourage collaboration and transparency and hope to always learn new things.</p><br><p></p>",
             "name": "Jay-Allen Morris",
             "priority": 1,
-            "profilePic": "JAY-ALLEN-MORRIS-1.jpg"
+            "profilePic": "img/speakers/JAY-ALLEN-MORRIS-1.jpg"
         },
         {
             "about": "<p>Testing is not just a career to me, it is a massive part of who I am. I have been blessed to come across people who have inspired me and taught me and I believe I have been that person to others over the years. The learning never stops though, and I continue to practice the craft and apply learnings from other disciplines back into software testing.</p><br><p>I am at my happiest when I see a team able to do their best testing work and add valuable information into the system. One way I like to do this is to be part of the team. Mentoring and coaching the team from an external viewpoint is also something I am comfortable with. I realise that much of the work we do is heavily influenced by the greater system we are in. I have many years experience of making these things visible and coming up with practical ideas to maximize the value derived from the testing efforts.</p><br><p>Building the craft and community of testing in South Africa is also a passion of mine. To this end, I am the co-organiser of Let’s Test South Africa and the founder and co-organiser of the Joburg Software Testers Meetup.</p><br><p>I enjoy speaking at conferences and have spoken at Let’s Test in Sweden, Copenhagen Context and CAST in North America and I was the co-program chair for CAST 2013.</p><br><p>As Director and Consultant at House of Test South Africa, I am hoping to continue working with awesome people, partnering with friends whom I respect and working my butt off to promote $hit HoT testing.</p><br><p></p>",
@@ -1091,13 +1091,13 @@
             "about": "<p>Joshua is an experienced Agile and Developer coach. He also lectures part-time at a post-graduate level.</p><br><p></p>",
             "name": "Joshua Lewis",
             "priority": 1,
-            "profilePic": "Josh.jpg"
+            "profilePic": "img/speakers/Josh.jpg"
         },
         {
             "about": "<p>Sonja partners with leaders and other practitioners to enable responsive and agile organisations and make sense of complex problems like culture and change. She does this through the use of pioneering ideas and tools from complexity theory and narrative practice. Her expertise lies in enabling environments in organisations where thinking and behaviour shifts toward greater strategic agility and resilience. Focus areas include: enabling change resilience; effective strategy execution; devolved decision-making; sense-making; and culture.</p><br><p>Sonja has over 15 years experience consulting locally and internationally. Prior to founding More Beyond, she consulted for PWC and IBM. She is the exclusive South African partner for Prof Dave Snowden’s company Cognitive Edge and supplies training in their open source methods; the Cynefin sense-making framework as well as the Sensemaker software suite.</p><br><p></p>",
             "name": "Sonja Blignaut",
             "priority": 1,
-            "profilePic": "Sonja-sml.jpg"
+            "profilePic": "img/speakers/Sonja-sml.jpg"
         },
         {
             "about": "<p>I was a PM, come BA and have since morphed myself into a Scrum master, doing some agile coaching on the side.  I have been a Scrum master for just over 3 years now. I have an Honours degree in Psychology and continue to be fascinated by what makes people tick and am myself on an ongoing journey of self improvement.</p><br><p></p>",
@@ -1113,7 +1113,7 @@
             "about": "<p>Simon is a Technical Product Lead at Platform45, interested in everything software from design & development to machine learning. On his journey, Simon loves sharing his learnings, and has given a couple talks in South Africa and the USA. Catch him on Github (@sighmin), or at simonvandyk.co.za.</p><br><p></p>",
             "name": "Simon van Dyk",
             "priority": 1,
-            "profilePic": "simon.jpg"
+            "profilePic": "img/speakers/simon.jpg"
         },
         {
             "about": "<p>I am a senior quality assurance consultant at Thoughtworks and, since 1999, have specialised in software testing and quality assurance. I believe it offers more opportunities than straight development.</p><br><p>As a result, I’ve had the good fortune to gain exposure to a wide range of remarkable opportunities in South Africa and the United States, being exposed to the concrete elements of best practices across a range of disciplines, assignments, projects, organisations and industries. I am fascinated by the constant change, which ensures there is always something new for me to learn.</p><br><p>In my spare time I run 5km, 10km and half marathon races.</p><br><p></p>",
@@ -1134,13 +1134,13 @@
             "about": "<p>Greg is a member of the BSG Business Analytics team specialising in the role of Business Domain and Business Intelligence.\nGreg has over 12 years of experience in Logistics, Financial Services, Automotive and Mining where he has gained extensive knowledge of agile project delivery in a variety of roles including:\n•         Project manager\n•         Project risk management\n•         Project assurance and compliance\n•         Business analysis\n•         Data & analytics\n•         Business intelligence and reporting</p><br><p></p>",
             "name": "Greg Desilla",
             "priority": 1,
-            "profilePic": "Greg-Desilla-email.jpg"
+            "profilePic": "img/speakers/Greg-Desilla-email.jpg"
         },
         {
             "about": "<p>Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.</p><br><p>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.</p><br><p>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.</p><br><p></p>",
             "name": "Julia Keddie",
             "priority": 1,
-            "profilePic": "Julia-Keddie-email.jpg"
+            "profilePic": "img/speakers/Julia-Keddie-email.jpg"
         },
         {
             "about": "<p>I exist in a world of creative people, disruptive technologies and innovation, with a software engineering background from and an extensive working career, I ultimately still help organizations fail fast and learn!\nI’m a Software Engineering Manager at ABSA, I’m involved in the DevOps transformation journey and assist teams to adopt new ways of working. I also coach Lean/Agile principles, the value of DevOps, DevOps Culture and Software Engineering Principles. I previously worked extensively as an Agile Coach and Scrum Master helping teams deliver valuable software.\nI’m inspired by people and product teams that make awesome software for their customers, I’m excited to share my journey and learning to the rest of Chef\ncommunity.</p><br><p></p>",
@@ -1151,7 +1151,7 @@
             "about": "<p>Simplifier-in-Chief for KRS software. An early female entrepreneur, with a love of software and people, and how both mix to solve problems.</p><br><p></p>",
             "name": "Lorraine Steyn",
             "priority": 1,
-            "profilePic": "Lorraine.jpg"
+            "profilePic": "img/speakers/Lorraine.jpg"
         }
     ]
 }

@@ -120,7 +120,7 @@ function downloadSpeakerImage(speaker, $, done) {
     return done(null, speaker);
   }
   var fileName = path.basename(imagePath);
-  speaker.profilePic = fileName;
+  speaker.profilePic = 'img/speakers/' + fileName;
   download(imagePath, fileName, function(err, data) {
     done(null, speaker);
   });
