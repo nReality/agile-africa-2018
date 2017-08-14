@@ -4,7 +4,8 @@ const fs = require('fs');
 const path = require('path');
 const imageFolderPath = "downloads/";
 const adminAjaxUrl = 'http://2017.agileafricaconf.com/wp-admin/admin-ajax.php';
-const util = require('util')
+const util = require('util');
+var he = require('he');
 
 function loadschedule() {
   request.post(adminAjaxUrl, {
@@ -34,7 +35,7 @@ function scheduleLoaded(error, response, body) {
         return console.error(err);
       }
 
-      sessionDetail.name = sessionDetail.post_title;
+      sessionDetail.name = he.decode(sessionDetail.post_title);
       sessionDetail.locationId = mapLocation(sessionDetail.location);
       sessionDetail.timeStart = sessionDetail.time;
       sessionDetail.timeEnd = sessionDetail.end_time;
