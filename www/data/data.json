@@ -1026,7 +1026,8 @@
             "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
             "name": "Jacques de Vos",
             "priority": 1,
-            "profilePic": "img/speakers/Jacques.jpg"
+            "profilePic": "img/speakers/Jacques.jpg",
+            "twitter": "@jacdevos"
         },
         {
             "about": "<p>Travis is the Agile Practice Manager at Chillisoft. He has spent the last 11 years traveling and working around the world in various countries.\nHe is passionate about software quality management, craftsmanship and leadership.\nHe serves on the board of Open Data Durban, a non-profit civic technology lab and is an active member of the Durban software development community.</p><br><p></p>",
@@ -1107,7 +1108,8 @@
             "about": "<p>Joshua is an experienced Agile and Developer coach. He also lectures part-time at a post-graduate level.</p><br><p></p>",
             "name": "Joshua Lewis",
             "priority": 1,
-            "profilePic": "img/speakers/Josh.jpg"
+            "profilePic": "img/speakers/Josh.jpg",
+            "twitter": "@joshilewis"
         },
         {
             "about": "<p>Sonja partners with leaders and other practitioners to enable responsive and agile organisations and make sense of complex problems like culture and change. She does this through the use of pioneering ideas and tools from complexity theory and narrative practice. Her expertise lies in enabling environments in organisations where thinking and behaviour shifts toward greater strategic agility and resilience. Focus areas include: enabling change resilience; effective strategy execution; devolved decision-making; sense-making; and culture.</p><br><p>Sonja has over 15 years experience consulting locally and internationally. Prior to founding More Beyond, she consulted for PWC and IBM. She is the exclusive South African partner for Prof Dave Snowden’s company Cognitive Edge and supplies training in their open source methods; the Cynefin sense-making framework as well as the Sensemaker software suite.</p><br><p></p>",
