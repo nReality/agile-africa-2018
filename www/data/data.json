@@ -219,7 +219,7 @@
                                 }
                             ],
                             "description": "<p>Infrastructure as code has become a buzz word around IT automation with organisations scrambling to try and implement a solution – but is this really something that you need, and is it right for your organisation?</p><br><p>This talk sheds some light as to what exactly this trend is all about, how we’ve implemented it at our customer and what you need to know when embarking on such a journey. We cover some valuable lessons learned along the way using Chef and Terraform on Amazon Web Services and VMWare.</p><br><p></p>",
-                            "name": "Infrastructure as Code: Should you be using it and what worked for us.",
+                            "name": "Infrastructure as Code: Should you be using it and what worked for us",
                             "locationId": "ballroom",
                             "timeStart": "11:15 am",
                             "timeEnd": "12:00 pm",
