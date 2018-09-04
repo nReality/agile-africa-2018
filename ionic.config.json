@@ -1,6 +1,8 @@
 {
   "name": "AgileAfrica2017",
-  "app_id": "",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "watchPatterns": []
 }

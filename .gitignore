@@ -31,5 +31,5 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 
 # android release
-android-release.apk
+*android-release.apk
 *.keystore
