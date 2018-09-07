@@ -44,17 +44,16 @@ export class ConferenceData {
           });
       }
 
-      this.http.get('https://api.github.com/repos/nreality/agile-africa-2017/git/refs/heads/master')
+      this.http.get('https://api.github.com/repos/nreality/agile-africa-2018/git/refs/heads/new-features')
       .subscribe(res => {
         let result = res.json();
-        console.log(result);
         let latestCommit = result.object.sha;
-
         if (oldConferenceData && latestCommit === oldConferenceData.version) {
+            console.log(latestCommit)
             console.log('data still fine, using saved data');
         } else {
             console.log('data outdated, loading new');
-            this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2017/' + latestCommit +'/www/data/data.json').subscribe(res => {
+            this.http.get('https://raw.githubusercontent.com/nReality/agile-africa-2018/' + latestCommit +'/www/data/data.json').subscribe(res => {
               this.processResponse(res, latestCommit, resolve);
           }, fallback);
         }
