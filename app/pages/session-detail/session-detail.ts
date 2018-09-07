@@ -1,9 +1,9 @@
-import {Component, Input, Output, OnInit, EventEmitter} from '@angular/core';
-import {NavParams, Storage, LocalStorage, Alert, NavController, AlertController} from 'ionic-angular';
-import {SpeakerDetailPage} from '../speaker-detail/speaker-detail';
-import {Device} from 'ionic-native';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
+import { NavParams, Storage, LocalStorage, Alert, NavController, AlertController } from 'ionic-angular';
+import { SpeakerDetailPage } from '../speaker-detail/speaker-detail';
+import { Device } from 'ionic-native';
 import { Star } from './star';
-import {TweetShare} from '../../providers/tweet-share';
+import { TweetShare } from '../../providers/tweet-share';
 
 import * as firebase from 'firebase';
 
@@ -75,28 +75,27 @@ export class SessionDetailPage {
   }
 
   goToTwitter(speakers) {
-      let speakerstring = this.getTwitterString(speakers);
+    let speakerstring = this.getTwitterString(speakers);
     //window.open(`https://twitter.com/share?text=` + sessionName);
-      this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
+    this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
   }
 
   hasTwitterAccounts(speakers) {
-      let speakerstring = this.getTwitterString(speakers);
-      return speakerstring.replace(/undefined/g, "").trim() || false;
+    let speakerstring = this.getTwitterString(speakers);
+    return speakerstring.replace(/undefined/g, "").trim() || false;
   }
 
   getTwitterString(speakers) {
-      var speakerstring = ""
-      for (var speaker of speakers) {
-          speakerstring += speaker.twitter + " "
-      }
-      return speakerstring;
+    var speakerstring = ""
+    for (var speaker of speakers) {
+        speakerstring += speaker.twitter + " "
+    }
+    return speakerstring;
   }
 
   getSpeakerImage(speaker) {
     var imageName = speaker.profilePic ? speaker.profilePic : "img/speakers/no-image-head.png";
     return imageName;
   }
-
 
 }

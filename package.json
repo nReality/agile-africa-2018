@@ -1,14 +1,15 @@
 {
-  "name": "com.nreality.ScrumGatheringSAConf",
-  "description": "Information for the Scrum Gathering conference, held on 3-4 November.",
+  "name": "AgileAfricaConference-app",
+  "description": "Information for the Agile Africa conference, held on 01-02 October 2018.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nReality/agile-africa-2017"
+    "url": "https://github.com/nReality/agile-africa-2018"
   },
   "scripts": {
     "start": "ionic serve",
     "build-android": "ionic run android",
+    "build-ios": "ionic run ios",
     "deploy-android": "ionic run android --prod --release"
   },
   "dependencies": {

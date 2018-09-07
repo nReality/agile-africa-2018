@@ -6,7 +6,6 @@
 
 <ion-content padding>
   <h3 class="session-header" [innerHTML]="session.name"></h3>
-
   <ion-divider>
     <ion-item no-lines>
       <div class="stars">
@@ -20,12 +19,10 @@
     </ion-item>
     <button padding start margin ion-button small (click)="postRating(session)" [disabled]="_rating === 0 && comment === ''">Submit Rating</button>
   </ion-divider>
-  <br>
-
   <ion-card>
     <center>
       <button margin-top light outline class="speaker-button" *ngFor="let speaker of session.speakers" (click)="goToSpeakerDetail(speaker)">
-        <ion-avatar item-left>
+        <ion-avatar item-start class="speaker-avatar">
           <img [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         {{speaker.name}}
@@ -33,10 +30,10 @@
       <br/>
       <button clear twitter (click)="goToTwitter(session.speakers)" *ngIf="hasTwitterAccounts(session.speakers)"><ion-icon name="logo-twitter"></ion-icon>Tweet</button>
     </center>
-
     <h2 text-center>{{session.date}}</h2>
     <h5 text-center>{{session.timeStart}} - {{session.timeEnd}}</h5>
     <ion-card-header>{{session.locationName}}</ion-card-header>
     <ion-card-content class="session-description" [innerHTML]="session.description"></ion-card-content>
   </ion-card>
+  <br>
 </ion-content>

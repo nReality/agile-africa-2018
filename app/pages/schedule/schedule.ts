@@ -1,6 +1,6 @@
 import { Component, ViewChild } from '@angular/core';
 
-import { Content, AlertController, App, ItemSliding, List, ModalController, LocalStorage, Storage, NavController } from 'ionic-angular';
+import { Content, AlertController, App, List, ModalController, LocalStorage, Storage, NavController } from 'ionic-angular';
 
 import { ConferenceData } from '../../providers/conference-data';
 import { ScheduleFilterPage } from '../schedule-filter/schedule-filter';
@@ -109,7 +109,7 @@ export class SchedulePage {
     // Close any open sliding items when the schedule updates
     this.scheduleList && this.scheduleList.closeSlidingItems();
 
-    this.confData.getTimeline(this.dayIndex, this.queryText, this.excludeTracks, this.excludeLocations, this.excludeDays, this.segment).then(data => {
+    this.confData.getTimeline( this.dayIndex, this.queryText, this.excludeTracks, this.excludeLocations, this.excludeDays, this.segment).then(data => {
       this.days = data;
     });
   }
@@ -154,7 +154,6 @@ export class SchedulePage {
     let dateTimeString = "2016" + dayString + groupTime;
     if(Date.now() > Date.parse(dateTimeString))
       return "group-passed";
-
     return "time-group";
   }
 

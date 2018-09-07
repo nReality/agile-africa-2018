@@ -1,9 +1,8 @@
-import {Component} from '@angular/core';
-import {NavController, NavParams, Page} from 'ionic-angular';
-import {SessionDetailPage} from '../session-detail/session-detail';
-import {Platform} from 'ionic-angular';
+import { Component } from '@angular/core';
+import { NavController, NavParams } from 'ionic-angular';
+import { SessionDetailPage } from '../session-detail/session-detail';
 
-import {TweetShare} from '../../providers/tweet-share';
+import { TweetShare } from '../../providers/tweet-share';
 
 @Component({
   templateUrl: 'build/pages/speaker-detail/speaker-detail.html'

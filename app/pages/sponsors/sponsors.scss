@@ -1,10 +1,32 @@
+.sponsor-info {
+  background-color: #F8F8F8;
+}
+
+.sponsor-detail {
+  position: relative;
+  background-color: #FFFFFF;
+  padding: 7.5px 5px 7.5px 5px;
+  margin:  0 5px 5px 5px;
+}
+
+.sponsor-badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5px;
+}
+
+.sponsor-name {
+  color: #000000;
+}
+
 .sponsor-info p {
   color: #697072;
   text-align: center;
- }
+}
 
- img{
-   margin-left: auto;
-    margin-right: auto;
-    display: block;
- }
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

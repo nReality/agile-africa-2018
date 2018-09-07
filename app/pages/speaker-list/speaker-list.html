@@ -5,32 +5,31 @@
 </ion-header>
 
 <ion-content center class="outer-content speaker-list">
-
   <ion-list no-lines center>
-  <ion-item class="speaker" center wrap *ngFor="let speaker of speakers">
-
-
-    <ion-item-content >
-      <button ion-item (click)="goToSpeakerDetail(speaker)">
-
+    <ion-item class="speaker" center wrap *ngFor="let speaker of speakers">
+      <ion-item-content >
+        <button ion-item (click)="goToSpeakerDetail(speaker)">
         <ion-avatar item-left>
           <img [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         <h2> {{speaker.name}}</h2>
-
         <button twitter (click)="goToSpeakerTwitter(speaker)" clear item-right *ngIf="speaker.twitter">
           <ion-icon name="logo-twitter"></ion-icon>
           Tweet
         </button>
+        <button clear item-right>
+          <ion-icon name="download"></ion-icon>
+          <a class="speaker-slides-link" href="#" onclick="window.open('speaker.contentLink', '_system', 'location=yes'); return false;">
+          Slides
+          </a>
+        </button>
       </button>
-      <ion-list >
+      <ion-list>
         <button text-wrap wrap ion-item *ngFor="let session of speaker.sessions" (click)="goToSessionDetail(session)">
           <h3 wrap [innerHTML]="session.name"></h3>
         </button>
-
       </ion-list>
-    </ion-item-content>
-
-</ion-item>
-</ion-list>
+      </ion-item-content>
+    </ion-item>
+  </ion-list>
 </ion-content>

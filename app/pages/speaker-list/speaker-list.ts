@@ -1,10 +1,10 @@
-import {Component} from '@angular/core';
-import {NavController, Page, ActionSheet, ActionSheetController} from 'ionic-angular';
-import {ConferenceData} from '../../providers/conference-data';
-import {SpeakerDetailPage} from '../speaker-detail/speaker-detail';
-import {SessionDetailPage} from '../session-detail/session-detail';
+import { Component } from '@angular/core';
+import { NavController, ActionSheet, ActionSheetController } from 'ionic-angular';
+import { ConferenceData } from '../../providers/conference-data';
+import { SpeakerDetailPage } from '../speaker-detail/speaker-detail';
+import { SessionDetailPage } from '../session-detail/session-detail';
 
-import {TweetShare} from '../../providers/tweet-share';
+import { TweetShare } from '../../providers/tweet-share';
 
 @Component({
   templateUrl: 'build/pages/speaker-list/speaker-list.html'
@@ -65,7 +65,7 @@ export class SpeakerListPage {
         }
       ]
     });
-
     actionSheet.present();
   }
+  
 }

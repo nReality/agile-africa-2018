@@ -1,26 +1,25 @@
-
 .speaker-list {
-  background-color: white;
-  ion-label{
+  ion-label {
     margin: 0;
   }
 
-
-  .item-inner{
+  .item-inner {
     padding: 0;
   }
 
-  .virtual-scroll{
+  .virtual-scroll {
     margin-bottom: 500px;
   }
 
-
-  .speaker  {
+  .speaker {
     margin: 0;
-      padding: 0;
-      background-color: #f7f7f7;
-      width: 100%;
+    padding: 0;
+    background-color: #f7f7f7;
+    width: 100%;
   }
 
+  .speaker-slides-link {
+    text-decoration: none;
+  }
 
 }

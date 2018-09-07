@@ -1,19 +1,12 @@
 /// <reference path="../node_modules/typescript/lib/lib.es6.d.ts" />
 
-import {Component, ViewChild} from '@angular/core';
-import {ionicBootstrap, Events, Platform, Nav, MenuController} from 'ionic-angular';
-import {StatusBar, Splashscreen} from 'ionic-native';
-import {ConferenceData} from './providers/conference-data';
-import {UserData} from './providers/user-data';
-import {AccountPage} from './pages/account/account';
-import {TabsPage} from './pages/tabs/tabs';
-import {LoginPage} from './pages/login/login';
-import {SignupPage} from './pages/signup/signup';
-import {TweetShare} from './providers/tweet-share';
-import { SchedulePage } from './pages/schedule/schedule';
-import { SpeakerListPage } from './pages/speaker-list/speaker-list';
-import { AboutPage } from './pages/about/about';
-import {SponsorsPage} from './pages/sponsors/sponsors';
+import { Component, ViewChild } from '@angular/core';
+import { ionicBootstrap, Events, Platform, Nav, MenuController } from 'ionic-angular';
+import { StatusBar, Splashscreen } from 'ionic-native';
+import { ConferenceData } from './providers/conference-data';
+import { UserData } from './providers/user-data';
+import { TabsPage } from './pages/tabs/tabs';
+import { TweetShare } from './providers/tweet-share';
 
 import * as firebase from 'firebase';
 
@@ -64,7 +57,6 @@ class ConferenceApp {
     platform.ready().then(() => {
       StatusBar.styleDefault();
       confData.load().then(() => {
-          console.log('data loaded');
           this.rootPage = TabsPage;
           this.menu.enable(true, 'mainmenu');
           Splashscreen.hide();

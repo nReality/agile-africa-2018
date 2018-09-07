@@ -14,21 +14,33 @@
 
 <ion-content padding class="sponsor-info">
   <h3 text-center>
-    This community conference is proudly sponsored by:
+    Our proud sponsors:
   </h3>
 
   <br/>
-  <div *ngFor="let group of sponsors">
-    <h2 text-center>{{group.groupName}}</h2>
-    <div *ngFor="let sponsor of group.sponsors">
-        <a href="#" (click)="openPagInNewWindow(sponsor.url)">
-            <img [src]="sponsor.imageSrc" width="200px">
-        </a>
+
+  <ion-grid>
+    <div *ngFor="let group of sponsors">
+      <div *ngFor="let sponsor of group.sponsors">
+        <ion-row>
+          <ion-col col-12 class="sponsor-detail">
+            <h4 text-center class="sponsor-name">{{sponsor.name}}</h4>
+            <ion-badge item-end class="sponsor-badge">{{getSponsorGroupSymbol(group)}}</ion-badge>    
+            <a href="#" (click)="openPagInNewWindow(sponsor.url)">
+              <img [src]="sponsor.imageSrc" width="200px">
+            </a>
+          </ion-col>
+        </ion-row>
+      </div>
     </div>
-    <hr />
-  </div>
+  </ion-grid>
+  
  <br/>
-  <h6 text-center>This hybrid app is an open source contribution by <a href="#"onclick="window.open('http://www.nreality.com/', '_system', 'location=yes'); return false;">nReality</a> based on <a href="#" onclick="window.open('https://github.com/driftyco/ionic-conference-app', '_system', 'location=yes'); return false;">Driftyco's Ionic 2 demo</a>. Feel free to fork it for your own conference or send us a pull request to modify at
-  <a href="#" onclick="window.open('https://github.com/nReality/agile-africa-2017', '_system', 'location=yes'); return false;">https://github.com/nReality/agile-africa-2017</a>.</h6>
+  <h6 text-center>This hybrid app is an open source contribution by 
+    <a href="#"onclick="window.open('http://www.nreality.com/', '_system', 'location=yes'); return false;">nReality</a> 
+    based on <a href="#" onclick="window.open('https://github.com/driftyco/ionic-conference-app', '_system', 'location=yes'); return false;">Driftyco's Ionic 2 demo</a>. 
+    Feel free to fork it for your own conference or send us a pull request to modify at
+  <a href="#" onclick="window.open('https://github.com/nReality/agile-africa-2017', '_system', 'location=yes'); return false;">https://github.com/nReality/agile-africa-2017</a>.
+</h6>
 
 </ion-content>

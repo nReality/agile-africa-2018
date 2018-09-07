@@ -1,14 +1,12 @@
-import {Injectable} from '@angular/core';
-import {Platform} from 'ionic-angular';
+import { Injectable } from '@angular/core';
+import { Platform } from 'ionic-angular';
 
 @Injectable()
 export class TweetShare {
-
-
+  
   constructor(private platform: Platform) {
           this.platform = platform;
         }
-
 
   shareViaTwitter(message, image, link) {
     var pl = (<any>window).plugins

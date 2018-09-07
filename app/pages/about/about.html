@@ -1,7 +1,6 @@
 <ion-header>
   <ion-navbar>
     <ion-title>About {{name}}</ion-title>
-
   </ion-navbar>
 </ion-header>
 
@@ -13,17 +12,17 @@
 </ion-navbar>
 
 <ion-content>
-
   <div padding class="about-info">
     <img [src]="about.imageSrc" width="250">
     <h2>{{about.heading}}</h2>
     <h4>{{about.subHeading}}</h4>
-
-    <p>
-      {{about.description}}
-    </p>
-    <h4 *ngFor="let link of about.links">
-      <a href="#" target="_system" (click)="openPagInNewWindow(link.link)">{{link.linkText}}</a> {{link.text}}
-    </h4>
+    <p>{{about.description}}</p>
+    <ion-divider>
+      <ion-item *ngFor="let question of about.questions">
+        <ion-label floating>{{question.text}}</ion-label>
+        <ion-textarea type="text" [(ngModel)]="answers[question.name]" name="question.name"></ion-textarea>
+      </ion-item> 
+      <button padding start margin ion-button small (click)="submitFeedback(answers)" [disabled]="disableButton(answers)">Submit Feedback</button>        
+    </ion-divider>  
   </div>
 </ion-content>
