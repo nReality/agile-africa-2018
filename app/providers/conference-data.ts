@@ -62,6 +62,7 @@ export class ConferenceData {
 
 
 
+
   processResponse(response: any, version: string, resolve: Function) {
       let conferenceData = response.json();
       conferenceData.version = version;

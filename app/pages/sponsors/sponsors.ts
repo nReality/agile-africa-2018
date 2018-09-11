@@ -35,4 +35,8 @@ export class SponsorsPage {
     return group.groupName[0].toUpperCase();
   }
 
+  getGroupBadgeColor(group) {
+    return group.color;
+  }
+
 }

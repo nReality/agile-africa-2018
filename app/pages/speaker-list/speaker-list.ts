@@ -20,6 +20,11 @@ export class SpeakerListPage {
     });
   }
 
+  openPagInNewWindow(link) {
+    window.open(link, "_system", "location=yes");
+    return false;
+  }
+
   goToSessionDetail(session) {
     this.nav.push(SessionDetailPage, session);
   }
