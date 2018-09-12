@@ -26,7 +26,7 @@
           <ion-col col-12 class="sponsor-detail">
             <ion-badge [ngStyle]="{'background-color': getGroupBadgeColor(group)}" item-end class="sponsor-badge">{{getSponsorGroupSymbol(group)}}</ion-badge>    
             <a href="#" (click)="openPagInNewWindow(sponsor.url)">
-              <img [src]="sponsor.imageSrc" width="200px">
+              <img class="sponsor-logo" [src]="sponsor.imageSrc" width="200px">
             </a>
           </ion-col>
         </ion-row>

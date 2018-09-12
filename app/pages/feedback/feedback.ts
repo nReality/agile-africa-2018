@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { ConferenceData } from '../../providers/conference-data';
-import { AlertController, Storage, LocalStorage } from 'ionic-angular';
+import { AlertController, Storage, LocalStorage, NavController } from 'ionic-angular';
 import { Device } from 'ionic-native';
 
 import * as firebase from 'firebase';
@@ -12,7 +12,7 @@ export class Feedback {
   local: any;  
   questions: any;
   @Input() answers: any = {};
-  constructor(public alertCtrl: AlertController, conferenceData: ConferenceData) { 
+  constructor(public alertCtrl: AlertController, conferenceData: ConferenceData, public nav: NavController) { 
     this.questions = conferenceData.data.about.questions;
     this.answers = [];
     this.initializeStorage();
@@ -35,6 +35,7 @@ export class Feedback {
     firebase.database().ref('Feedback/' + deviceId).set(answers);
     this.local.set('feedback', JSON.stringify(answers));
     this.showSuccess();
+    this.nav.pop();
   }
 
   showSuccess(){

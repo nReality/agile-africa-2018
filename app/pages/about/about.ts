@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ConferenceData } from '../../providers/conference-data';
-import { PopoverController, ModalController, ViewController, AlertController, NavController } from 'ionic-angular';
+import { PopoverController, ViewController, AlertController, NavController } from 'ionic-angular';
 import { Feedback } from '../feedback/feedback';
 
 @Component({
@@ -27,7 +27,7 @@ export class AboutPage {
   about: any;
   name: string;
   local: any;
-  constructor(public modalCtrl: ModalController, public nav: NavController, public alertCtrl: AlertController, public popoverCtrl: PopoverController, conferenceData: ConferenceData) {
+  constructor( public nav: NavController, public alertCtrl: AlertController, public popoverCtrl: PopoverController, conferenceData: ConferenceData) {
     this.about = conferenceData.data.about;
     this.name = conferenceData.data.name;
   }

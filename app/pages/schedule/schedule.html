@@ -62,7 +62,7 @@
                       <h3 [innerHtml]="session.name"></h3>
                       <p>
                         <span  *ngIf="session.speakerNames">{{session.speakerNames}} in</span>
-                        {{session.location.name}}
+                        <span [ngStyle]="{'color': session.location.color}">{{session.location.name}}</span>
                       </p>
                     </button>
                   </ion-col>

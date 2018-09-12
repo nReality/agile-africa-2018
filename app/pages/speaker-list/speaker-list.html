@@ -6,10 +6,8 @@
 
 <ion-content center class="outer-content speaker-list">
   <ion-list no-lines center *ngFor="let speaker of speakers">
-    <ion-card center wrap>
-      <div>
+    <ion-card>
         <img [src]="getSpeakerImage(speaker)"/>
-      </div>
       <ion-card-content>
         <ion-card-title>
           {{speaker.name}}
@@ -20,21 +18,21 @@
       </ion-card-content>
       <hr>
       <ion-grid>
-      <ion-row justify-content-center no-padding>
+      <ion-row no-padding>
         <ion-col text-center col-4>
-          <button clear small (click)="goToSpeakerDetail(speaker)">
+          <button small clear color="dark" (click)="goToSpeakerDetail(speaker)">
             <ion-icon name="contact"></ion-icon>
             Profile
           </button>    
         </ion-col>
         <ion-col text-center col-4>
-        <button clear small (click)="openPagInNewWindow(speaker.contentLink)" item-right *ngIf="speaker.contentLink">
+        <button small clear (click)="openPagInNewWindow(speaker.contentLink)" *ngIf="speaker.contentLink">
           <ion-icon name="download"></ion-icon>
             Slides
           </button>    
         </ion-col>
         <ion-col text-center col-4>
-          <button clear small twitter (click)="goToSpeakerTwitter(speaker)" *ngIf="speaker.twitter">
+          <button small clear twitter (click)="goToSpeakerTwitter(speaker)" *ngIf="speaker.twitter">
             <ion-icon name="logo-twitter"></ion-icon>
             Tweet
           </button>  

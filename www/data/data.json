@@ -7,8 +7,8 @@
         "subHeading": "About the conference",
         "description": "2018 marks the sixth-year anniversary of the Agile Africa conference, and we will build on previous years to create an engaging, memorable event. Our keynotes for the Agile Africa 2018 conference include leading experts of international acclaim. Furthermore, the conference includes a diversity of both local and international speakers, and you will get to interact with and learn from people working in all different environments. ",
         "website": "",
-        "feedbackHeading": "Provide feedback for the conference",
-        "feedbackDescription": "Please answer a couple of questions about the conference which will be used to improve your experience next year",
+        "feedbackHeading": "Feedback for the conference",
+        "feedbackDescription": "Please answer a collection of questions about the conference which will be used to improve your experience next year. This should take around 1-2 minutes of your time. Your feedback will remain anonymous.",
         "questions": [
             {   
                 "name": "satisfaction",
@@ -1083,20 +1083,20 @@
             "about": "<p>Programming coach at Facebook, singer/guitarist, peripatetic. Learning to be me.</p>",
             "priority": 0,
             "twitter": "@kentbeck",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p></p>",
             "name": "Alok Goswami",
             "priority": 1,
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p></p>",
             "name": "Joanne Perold",
             "priority": 1,
             "twitter": "@joPerold",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p></p>",
@@ -1104,7 +1104,7 @@
             "priority": 1,
             "profilePic": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/Prof-Barry-Dwolatzky-small.jpg",
             "twitter": "@BarryDwolatzky",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft’s Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan’s unofficial tag line is #RubDevOpsOnIt and he’s here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan’s also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.</p><br><p></p>",
@@ -1112,7 +1112,7 @@
             "twitter": "@DonovanBrown",
             "priority": 1,
             "profilePic": "img/speakers/donovan-brown.png",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Oded Tamir – an Agile Lead Coach and certified SPC4 (SAFe Program Consultant) at Agilesparks (www.agilesparks.com), Israel Supporting Agile transition in large global enterprises\nMy first experience in Agile implementation in 2006 became my main professional engagement during the last three years.\nFor over 20 years, I held various executive roles- CIO, Project Management in the High-Tech industry, including the position of VP Project Management in a large global company- where I focused on project tracking, problem- solving and crisis management.\nAlthough I have successfully implemented “crisis solving” processes that saved the company millions of dollars, I found that traditional project management has limited tools to solve problems and so the way back to Agile was only a matter of time.\n2014 was the next breakthrough in my career when I joined Agilesparks.\nSince then, I support Agile and DevOps change journey in large global technological projects supporting distributed teams across the globe (Israel, USA, India, Argentina, Ukraine, Moldova and more) as well as in IT departments of financial institutions.\nMoving from adopting Agile in teams to fully adopting it across the organization is challenging for organizations.\nAs an Agile Lead coach and SPC, I am sure that with knowledge, experience and practices we can move large enterprises to be much more Agile in the way they act in the market and manage people.\nI believe that Learning and sharing knowledge is an inherent part of my role as Agile coach. Therefore, I used to attend Agile conferences across the globe (Agile Prague, Agile Singapore, Agile Israel) and joint workshops (Value Stream workshops in Toyota Japan) as an attendee as well as a lecturer.</p><br><p></p>",
@@ -1120,7 +1120,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Oded.jpg",
             "twitter": "@oded_tamir",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I write software and lead a team of great developers at Investec. I like to leave it all on the dancefloor. I was once a guy who did a poem where the audience snapped fingers instead of clapping. Now I’m married with two kids. This presentation is my last chance at the big time.</p><br><p></p>",
@@ -1128,7 +1128,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Sizwe.jpg",
             "twitter": "@sizwethekingrat",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>With more than eighteen years of project delivery experience, Faye Thompson, JD, PSM1, is a senior agile consultant with CareWorks Tech. Focusing on agile methodologies and continuous improvement, she has had a positive impact in the financial services, healthcare, advertising, and automotive industries. Passionate about using innovative solutions to drive business value, Faye helps workgroups transform into highly engaged and energized teams. She enjoys serving on the board of directors for the Central Ohio Agile Association, volunteering as an instructor and emergency medical responder for the American Red Cross, and spending time with her husband and two dogs.</p><br><p></p>",
@@ -1136,35 +1136,35 @@
             "priority": 1,
             "profilePic": "img/speakers/Faye-Thompson.jpg",
             "twitter": "@AgileFaye",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I am a technical programme director on Standard Bank’s Core Banking Transformation Programme. I’m deeply interested in large-scale tranformation programmes that have a societal impact. The agile transformation which we are busy with at Standard Bank has reenergised my career and I have become passionate about what agile means for organisations and the people within them.</p><br><p></p>",
             "name": "Jeff Lopes",
             "priority": 1,
             "profilePic": "img/speakers/Jeff.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p></p>",
             "name": "Shane Ferley",
             "priority": 1,
             "profilePic": "img/speakers/shane.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Testing is not just a career to me, it is a massive part of who I am. I have been blessed to come across people who have inspired me and taught me and I believe I have been that person to others over the years. The learning never stops though, and I continue to practice the craft and apply learnings from other disciplines back into software testing.</p><br><p>I am at my happiest when I see a team able to do their best testing work and add valuable information into the system. One way I like to do this is to be part of the team. Mentoring and coaching the team from an external viewpoint is also something I am comfortable with. I realise that much of the work we do is heavily influenced by the greater system we are in. I have many years experience of making these things visible and coming up with practical ideas to maximize the value derived from the testing efforts.</p><br><p>Building the craft and community of testing in South Africa is also a passion of mine. To this end, I am the co-organiser of Let’s Test South Africa and the founder and co-organiser of the Joburg Software Testers Meetup.</p><br><p>I enjoy speaking at conferences and have spoken at Let’s Test in Sweden, Copenhagen Context and CAST in North America and I was the co-program chair for CAST 2013.</p><br><p>As Director and Consultant at House of Test South Africa, I am hoping to continue working with awesome people, partnering with friends whom I respect and working my butt off to promote $hit HoT testing.</p><br><p></p>",
             "name": "Louise Perold",
             "priority": 1,
             "twitter": "@lperold",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I exist in a world of creative people, disruptive technologies and innovation, with a software engineering background from and an extensive working career, I ultimately still help organizations fail fast and learn!\nI’m a Software Engineering Manager at ABSA, I’m involved in the DevOps transformation journey and assist teams to adopt new ways of working. I also coach Lean/Agile principles, the value of DevOps, DevOps Culture and Software Engineering Principles. I previously worked extensively as an Agile Coach and Scrum Master helping teams deliver valuable software.\nI’m inspired by people and product teams that make awesome software for their customers, I’m excited to share my journey and learning to the rest of Chef\ncommunity.</p><br><p></p>",
             "name": "Benjamin Hinson",
             "priority": 1,
             "twitter": "@Benj_Hin",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Prior to becoming a consultant, I worked in the business process outsourcing industry where I pursued ways to make businesses more effective, more efficient and more capable of adapting to an ever-changing environment. So when I was introduced to Agile a few years later, it was a perfect fit! I now devote my time to anything related to business agility.</p><br><p></p>",
@@ -1172,7 +1172,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Angie-Doyle-profile-pic.jpg",
             "twitter": "@Doyle_Angie",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I have always been a “compulsive note-taker”. In meetings, training and conferences I have always used this as a way to concentrate and understand certain topics. Over the years this doodling has evolved into more of a visual note-taking technique, or sketchnoting. I love that this form of note-taking activates the four modes of learning: audio, read-write, visual and kinaesthetic / movement. Thus people reading them will hopefully remember the presentations more vividly, and those who missed it have access to some of the ideas. The skill of visual thinking has helped me add value as a Scrum Master, which is my profession in the Agility team at IQ Business, and whenever I get a chance I am a Sketchnoter…</p><br><p></p>",
@@ -1180,7 +1180,7 @@
             "priority": 1,
             "profilePic": "img/speakers/TaliaLancaster.jpg",
             "twitter": "@lancaster_talia",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Ryan Ripley has worked on agile teams for the past 10 years in development, scrum master and management roles. He’s worked at various fortune 500 companies in the medical device, whole sale, and financial services industries.</p><br><p>Ryan is great at taking tests and holds the PMI-ACP, PSM I, PSM II, PSE, PSPO I, PSD I, CSM, CSPO, CSP, and CAL1 agile certifications.</p><br><p>Ryan lives in Indiana with his wife Kristin and three children. He blogs at ryanripley.com and hosts the Agile for Humans podcast available on iTunes. You can also follow Ryan on twitter: @ryanripley</p><br><p></p>",
@@ -1188,7 +1188,7 @@
             "priority": 1,
             "profilePic": "img/speakers/ryan-ripley.png",
             "twitter": "@ryanripley",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p></p>",
@@ -1196,7 +1196,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Sam_ATD.jpg",
             "twitter": "@samlaing",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I currently work at Jumo as an Agile Lead and as a volunteer committee member for Scrum User Group South Africa (SUGSA). I think the most amazing thing about me is that I became a scrum master by “accident” but now I can’t imagine doing anything else. I really love finding new ways to encourage collaboration and transparency and hope to always learn new things.</p><br><p></p>",
@@ -1204,7 +1204,7 @@
             "priority": 1,
             "profilePic": "img/speakers/JAY-ALLEN-MORRIS-1.jpg",
             "twitter": "@JayAllenM",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Pavel Dabrytski is an agile coach and trainer from South Africa. He helps organizations implement Agile sustainably through mentoring, training, and coaching. Over the past years, Pavel worked with major financial organizations and retail giants improving their organisational processes. He also helped organise multiple international conferences in Cape Town and Johannesburg. Pavel is a seasoned presenter who spoke at events in Paris, Prague, Shanghai, Bangalore, Atlanta, New York, Singapore, Orlando as well as in South Africa. Currently, he explores topics on coaching psychology and financial models behind Agile projects.</p><br><p></p>",
@@ -1212,7 +1212,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Pavel.jpg",
             "twitter": "@PavelDabrytski",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>As the head of the agility@IQ offering at IQ Business since 2012, I have built an amazing team of Agile consultants (largest in South Africa) that share a common purpose of continuous learning and</p><br><p></p>",
@@ -1220,7 +1220,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Biase-De-Gregorio-7.jpg",
             "twitter": "@biased77",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Building the right software product in the right way is my passion. Working with teams and being part of a team that is building solutions that our users actually want or need is my commitment.\nI have 5 years of experience working in Agile teams across the banking and insurance industry in South Africa and Australia.\nI started my career as an agile business analyst then started doing a combination of BA and Iteration management. I majored in computer science and economics at the University of Witwatersrand. I currently work for a software consultancy called Khabane Majestic Consulting</p><br><p></p>",
@@ -1228,7 +1228,7 @@
             "priority": 1,
             "profilePic": "img/speakers/liandre.jpg",
             "twitter": "@liandrabassiane",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Rouan Wilsenach is a software developer. He has built applications in a variety of technology stacks for companies in the financial services, education, health and media sectors. He’s worked as a consultant and coach, helping teams learn good engineering practices and helping businesses transform the way they build software. He now works remotely for Tes, where he builds full-stack JavaScript microservices to help teachers and schools.</p><br><p></p>",
@@ -1236,7 +1236,7 @@
             "priority": 1,
             "profilePic": "img/speakers/Rouan.jpg",
             "twitter": "@rouanw",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Travis is the Agile Practice Manager at Chillisoft. He has spent the last 11 years traveling and working around the world in various countries.\nHe is passionate about software quality management, craftsmanship and leadership.\nHe serves on the board of Open Data Durban, a non-profit civic technology lab and is an active member of the Durban software development community.</p><br><p></p>",
@@ -1244,20 +1244,20 @@
             "priority": 1,
             "twitter": "@tmfrisinger",
             "profilePic": "https://pbs.twimg.com/profile_images/636934047734857729/wDNnzOn5_400x400.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>My corporate role is as an Agile Coach within Standard Bank, however my focus and passion is more towards shifting mental models and how people show up so that they actively support and generate Agility (with detours to Kanban and visualisation – if you can’t see it (behaviour included), you seldom talk about it or change it). My goal is to find ways to find ways to generate tools that allow us as Agile coaches to practically and effectively engage with behaviour that often gets in the way of adopting Agile.\nI both facilitate this on our internal Servant Leadership labs as well as coach this as a new way of behaving in stand up’s, other ceremonies and one-on-one coaching sessions that allow individuals to explore their mindsets.\nMy passion for understanding and shifting mind-sets and behaviour started when I was able to shift my own thinking and so acquire the Guinness World Record for the Deepest Dive by a woman.</p><br><p></p>",
             "name": "Verna van Schaik",
             "priority": 1,
             "profilePic": "img/speakers/Verna2017.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I am a father and a husband with a passion for reading, MMA, English football and science fiction. I refer to myself as recovering traditional leader with a focus on developing high performing people,teams and organisation’s. Having spent the last 15 years in financial technology in Africa and have had the privilege of having a diverse career leading departments across  networks, distributed technologies, end user technologies within 12 African countries which has exposed me to all facets of a large enterprise. In the last few years I have been focused on business strategy and leadership and through my current role as the head of Agile transformation and strategy, have been driving a new way of thinking and radical management within my organisation. I received my MBA from GIBS with a specialisation in people and basic psychological needs within the workplace providing me a better understanding into intrinsic motivation and how to structure organisation’s to support the right culture.</p><br><p></p>",
             "name": "James Knupfer",
             "priority": 1,
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Joshua is an experienced Agile and Developer coach. He also lectures part-time at a post-graduate level.</p><br><p></p>",
@@ -1265,14 +1265,14 @@
             "priority": 1,
             "profilePic": "img/speakers/Josh.jpg",
             "twitter": "@joshilewis",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Sonja partners with leaders and other practitioners to enable responsive and agile organisations and make sense of complex problems like culture and change. She does this through the use of pioneering ideas and tools from complexity theory and narrative practice. Her expertise lies in enabling environments in organisations where thinking and behaviour shifts toward greater strategic agility and resilience. Focus areas include: enabling change resilience; effective strategy execution; devolved decision-making; sense-making; and culture.</p><br><p>Sonja has over 15 years experience consulting locally and internationally. Prior to founding More Beyond, she consulted for PWC and IBM. She is the exclusive South African partner for Prof Dave Snowden’s company Cognitive Edge and supplies training in their open source methods; the Cynefin sense-making framework as well as the Sensemaker software suite.</p><br><p></p>",
             "name": "Sonja Blignaut",
             "priority": 1,
             "profilePic": "img/speakers/Sonja-sml.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I’m a software engineer and have been professionally involved in software development of mission-critical systems for about 15 years. Most of my experience has been in developing crucial font-end applications in the financial industries: online trading, online banking, insurance and branch banking.</p><br><p></p>",
@@ -1280,14 +1280,14 @@
             "priority": 1,
             "profilePic": "img/speakers/Jacques.jpg",
             "twitter": "@jacdevos",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I was a PM, come BA and have since morphed myself into a Scrum master, doing some agile coaching on the side.  I have been a Scrum master for just over 3 years now. I have an Honours degree in Psychology and continue to be fascinated by what makes people tick and am myself on an ongoing journey of self improvement.</p><br><p></p>",
             "name": "Catherine Holland",
             "priority": 1,
             "profilePic": "http://2017.agileafricaconf.com/wp-content/uploads/2017/06/catherine.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Cara is the COO and Agile Coach at Project codeX, a disruptive education initiative that equips aspiring coders with high quality skills and experience, while bridging the digital divide.</p><br><p>Her ultimate goal is for us all to find the work we love doing, and build a better future doing it. Having spent years helping teams adopt agile practices that reduce risk and increase workplace happiness, she now helps aspiring coders to discover and follow their tech passions, on their journey to become agile software developers.</p><br><p>She has an insatiable love of learning, and cares deeply about sharing knowledge to build stronger communities and foster greater diversity in the software world.</p><br><p></p>",
@@ -1295,46 +1295,46 @@
             "priority": 1,
             "profilePic": "img/speakers/cara-turner.jpg",
             "twitter": "@Cara_Faye",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I am a senior quality assurance consultant at Thoughtworks and, since 1999, have specialised in software testing and quality assurance. I believe it offers more opportunities than straight development.</p><br><p>As a result, I’ve had the good fortune to gain exposure to a wide range of remarkable opportunities in South Africa and the United States, being exposed to the concrete elements of best practices across a range of disciplines, assignments, projects, organisations and industries. I am fascinated by the constant change, which ensures there is always something new for me to learn.</p><br><p>In my spare time I run 5km, 10km and half marathon races.</p><br><p></p>",
             "name": "Wayne Sinclair",
             "priority": 1,
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I graduated from WITS with a BSc (Comp Sci) 1991. I have since been working in the software industry on initiatives of many different scales and technologies. Most recently I have had some forays into Enterprise Architecture that have left me questioning what valuable practices actually are. I am currently the CTO and a director of Dariel. Even at this stage of my career I still maintain a passion for the workings “nuts and bolts” and thus maintain my programming competency. I am a firm believer in Lean and Kaizen and the original principles that have since been translated into Agile Software methodologies.</p><br><p></p>",
             "name": "Wayne Yan",
             "priority": 1,
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Yogini is a Scrum Master, aspiring Agile Coach in Barclays Africa (South Africa).\nYogini first encountered Agile in 2014 and has been learning about and doing it\never since. She loves how simple in is to do and benefits can be seen\nimmediately.</p><br><p></p>",
             "name": "Yogini Moodley",
             "priority": 1,
             "twitter": "@yogini_zn",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Greg is a member of the BSG Business Analytics team specialising in the role of Business Domain and Business Intelligence.\nGreg has over 12 years of experience in Logistics, Financial Services, Automotive and Mining where he has gained extensive knowledge of agile project delivery in a variety of roles including:\n•         Project manager\n•         Project risk management\n•         Project assurance and compliance\n•         Business analysis\n•         Data & analytics\n•         Business intelligence and reporting</p><br><p></p>",
             "name": "Greg Desilla",
             "priority": 1,
             "profilePic": "img/speakers/Greg-Desilla-email.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Leading the BSG business analytics capability as principal business consultant, Julia strongly believes in the value of deriving business intelligence from data to improve business performance.</p><br><p>Her experience in academia, inventory management, supply chain management, supply chain analytics, business analytics and business intelligence span the motor, retail, logistics, telecommunications and banking sectors.</p><br><p>With a PhD in Mathematical Statistics from the Nelson Mandela Metropolitan University, Julia has delivered a range of business analytics solutions, focused on solving business problems by surfacing the right intelligence to enable fact-based decisions. During the past few years she has focused her career in the field of data science, a natural progression from her statistics roots. Julia is skilled in playing the integration role between business decision makers and their technology service providers.</p><br><p></p>",
             "name": "Julia Keddie",
             "priority": 1,
             "profilePic": "img/speakers/Julia-Keddie-email.jpg",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>I am a Senior Software Engineer at Dariel with a degree in Electrical Engineering and broad experience across multiple industries. My work previous experience includes application design and development; system integration; and I am currently the Senior Engineer in the design and development of infrastructure automation tool for a major South African bank.</p><br><p>Programming, code and computers have been a huge passion for me from as early as I can remember; and I am currently completing a Masters in Software Engineering. I love working in teams and sharing the things I’ve learned with others. My other interests include playing guitar; Minecraft (with automation, of course); board games; and other computer games. I also enjoy astronomy; camping; hiking; travelling and art.</p><br><p></p>",
             "name": "Geoffrey Lydall",
             "priority": 1,
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Simplifier-in-Chief for KRS software. An early female entrepreneur, with a love of software and people, and how both mix to solve problems.</p><br><p></p>",
@@ -1342,14 +1342,14 @@
             "priority": 1,
             "profilePic": "img/speakers/Lorraine.jpg",
             "twitter": "@lor_krs",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Adam is both the Chief Operating Officer at Platform45 as well as a Product Owner, working with two of their talented teams to design and build beautiful software that matters. Adam loves building the teams that build great product.</p><br><p></p>",
             "name": "Adam Sachs",
             "priority": 1,
             "profilePic": "",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         },
         {
             "about": "<p>Simon is a Technical Product Lead at Platform45, interested in everything software from design & development to machine learning. On his journey, Simon loves sharing his learnings, and has given a couple talks in South Africa and the USA. Catch him on Github (@sighmin), or at simonvandyk.co.za.</p><br><p></p>",
@@ -1357,7 +1357,7 @@
             "priority": 1,
             "profilePic": "img/speakers/simon.jpg",
             "twitter": "@siefi",
-            "contentLink": "https://www.agileafricaconf.com/"
+            "contentLink": ""
         }
     ],
     "sponsors": [
