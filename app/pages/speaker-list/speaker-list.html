@@ -19,20 +19,20 @@
       <hr>
       <ion-grid>
       <ion-row no-padding>
-        <ion-col text-center col-4>
+        <ion-col text-center>
           <button small clear color="dark" (click)="goToSpeakerDetail(speaker)">
             <ion-icon name="contact"></ion-icon>
             Profile
           </button>    
         </ion-col>
-        <ion-col text-center col-4>
-        <button small clear (click)="openPagInNewWindow(speaker.contentLink)" *ngIf="speaker.contentLink">
+        <ion-col text-center *ngIf="speaker.contentLink">
+        <button small clear (click)="openPagInNewWindow(speaker.contentLink)">
           <ion-icon name="download"></ion-icon>
             Slides
           </button>    
         </ion-col>
-        <ion-col text-center col-4>
-          <button small clear twitter (click)="goToSpeakerTwitter(speaker)" *ngIf="speaker.twitter">
+        <ion-col text-center *ngIf="speaker.twitter">
+          <button small clear twitter (click)="goToSpeakerTwitter(speaker)">
             <ion-icon name="logo-twitter"></ion-icon>
             Tweet
           </button>  

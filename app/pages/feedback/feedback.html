@@ -7,7 +7,7 @@
 <ion-content class="feedback" padding>  
   <ion-divider>
     <ion-item wrap text-wrap *ngFor="let question of questions">
-      <ion-label stacked>{{question.text}}</ion-label>
+      <ion-label stacked class="feedback-label">{{question.text}}</ion-label>
       <ion-textarea type="text" [(ngModel)]="answers[question.name]" name="question.name"></ion-textarea>
     </ion-item> 
     <button padding start margin ion-button small (click)="submitFeedback(answers)" [disabled]="disableButton(answers)">Submit</button>        
