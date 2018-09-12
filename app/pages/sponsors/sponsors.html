@@ -24,7 +24,6 @@
       <div *ngFor="let sponsor of group.sponsors">
         <ion-row>
           <ion-col col-12 class="sponsor-detail">
-            <h4 text-center class="sponsor-name">{{sponsor.name}}</h4>
             <ion-badge [ngStyle]="{'background-color': getGroupBadgeColor(group)}" item-end class="sponsor-badge">{{getSponsorGroupSymbol(group)}}</ion-badge>    
             <a href="#" (click)="openPagInNewWindow(sponsor.url)">
               <img [src]="sponsor.imageSrc" width="200px">

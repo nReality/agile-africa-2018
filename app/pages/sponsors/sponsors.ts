@@ -32,7 +32,7 @@ export class SponsorsPage {
   }
 
   getSponsorGroupSymbol(group) {
-    return group.groupName[0].toUpperCase();
+    return group.groupName.split(' ')[0];
   }
 
   getGroupBadgeColor(group) {

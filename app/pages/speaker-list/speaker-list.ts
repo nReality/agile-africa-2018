@@ -13,7 +13,7 @@ export class SpeakerListPage {
   actionSheet: ActionSheet;
   speakers = [];
 
-  constructor(public actionSheetCtrl: ActionSheetController, public nav: NavController, confData: ConferenceData, public tweetShare: TweetShare) {
+  constructor( public actionSheetCtrl: ActionSheetController, public nav: NavController, confData: ConferenceData, public tweetShare: TweetShare) {
     this.tweetShare = tweetShare;
     confData.getSpeakers().then(speakers => {
       this.speakers = speakers;
