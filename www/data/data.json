@@ -41,13 +41,13 @@
     },
     "schedule": [
         {
-            "date": "1st OCtober 2018",
+            "date": "1st October 2018",
             "groups": [
                 {
                     "time": "7:30 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p></p>",
                             "name": "Lean Coffee",
@@ -65,7 +65,7 @@
                     "time": "8:00 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Please visit the Welcome Desk in the Foyer to register.</p><br><p></p>",
                             "name": "Registration",
@@ -83,12 +83,13 @@
                     "time": "9:00 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p></p>",
                                     "name": "Oz Chihwayi",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": ""
                                 },
                                 {
                                     "about": "<p></p>",
@@ -116,7 +117,7 @@
                     "time": "9:15 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Selena Delesie is a leadership and transformation coach, speaker, and author. She is a trusted guide for leaders who seek to improve their business and their life. Selena blends sixteen years of experience in the technology industry with a broad range of studies, to support powerful transformations for individuals, teams, and organizations. The founder of Lead With Love Global and Women Ignited, Selena offers a variety of coaching programs, podcast and virtual leadership conferences. Her clients rave about breaking free from traditional beliefs and practices to engage their strengths and passions—and those around them—for success. Selena is renowned mentor and coach for executives, managers, and teams. She guides & facilitates alignment of vision with strategic goals, transition to empowering work processes, increased productivity and organizational effectiveness.</p><br><p></p>",
@@ -143,7 +144,7 @@
                     "time": "10:30 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Lots of conversations and open space stuff happening here , join the fishbowl, have a look at the posters or just have an impromptu conversation.</p><br><p></p>",
                             "name": "Fishbowl - An open space for conversations and discussions",
@@ -151,12 +152,12 @@
                             "timeStart": "10:30 am",
                             "timeEnd": "4:00 pm",
                             "tracks": [
-                                "foyer"
+                                "marathon-room"
                             ],
                             "speakerNames": []
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>I am a spirited young woman, feeding on creativity and the things around me. Always thinking and dreaming, I am obsessed with the process of creating something new. With experience in product design, I collaborate within teams to build experiences fit for the humans in the world of corporate banking. I have a keen interest in Inclusive Design because I subscribe to the notion that we don't have to force everyone to exist in our realities and that good design is accessible design. When I am not designing products [software or clothing], you can find me doing curiosity motivated research about neurology, human behavior, the future of immersive design, as well the ethics of running fashion business and what it means to be sustainable. Extremely invested in my passion for design, I allow it to be the golden thread that runs through all the projects that I have the pleasure of working on.</p><br><p></p>",
@@ -178,7 +179,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Burgert Kirsten is a team coach and experienced improvisation theatre actor with a masters degree in Organisational Psychology. He based his Master’s thesis on the use of improvisation theatre techniques to create a climate for team innovation. He is one of 34 certified Applied Improvisation practitioners in the world. He also has a Professional Scrum Master (PSM I) certification. He has facilitated team innovation workshops for companies like Siemens and SAB Miller among others. He has also worked with technology start ups to help them develop company cultures that foster innovation. In 2015 one of the start-ups Burgert worked with, Ikubu, was acquired by Garmin for their development of an innovative product for cyclists. He has conducted coaching skills workshops using his unique techniques for Business schools including GIBS, USB and WITS. He has completed a Agile fundamentals course (ICAgile certified) presented by Just Plain Agile, a brain-based coaching certification presented by the NeuroLeadership Group and an advanced course in Organizational and Relationships Systems coaching presented by CRR Global.  Currently he works fulltime as a Scrum Master at Entersekt.</p><br><p></p>",
@@ -200,7 +201,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>I am passionate about helping teams and people grow and improve, I enjoy helping teams and organizations implement and improve their agile practices. I am a graduate of Jerry Weinberg, Esther Derby and Johanna Rothman's PSL (Problem solving leadership) and I have worked for more than a decade in the software industry in all areas of software development. I am interested in both people and process improvement and continuously learning and finding better ways to solve problems. I have worked as a product owner, scrum master and team member. I have worked with different types and sizes of teams, some starting out their Agile journey and some having been on that path for long. I have learned from these teams and helped them learn from me. I love what I do and I like to have fun while working. Outside of all of this I enjoy reading, good food, good wine and the occasional good whiskey.</p><br><p></p>",
@@ -234,7 +235,7 @@
                     "time": "11:15 am",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Aslam is an African software developer, by birth and by choice. A couple of decades later and he is convinced that software development is hard, very, very hard.  It throws us into states that come close to being chaotic, and just when we think we figured it, we feel like we just got started.  These days Aslam tries to bind strategy and code with the shortest and tautest of strings, finding the least that we can do to fulfil a strategic intent.  He occasionally tweets as @aslamkhn.</p><br><p></p>",
@@ -261,7 +262,7 @@
                     "time": "12:00 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>I am the DevOps Tech Lead at DVT - A software and testing company who is able to facilitate the full life-cycle of software, from scrum masters through to support I have been involved in the software industry for more than ten years, I hold a degree in IT.</p><br><p></p>",
@@ -283,7 +284,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Riaan is currently working as a Software Engineer at Jemstep and has worked accross various industries, practicing everything from designated keyboard cleaner to solutions architect. Riaan has a passion to make the practice of software development safe - for engineers, companies, clients and the public.</p><br><p></p>",
@@ -312,7 +313,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>I have never done a waterfall project… From my first year of education as a Computer Scientist (in Denmark) we were taught to work in an Agile environment and therefore it became a natural part of me. Agile methods became so instilled into my everyday life that I did not realize people could work any differently. I was first exposed to working with teams that did not practice Agile approaches when I moved to South Africa. It was here I realized that I want everybody to feel the passion and joy for Agile as I do, and therefore I started to train and coach all things Agile. I am all about going the extra mile to make the impossible possible. I very much emphasize possibilities rather than limitations and I love to use my creative and imaginative side. I use all of these strengths to help people, teams, and companies to understand Agile and the Scrum framework as well as how to implement it.</p><br><p></p>",
@@ -339,7 +340,7 @@
                     "time": "12:15 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>#Who am I? Professional caffeine consumer. Occasionally, I also write code, write things that are not code, read books and dabble in business. I also teach people on the Internet about programming stuff.</p><br><p></p>",
@@ -366,7 +367,7 @@
                     "time": "1:30 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Zayne is fascinated by one of  humanity’s major contradictions - our need to constantly evolve, change and adapt, but our general unwillingness and fear of doing so. To this end he’s been working with individuals, teams and organisations trying to find the best ways to convince (and perhaps coerce) them to embrace the change that just isn’t going to let up.</p><br><p></p>",
@@ -388,7 +389,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Alain King is an Architect and Trainer at KRS, a software development company based in Cape Town. Alain has run the KRS annual developer internship for the last 9 years, built on the Agile principles of Scrum and Extreme Programming (XP). Alain has been actively involved in upgrading legacy systems.</p><br><p></p>",
@@ -410,7 +411,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Nico was appointed as CTO of Turfsport in April 2017 - about a year after the modernisation project started. His previous experience in the Banking industry (FNB) is a great help at Turfsport as he has extensive experience in various project management approaches as well as modern technologies such as Cloud and more specifically SaaS solutions. His experience as the Cloud Information Security Officer for FirstRand where he was involved in all cloud based projects within the group, also proved a great benefit to Turfsport. He also has experience in talking at various conferences - details on his [LinkedIn](https://www.linkedin.com/in/nicocoetzee/) page under projects. Nico achieved his Master in Engineering from WITS.</p><br><p></p>",
@@ -437,7 +438,7 @@
                     "time": "2:30 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>Quality EngineerOrganizer, Agile Kenya meet-up Sandra is a a software quality engineer and tester by profession and has worked in thetechnology field for over five years with various local and international technologycompanies. She is also a TechWomen.org alumna and contributes actively via mentorship tocommunity based projects focusing on education and empowerment of women with STEMskills, she is also a project coordinator for Mombasa Girls in STEM</p><br><p></p>",
@@ -466,7 +467,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p></p><br><p></p>",
@@ -501,7 +502,7 @@
                             ]
                         },
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>From pathology to people, Henk is a life long learner spreading smiles & energy. With the self-proclaimed title of Chief Happiness Officer, he applies his background in biological science, teaching and business to facilitate way of work optimisation and make the workplace an awesome place to be. Henk lives in Centurion with his wife Elmare, their 4 kids, 3 dogs, 2 cats, an African Grey and 'Tweety' the ageing budgie.</p><br><p></p>",
@@ -528,7 +529,7 @@
                     "time": "3:15 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>I am a professional trainer and coach specialising in Agile practices. Over the last 20+ years I have worked in many different industries from the collar and tie of large corporates to the hard-hats and steel-caps of manufacturing. In these industries, I have been responsible for building and leading teams in the delivery and support of customer value primarily using Agile frameworks. I have discovered through this journey that true agility has nothing to with frameworks and processes. True agility is about people, and more importantly, about how people interact with each other. How do we create a culture that self-assesses and corrects over time? How do we ensure that the learned behaviours we pass on are those that we truly value? I love helping people to discover new ways of thinking, learning and relearning. How can we improve the end to end delivery of value together? How do we embark on our own unique journey while embracing the vital elements of respect, focus and simplicity? I ask these questions constantly as we strive to build cohesive and collaborative teams: Magic is formed when people are encouraged to be creative, expressive and collectively responsible. “Make no little plans: they have no magic to stir men’s blood.” - Daniel Burnham</p><br><p></p>",
@@ -555,7 +556,7 @@
                     "time": "4:15 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [
                                 {
                                     "about": "<p>John Le Drew has spent most of the last 2 decades working in the software industry, with a focus on web technologies. After 10 years as a software engineer John moved into consultancy where he quickly learned the value of team dynamics and how most technical challenges are projecting underlying issues with collaboration. While still being very involved technically, his first focus is on facilitating a safe, creative, collaborative environment. John hosts and produces the well-respected Agile Path podcast where he creates in-depth audio documentaries on the topics that most affect organisations transitioning to agile ways of working and other critical issues. The first season focuses on the effect of psychological safety (or the lack there of) on organisations and wider society. This has led to many speaking engagements across the UK, US and Europe. John’s approach is focused on helping organisations create an environment that fosters creative collaboration. He is known for his infectious passion and sense of humour that brings in a much-needed injection of energy to unmotivated, challenged teams.</p><br><p></p>",
@@ -582,7 +583,7 @@
                     "time": "5:15 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Social event</p><br><p></p>",
                             "name": "Networking",
@@ -1071,7 +1072,7 @@
                     "time": "5:15 pm",
                     "sessions": [
                         {
-                            "date": "1st OCtober 2018",
+                            "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Social event</p><br><p></p>",
                             "name": "Closing Drinks and Networking",
@@ -1141,14 +1142,6 @@
             "priority": 1,
             "profilePic": "img/speakers/zayne.jpeg",
             "twitter": "@songsta",
-            "contentLink": ""
-        },
-        {
-            "about": "<p>Justin Doyle is an Agile Coach at Liberty. Previously he held the position of Head of Agile at Discovery Vitality and worked to drive the adoption of Agile across the division. In over fourteen years of software development experience he has seen first-hand how technology is changing the world at an exponential rate. In this era of constant change, he firmly believes that we need to create responsive, agile organisations that harness technology and new ways of work to adapt to change and invade the future at speed and scale. This is what drives his passion for Agile. As an Agile Coach he has worked to embed the values, principles and practices needed to create responsive organisations that are effectively equipped to serve their evolutionary purpose and solve real customer needs and problems. History: Justin has presented 3 talks at conferences in the past: a 90 min talk at Scrum Gathering 2013 - Plants vs Zombies – Using team types to build healthier Scrum teams (http://sugsa.org.za/2013-scrum-gathering/justin-doyle-plants-vs-zombies-using-team-types-to-build-healthier-scrum-teams/), and a 30 min talk at Agile Africa 2015 – High Stakes Planning Poker (https://www.youtube.com/watch?v=kRl_bFuSJUQ) and a 15 min lightning talk at Agile Africa 2016 - Active Agile (https://www.youtube.com/watch?v=kPO4Jj6Knns).</p><br><p></p>",
-            "name": "Justin Doyle",
-            "priority": 1,
-            "profilePic": "img/speakers/justinDoyle.jpeg",
-            "twitter": "@doyle_justin",
             "contentLink": ""
         },
         {
