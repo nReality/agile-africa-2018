@@ -27,7 +27,6 @@ export class SessionDetailPage {
     this.tweetShare = tweetShare;
     this.session = navParams.data;
     this.nav = nav;
-
     this.initializeStorage();
     this.restoreState();
   }
@@ -76,7 +75,6 @@ export class SessionDetailPage {
 
   goToTwitter(speakers) {
     let speakerstring = this.getTwitterString(speakers);
-    //window.open(`https://twitter.com/share?text=` + sessionName);
     this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
   }
 

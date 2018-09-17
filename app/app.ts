@@ -7,6 +7,7 @@ import { ConferenceData } from './providers/conference-data';
 import { UserData } from './providers/user-data';
 import { TabsPage } from './pages/tabs/tabs';
 import { TweetShare } from './providers/tweet-share';
+import { SocialSharing } from 'ionic-native';
 
 import * as firebase from 'firebase';
 
@@ -87,7 +88,7 @@ class ConferenceApp {
 // See the theming docs for the default values:
 // http://ionicframework.com/docs/v2/theming/platform-specific-styles/
 
-ionicBootstrap(ConferenceApp, [ConferenceData, UserData, TweetShare], {
+ionicBootstrap(ConferenceApp, [ConferenceData, UserData, TweetShare, SocialSharing], {
   tabbarPlacement: 'bottom',
   prodMode : true
 });

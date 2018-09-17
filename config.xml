@@ -80,6 +80,7 @@
     <plugin name="cordova-plugin-inappbrowser" spec="^1.4.0" />
     <plugin name="cordova-plugin-splashscreen" spec="https://github.com/apache/cordova-plugin-splashscreen.git" />
     <plugin name="cordova-plugin-whitelist" spec="~1.0.0" />
+    <plugin name="cordova-plugin-x-socialsharing" spec="^5.4.1" />
     <engine name="android" spec="^6.4.0" />
     <engine name="ios" spec="^4.4.0" />
 </widget>

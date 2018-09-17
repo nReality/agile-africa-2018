@@ -1,33 +1,46 @@
 import { Injectable } from '@angular/core';
-import { Platform } from 'ionic-angular';
+import { Platform }   from 'ionic-angular';
+import { SocialSharing } from 'ionic-native';
 
 @Injectable()
 export class TweetShare {
-  
-  constructor(private platform: Platform) {
-          this.platform = platform;
-        }
+  constructor(private platform: Platform, private socialSharing: SocialSharing) {
+    this.platform = platform;
+    this.socialSharing = socialSharing;
+  }
+
+  shareViaTwitterWithSpeakerAndConference(message, speakers: Array<any>) {
+    var speakerstring = ""
+    for (var speaker of speakers) {
+      if (speaker.twitter !== '@someone') {
+        speakerstring += " " + speaker.twitter;
+      } else {
+        speakerstring += " " + speaker.name;
+      }
+    }
+    this.shareViaTwitterWithConference(message + speakerstring);
+  }
+
+  shareViaTwitterWithConference(message) {
+    this.shareViaTwitter(message + ' @AgileAfrica', null, null)
+  }
 
   shareViaTwitter(message, image, link) {
-    var pl = (<any>window).plugins
-    if (pl == null){
-       window.open(`https://twitter.com/intent/tweet?text=` + message);
-      return;
-    }
-      this.platform.ready().then(() => {
-          if(pl.socialsharing) {
-            try{
-              //for some reason the check always fails
-              //pl.socialsharing.canShareVia("twitter", message, null, image, link, function(result) {
-                  pl.socialsharing.shareViaTwitter(message, image, link);
-              //}, function(error) {
-              //    console.error(error);
-              //});
-            }catch(error){
-                console.error(error);
+    this.platform.ready().then(() => {
+      if (SocialSharing) {
+        try {
+          SocialSharing.shareViaTwitter(message, image, link)
+            .then(() => {})
+            .catch((err) =>{
+            console.error(err);
+            if (err !== 'cancelled'){
+              window.open(`https://twitter.com/intent/tweet?text=` + message);
             }
-
-          }
-      });
+          });;
+        } catch(error) {
+          console.error(error);
+        }
+      }
+    });
   }
 }

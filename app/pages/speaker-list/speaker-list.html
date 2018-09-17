@@ -7,7 +7,7 @@
 <ion-content center class="outer-content speaker-list">
   <ion-list no-lines center *ngFor="let speaker of speakers">
     <ion-card>
-        <img [src]="getSpeakerImage(speaker)"/>
+        <img [src]="getSpeakerImage(speaker)" *ngIf="speaker.profilePic"/>
       <ion-card-content>
         <ion-card-title>
           {{speaker.name}}

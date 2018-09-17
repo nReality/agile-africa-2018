@@ -290,13 +290,13 @@
                                     "about": "<p>Riaan is currently working as a Software Engineer at Jemstep and has worked accross various industries, practicing everything from designated keyboard cleaner to solutions architect. Riaan has a passion to make the practice of software development safe - for engineers, companies, clients and the public.</p><br><p></p>",
                                     "name": "Riaan du Plessis",
                                     "priority": 1,
-                                    "profilePic": "img/speakers/TanyaandRiaan.jpg"
+                                    "profilePic": "img/speakers/TanyaAndRiaan.jpg"
                                 },
                                 {
                                     "about": "<p>Tanya has over the course of 13 years fulfilled various roles the HR field accross multiple industries. Her 'why' is to make the workplace a better place for everyone and practices as a Industrial Psychologist to fulfill this mission.</p><br><p></p>",
                                     "name": "Tanya du Plessis",
                                     "priority": 1,
-                                    "profilePic": "img/speakers/TanyaandRiaan.jpg"
+                                    "profilePic": "img/speakers/TanyaAndRiaan.jpg"
                                 }
                             ],
                             "description": "<p>Do you ever feel that the fire inside you has burned out? Burnout is a prevalent issue among IT professionals. A recent Blind survey shows that an average of 57% of employees from 30 tech companies reported burnout.</p><br><p></p>",
@@ -450,7 +450,7 @@
                                     "about": "<p>Certified Scrum MasterOrganizer, Agile Kenya meet-upKaluhi is a Certified Scrum Master and passionate about the people side of the change, witha focus on bringing meaningful change into an organisation. She has been practising AgileMethods for over 4 years in both software and non software teams. She is also more deeplyinvolved in the Agile community in Kenya as one of the founders and organizing committeemembers of the community.</p><br><p></p>",
                                     "name": "Kaluhi Anzigale",
                                     "priority": 1,
-                                    "profilePic": "img/speakers/kaluhi.jpeg"
+                                    "profilePic": "img/speakers/Kaluhi.jpeg"
                                 }
                             ],
                             "description": "<p>A talk to share our experiences on starting and growing the agile community in Kenya as well as the lessons we are learning as our 300 member community grows. The Kenyan agile community currently comprises of tech and non tech companies at different levels of agile growth in their workspaces. Since April 2018, we began holding monthly meet ups and because of this, our growth has been rapid and we have happily come to learn that much as agile in Kenya is pretty young, a lot of our members, just like ourselves are hungry for information on agile principles - from what agile is, to how to go about applying it and even just figuring out, if indeed it is the ‘right’ solution for their work environments.</p><br><p></p>",
@@ -1091,8 +1091,32 @@
     ],
     "speakers": [
         {
+            "about": "<p></p>",
+            "name": "Alok Goswami",
+            "profilePic": "",
+            "priority": 0,
+            "twitter": "",
+            "contentLink": ""
+        },
+        {
+            "about": "<p></p>",
+            "name": "Barry Dwolatzky",
+            "profilePic": "",
+            "priority": 0,
+            "twitter": "",
+            "contentLink": ""
+        },
+        {
+            "about": "<p></p>",
+            "name": "Oz Chihwayi",
+            "profilePic": "",
+            "priority": 0,
+            "twitter": "",
+            "contentLink": ""
+        },
+        {
             "about": "<p>Selena Delesie is a leadership and transformation coach, speaker, and author. She is a trusted guide for leaders who seek to improve their business and their life. Selena blends sixteen years of experience in the technology industry with a broad range of studies, to support powerful transformations for individuals, teams, and organizations. The founder of Lead With Love Global and Women Ignited, Selena offers a variety of coaching programs, podcast and virtual leadership conferences. Her clients rave about breaking free from traditional beliefs and practices to engage their strengths and passions—and those around them—for success. Selena is renowned mentor and coach for executives, managers, and teams. She guides & facilitates alignment of vision with strategic goals, transition to empowering work processes, increased productivity and organizational effectiveness.</p><br><p></p>",
-            "name": "Selena Delasie",
+            "name": "Selena Delesie",
             "profilePic": "",
             "priority": 0,
             "twitter": "@SelenaDelesie",
@@ -1306,7 +1330,7 @@
             "about": "<p>Tanya has over the course of 13 years fulfilled various roles the HR field accross multiple industries. Her 'why' is to make the workplace a better place for everyone and practices as a Industrial Psychologist to fulfill this mission.</p><br><p></p>",
             "name": "Tanya du Plessis",
             "priority": 1,
-            "profilePic": "img/speakers/TanyaandRiaan.jpg",
+            "profilePic": "img/speakers/TanyaAndRiaan.jpg",
             "twitter": "",
             "contentLink": ""
         },
@@ -1314,7 +1338,7 @@
             "about": "<p>Riaan is currently working as a Software Engineer at Jemstep and has worked accross various industries, practicing everything from designated keyboard cleaner to solutions architect. Riaan has a passion to make the practice of software development safe - for engineers, companies, clients and the public.</p><br><p></p>",
             "name": "Riaan du Plessis",
             "priority": 1,
-            "profilePic": "img/speakers/TanyaandRiaan.jpg",
+            "profilePic": "img/speakers/TanyaAndRiaan.jpg",
             "twitter": "@riaan_dp",
             "contentLink": ""
         },
@@ -1325,7 +1349,7 @@
             "contentLink": ""
         },
         {
-            "about": "<p>Quality EngineerOrganizer, Agile Kenya meet-up Sandra is a a software quality engineer and tester by profession and has worked in thetechnology field for over five years with various local and international technologycompanies. She is also a TechWomen.org alumna and contributes actively via mentorship tocommunity based projects focusing on education and empowerment of women with STEMskills, she is also a project coordinator for Mombasa Girls in STEM.</p><br><p></p>",
+            "about": "<p>Quality EngineerOrganizer, Sandra is a a software quality engineer and tester by profession and has worked in thetechnology field for over five years with various local and international technologycompanies. She is also a TechWomen.org alumna and contributes actively via mentorship tocommunity based projects focusing on education and empowerment of women with STEMskills, she is also a project coordinator for Mombasa Girls in STEM.</p><br><p></p>",
             "name": "Sandra Kambo",
             "priority": 1,
             "profilePic": "img/speakers/Sandra.jpeg",
@@ -1333,10 +1357,10 @@
             "contentLink": ""
         },
         {
-            "about": "<p>Certified Scrum MasterOrganizer, Agile Kenya meet-upKaluhi is a Certified Scrum Master and passionate about the people side of the change, witha focus on bringing meaningful change into an organisation. She has been practising AgileMethods for over 4 years in both software and non software teams. She is also more deeplyinvolved in the Agile community in Kenya as one of the founders and organizing committeemembers of the community.</p><br><p></p>",
+            "about": "<p>Certified Scrum MasterOrganizer, Kaluhi is a Certified Scrum Master and passionate about the people side of the change, witha focus on bringing meaningful change into an organisation. She has been practising AgileMethods for over 4 years in both software and non software teams. She is also more deeplyinvolved in the Agile community in Kenya as one of the founders and organizing committeemembers of the community.</p><br><p></p>",
             "name": "Kaluhi Anzigale",
             "priority": 1,
-            "profilePic": "img/speakers/kaluhi.jpeg",
+            "profilePic": "img/speakers/Kaluhi.jpeg",
             "twitter": "",
             "contentLink": ""
         },
@@ -1362,29 +1386,13 @@
             ]
         },
         {
-            "groupName": "Diamond Sponsor",
-            "color":"#9ac5db",
+            "groupName": "Gold Sponsors",
+            "color":"#FFD700",
             "sponsors": [
                 {
                     "name": "IQ Business",
                     "imageSrc": "img/sponsors/IQBusiness-Logo.png",
                     "url": "http://www.iqbusiness.net/"
-                }
-            ]
-        },
-        {
-            "groupName": "Gold Sponsors",
-            "color":"#FFD700",
-            "sponsors": [
-                {
-                    "name": "Prodigy Finance",
-                    "imageSrc": "img/sponsors/Prodigy_LandscapeLogo.jpg",
-                    "url": "http://www.prodigyfinance.com/"
-                },
-                {
-                    "name": "Liberty",
-                    "imageSrc": "img/sponsors/Liberty.png",
-                    "url": "http://www.liberty.co.za/"
                 }
             ]
         },
@@ -1401,6 +1409,16 @@
                     "name": "Agile 42",
                     "imageSrc": "img/sponsors/Agile42-e1497864739541.png",
                     "url": "http://www.agile42.com/"
+                },
+                {
+                    "name": "Offerzen",
+                    "imageSrc": "img/sponsors/offerzen.png",
+                    "url": "http://www.offerzen.com/"
+                },
+                {
+                    "name": "Mpilo Tech",
+                    "imageSrc": "img/sponsors/mpilotech.png",
+                    "url": "http://www.mpilotech.co.za/"
                 }
             ]
         }
