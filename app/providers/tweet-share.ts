@@ -22,7 +22,7 @@ export class TweetShare {
   }
 
   shareViaTwitterWithConference(message) {
-    this.shareViaTwitter(message + ' @AgileAfrica', null, null)
+    this.shareViaTwitter(message + ' @AgileAfrica', null, null);
   }
 
   shareViaTwitter(message, image, link) {
@@ -30,13 +30,15 @@ export class TweetShare {
       if (SocialSharing) {
         try {
           SocialSharing.shareViaTwitter(message, image, link)
-            .then(() => {})
-            .catch((err) =>{
-            console.error(err);
-            if (err !== 'cancelled'){
+            .then(() => {
+              return null;
+            })
+            .catch((err) => {
+              console.error(err);
+            if (err !== 'cancelled') {
               window.open(`https://twitter.com/intent/tweet?text=` + message);
             }
-          });;
+          });
         } catch(error) {
           console.error(error);
         }

@@ -89,7 +89,7 @@
                                     "about": "<p></p>",
                                     "name": "Oz Chihwayi",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/oz.jpg"
                                 },
                                 {
                                     "about": "<p></p>",
@@ -123,7 +123,7 @@
                                     "about": "<p>Selena Delesie is a leadership and transformation coach, speaker, and author. She is a trusted guide for leaders who seek to improve their business and their life. Selena blends sixteen years of experience in the technology industry with a broad range of studies, to support powerful transformations for individuals, teams, and organizations. The founder of Lead With Love Global and Women Ignited, Selena offers a variety of coaching programs, podcast and virtual leadership conferences. Her clients rave about breaking free from traditional beliefs and practices to engage their strengths and passions—and those around them—for success. Selena is renowned mentor and coach for executives, managers, and teams. She guides & facilitates alignment of vision with strategic goals, transition to empowering work processes, increased productivity and organizational effectiveness.</p><br><p></p>",
                                     "name": "Selena Delesie",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/selena.jpg"
                                 }
                             ],
                             "description": "<p>We spend too much time focused on doing better. 'Go faster', 'Put more people on the problem', 'Reduce costs', 'Just get it shipped!' Do any of these sound familiar? We excel at fire fighting and bandaid solutions.</p><br><p></p>",
@@ -213,7 +213,7 @@
                                     "about": "<p>Sonja is a thought partner to decision-makers and change agents. She specialises in applying methods, thinking and tools from fields like complexity, adaptive leadership, network theory and ecological sciences to design bespoke processes to enable change resilience, adaptive cultures and scaled agility. Sonja has been working in the fields of narrative and complexity since 2002. Before founding More Beyond, she worked as a consultant for PWC and IBM. Sonja has consulted locally and internationally with clients that include the Sasol Group, Barclays, MMI, Anglo American, Harmony Gold, Nedbank, Standard Bank, Liberty, FNB, Gautrain Management Agency, PWC, IBM North America, DSTV, Eskom, SANParks, the Water Research Commission and many others. Sonja trains locally and internationally in complexity and related topics at various academic institutions including the University of Pretoria and GIBS Business School. She is a sought-after speaker in a wide variety of industries and conferences including Agile Summits, OD conferences and TedX Pretoria. Sonja has been the sole South African partner for Prof Dave Snowden’s company Cognitive Edge, the creator of Sensemaker® since 2007. In addition, she is a certified Scrum Master and is also qualified in various individual and team coaching modalities including Narrative Coaching, Analytic Network Coaching and Organisation Systems Relationship Coaching.</p><br><p></p>",
                                     "name": "Sonja Blignaut",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/sonja.png"
                                 }
                             ],
                             "description": "<p>When we practically implement or scale agility in our organisation we often run into sticky issues that keep us stuck.  This session will provide participants with practical complexity-based tools to help them get unstuck.</p><br><p></p>",
@@ -470,21 +470,23 @@
                             "date": "1st October 2018",
                             "speakers": [
                                 {
-                                    "about": "<p></p><br><p></p>",
+                                    "about": "<p>Barry is manager and principal advisor at the DAV Centre, situated at Tshimologong in Braamfontein. The Design and Validation (DAV) Centre is sponsored by Gauteng Province to conduct design and validation of software solutions. He is also a Sessional Lecturer at Wits, teaching the Principles of Software Engineering and Software Project Management for the JCSE's CPD Programme. Barry graduated as an Electronics Engineer from the University of the Witwatersrand (Wits) and later complemented this qualification with an MBL from the University of South Africa (UNISA). (MBA equivalent).</p><br><p></p>",
                                     "name": "Barry Myburgh",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "img/speakers/Barry-Myburgh.jpg"
+                                    
                                 },
                                 {
                                     "about": "<p></p><br><p></p>",
                                     "name": "Xolile Maduna",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/Xolile.jpg"
                                 },
                                 {
                                     "about": "<p></p><br><p></p>",
                                     "name": "Kanya Nkula",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/Kanya.PNG"
                                 }
                             ],
                             "description": "<p>Studies show that 90% of start-ups fail in their first year. They fail due to a number of reasons,ignoring customers, costs and disharmony in investors to men on a few. However, the 10% that succeed focus on these elements and ensure that they grow and evolve with the changing market. Tools such as the Lean launchpad and BMC encourage the entrepreneurs to focus on the important segments in the organisation such as interacting with customers and to gather data from interviews in order to gain a better understanding of the opportunity and stakeholder. Studies also show that digital entrepreneurs naturally have a better understanding of the stakeholders and opportunity, however, most digital entrepreneurs lack the ability to run a software development team to deliver and understand the software engineering required for the start-up.</p><br><p></p>",
@@ -562,11 +564,11 @@
                                     "about": "<p>John Le Drew has spent most of the last 2 decades working in the software industry, with a focus on web technologies. After 10 years as a software engineer John moved into consultancy where he quickly learned the value of team dynamics and how most technical challenges are projecting underlying issues with collaboration. While still being very involved technically, his first focus is on facilitating a safe, creative, collaborative environment. John hosts and produces the well-respected Agile Path podcast where he creates in-depth audio documentaries on the topics that most affect organisations transitioning to agile ways of working and other critical issues. The first season focuses on the effect of psychological safety (or the lack there of) on organisations and wider society. This has led to many speaking engagements across the UK, US and Europe. John’s approach is focused on helping organisations create an environment that fosters creative collaboration. He is known for his infectious passion and sense of humour that brings in a much-needed injection of energy to unmotivated, challenged teams.</p><br><p></p>",
                                     "name": "John Le Drew",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/john.jpg"
                                 }
                             ],
                             "description": "<p>While business knowledge and domain expertise is useful and essential, is this only achievable with a 'single wringable neck'? What would happen if the whole team could be encouraged to take ownership of product direction? This session looks at how we have often created dysfunctional relationships with our product owners through both the way we collaborate (or don't) with them and the language we use to talk about the role itself.</p><br><p></p>",
-                            "name": "The 5 pillars of Product Management",
+                            "name": "The 5 pillars of Product Ownership",
                             "locationId": "ballroom",
                             "timeStart": "4:15 pm",
                             "timeEnd": "5:15 pm",
@@ -648,7 +650,7 @@
                                     "about": "<p>Sonja is a thought partner to decision-makers and change agents. She specialises in applying methods, thinking and tools from fields like complexity, adaptive leadership, network theory and ecological sciences to design bespoke processes to enable change resilience, adaptive cultures and scaled agility. Sonja has been working in the fields of narrative and complexity since 2002. Before founding More Beyond, she worked as a consultant for PWC and IBM. Sonja has consulted locally and internationally with clients that include the Sasol Group, Barclays, MMI, Anglo American, Harmony Gold, Nedbank, Standard Bank, Liberty, FNB, Gautrain Management Agency, PWC, IBM North America, DSTV, Eskom, SANParks, the Water Research Commission and many others. Sonja trains locally and internationally in complexity and related topics at various academic institutions including the University of Pretoria and GIBS Business School. She is a sought-after speaker in a wide variety of industries and conferences including Agile Summits, OD conferences and TedX Pretoria. Sonja has been the sole South African partner for Prof Dave Snowden’s company Cognitive Edge, the creator of Sensemaker® since 2007. In addition, she is a certified Scrum Master and is also qualified in various individual and team coaching modalities including Narrative Coaching, Analytic Network Coaching and Organisation Systems Relationship Coaching.</p><br><p></p>",
                                     "name": "Sonja Blignaut",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/sonja.png"
                                 }
                             ],
                             "description": "<p></p><br><p></p>",
@@ -745,7 +747,7 @@
                                     "about": "<p>Justin Doyle is an Agile Coach at Liberty. Previously he held the position of Head of Agile at Discovery Vitality and worked to drive the adoption of Agile across the division. In over fourteen years of software development experience he has seen first-hand how technology is changing the world at an exponential rate. In this era of constant change, he firmly believes that we need to create responsive, agile organisations that harness technology and new ways of work to adapt to change and invade the future at speed and scale. This is what drives his passion for Agile. As an Agile Coach he has worked to embed the values, principles and practices needed to create responsive organisations that are effectively equipped to serve their evolutionary purpose and solve real customer needs and problems. History: Justin has presented 3 talks at conferences in the past: a 90 min talk at Scrum Gathering 2013 - Plants vs Zombies – Using team types to build healthier Scrum teams (http://sugsa.org.za/2013-scrum-gathering/justin-doyle-plants-vs-zombies-using-team-types-to-build-healthier-scrum-teams/), and a 30 min talk at Agile Africa 2015 – High Stakes Planning Poker (https://www.youtube.com/watch?v=kRl_bFuSJUQ) and a 15 min lightning talk at Agile Africa 2016 - Active Agile (https://www.youtube.com/watch?v=kPO4Jj6Knns)</p><br><p></p>",
                                     "name": "Justin Doyle",
                                     "priority": 1,
-                                    "profilePic": "img/speakers/justinDoyle.jpeg"
+                                    "profilePic": "img/speakers/justin.jpeg"
                                 }
                             ],
                             "description": "<p>Imagine the world of tomorrow, where information, autonomous transportation and renewable energy have been combined at near zero cost to create the third industrial revolution. The possibilities and rate of change in such a world are endless. Will agile as we know it still exist in this new world?</p><br><p></p>",
@@ -842,7 +844,8 @@
                                 {
                                     "about": "<p>Selena Delesie is a leadership and transformation coach, speaker, and author. She is a trusted guide for leaders who seek to improve their business and their life. Selena blends sixteen years of experience in the technology industry with a broad range of studies, to support powerful transformations for individuals, teams, and organizations. The founder of Lead With Love Global and Women Ignited, Selena offers a variety of coaching programs, podcast and virtual leadership conferences. Her clients rave about breaking free from traditional beliefs and practices to engage their strengths and passions—and those around them—for success. Selena is renowned mentor and coach for executives, managers, and teams. She guides & facilitates alignment of vision with strategic goals, transition to empowering work processes, increased productivity and organizational effectiveness.</p><br><p></p>",
                                     "name": "Selena Delesie",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "img/speakers/selena.jpg"
                                 }
                             ],
                             "description": "<p></p><br><p></p>",
@@ -1011,7 +1014,7 @@
                                     "about": "<p>Mitch Lacey is an agile practitioner and trainer. Mitch has been managing projects for over fifteen years and is credited with many plan-driven and agile projects. He is the author of “The Scrum Field Guide”, a book targeting teams adopting Agile and Scrum practices. Mitch honed his agile skills at Microsoft Corporation, where he successfully released core enterprise services for Windows Live. Mitch’s first agile team at Microsoft was coached by Ward Cunningham, Jim Newkirk & David Anderson. While at Microsoft, he transitioned from Program Manager to Agile Coach, working hand-in-hand with groups throughout their transition to Agile practices. After Microsoft, Mitch was the Agile Practice Manager at Ascentium Corporation where he practiced agility on the projects he ran every day while coaching customers on agile practices and lessons on agile adoption worldwide. As a Certified Scrum Trainer (CST), PMI Project Management Professional (PMP®) and Agile Certified Practitioner (ACP®), Mitch shares his experience in project and client management through Scrum Alliance Certified Scrum courses, agile coaching engagements, conference presentations, blogs and white papers. He has published many papers including “Adventures in Promiscuous Pairing”, “Transitioning to Agile: Key Lessons Learned in the Field”, “The Impacts of Poor Estimating – & How to Fix It”, a variety of papers for Microsoft and “Immersive Interviewing – Building Great Agile Software Teams”. He has presented at Agile Alliance Agile 2006, 2007, 2008 and 2009 conferences, the 2008 Better Software Conference and the 2008 – 2013 SQE Agile Development Practices conferences. He has managed tracks for the Agile conference since 2008 and was the conference chair for Agile2012 and Agile2014. Mitch has served on the Board of Directors for the Agile Alliance (2011-2012) and the Scrum Alliance (2010-2011, 2014).</p><br><p></p>",
                                     "name": "Mitch Lacey",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/mitch.jpg"
                                 }
                             ],
                             "description": "<p></p><br><p></p>",
@@ -1037,7 +1040,8 @@
                                 {
                                     "about": "<p></p>",
                                     "name": "Alok Goswami",
-                                    "priority": 1
+                                    "priority": 1,
+                                    "profilePic": "img/speakers/alok.jpg"
                                 },
                                 {
                                     "about": "<p></p>",
@@ -1049,7 +1053,7 @@
                                     "about": "<p></p>",
                                     "name": "Barry Dwolatzky",
                                     "priority": 1,
-                                    "profilePic": ""
+                                    "profilePic": "img/speakers/Barry-D.jpg"
                                 }
                             ],
                             "description": "<p></p>",
@@ -1093,7 +1097,7 @@
         {
             "about": "<p></p>",
             "name": "Alok Goswami",
-            "profilePic": "",
+            "profilePic": "img/speakers/alok.png",
             "priority": 0,
             "twitter": "",
             "contentLink": ""
@@ -1101,23 +1105,39 @@
         {
             "about": "<p></p>",
             "name": "Barry Dwolatzky",
-            "profilePic": "",
+            "profilePic": "img/speakers/Barry-D.jpg",
             "priority": 0,
-            "twitter": "",
+            "twitter": "@BarryDwolatzky",
             "contentLink": ""
         },
         {
             "about": "<p></p>",
             "name": "Oz Chihwayi",
-            "profilePic": "",
+            "profilePic": "img/speakers/oz.jpg",
             "priority": 0,
-            "twitter": "",
+            "twitter": "@ozchihwayi",
+            "contentLink": ""
+        },
+        {
+            "about": "<p>Kanya is a Feature Analyst at a Financial institute in Johannesburg South Africa, she works in an Agile environment and has SCRUM experience of 3 years. She is also a budding researcher with a keen interest in ICTs for Education, 21st Century skills as well as Entrepreneurship. Kanya holds a Masters of Commerce (Information Systems) from Rhodes University (2015).</p>",
+            "name": "Kanya Nkula",
+            "profilePic": "img/speakers/Kanya.PNG",
+            "priority": 0,
+            "twitter": "@kanyankula",
+            "contentLink": ""
+        },
+        {
+            "about": "<p>Xolile is a Senior IT Professional, with Experience as a developer, IT Business Systems Analyst and Delivery Manager in both Waterfall and Agile environments. Experience is mainly in financial institution and ERP. He has a keen interest in Software Engineering methodologies and AI. Xolile holds a Master of Engineering (Electrical) from the University of the Witwatersrand (Wits).</p>",
+            "name": "Xolile Maduna",
+            "profilePic": "img/speakers/Xolile.jpg",
+            "priority": 0,
+            "twitter": "@XolileXmad",
             "contentLink": ""
         },
         {
             "about": "<p>Selena Delesie is a leadership and transformation coach, speaker, and author. She is a trusted guide for leaders who seek to improve their business and their life. Selena blends sixteen years of experience in the technology industry with a broad range of studies, to support powerful transformations for individuals, teams, and organizations. The founder of Lead With Love Global and Women Ignited, Selena offers a variety of coaching programs, podcast and virtual leadership conferences. Her clients rave about breaking free from traditional beliefs and practices to engage their strengths and passions—and those around them—for success. Selena is renowned mentor and coach for executives, managers, and teams. She guides & facilitates alignment of vision with strategic goals, transition to empowering work processes, increased productivity and organizational effectiveness.</p><br><p></p>",
             "name": "Selena Delesie",
-            "profilePic": "",
+            "profilePic": "img/speakers/selena.jpg",
             "priority": 0,
             "twitter": "@SelenaDelesie",
             "contentLink": ""
@@ -1126,6 +1146,7 @@
             "about": "<p>John Le Drew has spent most of the last 2 decades working in the software industry, with a focus on web technologies. After 10 years as a software engineer John moved into consultancy where he quickly learned the value of team dynamics and how most technical challenges are projecting underlying issues with collaboration. While still being very involved technically, his first focus is on facilitating a safe, creative, collaborative environment. John hosts and produces the well-respected Agile Path podcast where he creates in-depth audio documentaries on the topics that most affect organisations transitioning to agile ways of working and other critical issues. The first season focuses on the effect of psychological safety (or the lack there of) on organisations and wider society. This has led to many speaking engagements across the UK, US and Europe. John’s approach is focused on helping organisations create an environment that fosters creative collaboration. He is known for his infectious passion and sense of humour that brings in a much-needed injection of energy to unmotivated, challenged teams.</p><br><p></p>",
             "name": "John Le Drew",
             "priority": 1,
+            "profilePic": "img/speakers/john.jpg",
             "twitter": "@antz29",
             "contentLink": ""
         },
@@ -1133,6 +1154,7 @@
             "about": "<p>Mitch Lacey is an agile practitioner and trainer. Mitch has been managing projects for over fifteen years and is credited with many plan-driven and agile projects. He is the author of “The Scrum Field Guide”, a book targeting teams adopting Agile and Scrum practices. Mitch honed his agile skills at Microsoft Corporation, where he successfully released core enterprise services for Windows Live. Mitch’s first agile team at Microsoft was coached by Ward Cunningham, Jim Newkirk & David Anderson. While at Microsoft, he transitioned from Program Manager to Agile Coach, working hand-in-hand with groups throughout their transition to Agile practices. After Microsoft, Mitch was the Agile Practice Manager at Ascentium Corporation where he practiced agility on the projects he ran every day while coaching customers on agile practices and lessons on agile adoption worldwide. As a Certified Scrum Trainer (CST), PMI Project Management Professional (PMP®) and Agile Certified Practitioner (ACP®), Mitch shares his experience in project and client management through Scrum Alliance Certified Scrum courses, agile coaching engagements, conference presentations, blogs and white papers. He has published many papers including “Adventures in Promiscuous Pairing”, “Transitioning to Agile: Key Lessons Learned in the Field”, “The Impacts of Poor Estimating – & How to Fix It”, a variety of papers for Microsoft and “Immersive Interviewing – Building Great Agile Software Teams”. He has presented at Agile Alliance Agile 2006, 2007, 2008 and 2009 conferences, the 2008 Better Software Conference and the 2008 – 2013 SQE Agile Development Practices conferences. He has managed tracks for the Agile conference since 2008 and was the conference chair for Agile2012 and Agile2014. Mitch has served on the Board of Directors for the Agile Alliance (2011-2012) and the Scrum Alliance (2010-2011, 2014).</p><br><p></p>",
             "name": "Mitch Lacey",
             "priority": 1,
+            "profilePic": "img/speakers/mitch.jpg",
             "twitter": "@mglacey",
             "contentLink": ""
         },
@@ -1140,7 +1162,7 @@
             "about": "<p>Sonja is a thought partner to decision-makers and change agents. She specialises in applying methods, thinking and tools from fields like complexity, adaptive leadership, network theory and ecological sciences to design bespoke processes to enable change resilience, adaptive cultures and scaled agility. Sonja has been working in the fields of narrative and complexity since 2002. Before founding More Beyond, she worked as a consultant for PWC and IBM. Sonja has consulted locally and internationally with clients that include the Sasol Group, Barclays, MMI, Anglo American, Harmony Gold, Nedbank, Standard Bank, Liberty, FNB, Gautrain Management Agency, PWC, IBM North America, DSTV, Eskom, SANParks, the Water Research Commission and many others. Sonja trains locally and internationally in complexity and related topics at various academic institutions including the University of Pretoria and GIBS Business School. She is a sought-after speaker in a wide variety of industries and conferences including Agile Summits, OD conferences and TedX Pretoria. Sonja has been the sole South African partner for Prof Dave Snowden’s company Cognitive Edge, the creator of Sensemaker® since 2007. In addition, she is a certified Scrum Master and is also qualified in various individual and team coaching modalities including Narrative Coaching, Analytic Network Coaching and Organisation Systems Relationship Coaching.</p><br><p></p>",
             "name": "Sonja Blignaut",
             "priority": 1,
-            "profilePic": "",
+            "profilePic":  "img/speakers/sonja.png",
             "twitter": "@sonjabl",
             "contentLink": ""
         },
@@ -1204,7 +1226,7 @@
             "about": "<p>Justin Doyle is an Agile Coach at Liberty. Previously he held the position of Head of Agile at Discovery Vitality and worked to drive the adoption of Agile across the division. In over fourteen years of software development experience he has seen first-hand how technology is changing the world at an exponential rate. In this era of constant change, he firmly believes that we need to create responsive, agile organisations that harness technology and new ways of work to adapt to change and invade the future at speed and scale. This is what drives his passion for Agile. As an Agile Coach he has worked to embed the values, principles and practices needed to create responsive organisations that are effectively equipped to serve their evolutionary purpose and solve real customer needs and problems.</p><br><p></p>",
             "name": "Justin Doyle",
             "priority": 1,
-            "profilePic": "",
+            "profilePic": "img/speakers/justin.jpeg",
             "twitter": "@doyle_justin",
             "contentLink": ""
         },
@@ -1261,6 +1283,7 @@
             "name": "Myles Hopkins",
             "priority": 1,
             "profilePic": "img/speakers/Myles.png",
+            "twitter": "",
             "contentLink": ""
         },
         {
@@ -1316,6 +1339,7 @@
             "name": "Lowe Richter",
             "priority": 1,
             "profilePic": "img/speakers/Lowe.jpg",
+            "twitter": "@LoweRichter",
             "contentLink": ""
         },
         {
@@ -1331,7 +1355,7 @@
             "name": "Tanya du Plessis",
             "priority": 1,
             "profilePic": "img/speakers/TanyaAndRiaan.jpg",
-            "twitter": "",
+            "twitter": "@tanya_iop",
             "contentLink": ""
         },
         {
@@ -1343,9 +1367,11 @@
             "contentLink": ""
         },
         {
-            "about": "<p></p>",
+            "about": "<p>Barry is manager and principal advisor at the DAV Centre, situated at Tshimologong in Braamfontein. The Design and Validation (DAV) Centre is sponsored by Gauteng Province to conduct design and validation of software solutions. He is also a Sessional Lecturer at Wits, teaching the Principles of Software Engineering and Software Project Management for the JCSE's CPD Programme. Barry graduated as an Electronics Engineer from the University of the Witwatersrand (Wits) and later complemented this qualification with an MBL from the University of South Africa (UNISA). (MBA equivalent).</p>",
             "name": "Barry Myburgh",
             "priority": 1,
+            "profilePic": "img/speakers/Barry-Myburgh.jpg",
+            "twitter": "@ajbmtwit",
             "contentLink": ""
         },
         {
@@ -1361,7 +1387,7 @@
             "name": "Kaluhi Anzigale",
             "priority": 1,
             "profilePic": "img/speakers/Kaluhi.jpeg",
-            "twitter": "",
+            "twitter": "@anzigalek",
             "contentLink": ""
         },
         {
