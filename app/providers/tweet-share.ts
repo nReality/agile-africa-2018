@@ -34,7 +34,6 @@ export class TweetShare {
               return null;
             })
             .catch((err) => {
-              console.error(err);
             if (err !== 'cancelled') {
               window.open(`https://twitter.com/intent/tweet?text=` + message);
             }
