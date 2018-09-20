@@ -1040,8 +1040,8 @@
                                 {
                                     "about": "<p></p>",
                                     "name": "Alok Goswami",
-                                    "priority": 1,
-                                    "profilePic": "img/speakers/alok.jpg"
+                                    "profilePic": "",
+                                    "priority": 1
                                 },
                                 {
                                     "about": "<p></p>",
@@ -1097,7 +1097,7 @@
         {
             "about": "<p></p>",
             "name": "Alok Goswami",
-            "profilePic": "img/speakers/alok.png",
+            "profilePic": "",
             "priority": 0,
             "twitter": "",
             "contentLink": ""
