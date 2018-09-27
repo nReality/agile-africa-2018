@@ -31,6 +31,11 @@
                 "text": "Which topics would you like to see covered at future conferences?"
             }
         ],
+        "IQBusinessIndex": {
+            "heading": "IQbusiness Agile Index 2018 Survey",
+            "text": "Click on the link below to complete the survey.",
+            "link": "http://www.surveygizmo.com/s3/4425848/Agile-Index-South-Africa-2018"
+        },
         "links": [
             {
                 "linkText": "Give us feedback!",

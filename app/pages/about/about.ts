@@ -37,7 +37,7 @@ export class AboutPage {
     popover.present({ ev: event });
   }
 
-  openPagInNewWindow(link) {
+  openPageInNewWindow(link) {
     window.open(link, "_system", "location=yes");
     return false;
   }
