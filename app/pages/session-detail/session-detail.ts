@@ -75,7 +75,7 @@ export class SessionDetailPage {
 
   goToTwitter(speakers) {
     let speakerstring = this.getTwitterString(speakers);
-    this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfrica",null,null)
+    this.tweetShare.shareViaTwitter("." + speakerstring+" @AgileAfricaConf",null,null)
   }
 
   hasTwitterAccounts(speakers) {

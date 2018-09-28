@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="3060" id="com.nreality.agileafricaconf2017" version="3.0.28" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="3062" id="com.nreality.agileafricaconf2017" version="3.0.30" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Agile Africa Conference</name>
     <description>Agile Africa Conference 2018</description>
     <author email="info@nreality.com" href="http://nreality.com/">nReality</author>

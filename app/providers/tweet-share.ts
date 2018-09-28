@@ -22,7 +22,7 @@ export class TweetShare {
   }
 
   shareViaTwitterWithConference(message) {
-    this.shareViaTwitter(message + ' @AgileAfrica', null, null);
+    this.shareViaTwitter(message + ' @AgileAfricaConf', null, null);
   }
 
   shareViaTwitter(message, image, link) {

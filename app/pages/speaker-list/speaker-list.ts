@@ -34,7 +34,7 @@ export class SpeakerListPage {
   }
 
   goToSpeakerTwitter(speaker) {
-    this.tweetShare.shareViaTwitter("." + speaker.twitter + " @AgileAfrica", null, null);
+    this.tweetShare.shareViaTwitter("." + speaker.twitter + " @AgileAfricaConf", null, null);
   }
 
   getSpeakerImage(speaker) {
