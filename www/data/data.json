@@ -596,7 +596,7 @@
                             "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Social event</p><br><p></p>",
-                            "name": "Networking",
+                            "name": "Opening Night Drinks, Snacks and Networking",
                             "locationId": "ballroom",
                             "timeStart": "5:15 pm",
                             "timeEnd": "7:30 pm",
@@ -699,6 +699,12 @@
                                     "name": "Rochelle Roos",
                                     "priority": 1,
                                     "profilePic": "img/speakers/Rochelle.JPG"
+                                },
+                                {
+                                    "about": "<p>Wessel is a business agility coach with many years’ experience in various large corporates.   His passion for people comes through in his coaching approach, as he focuses not only on helping teams optimise their team activities, but also on the group dynamics that enable self-organisation.  He believes in experiential approaches that lay the foundation for agility in a method-agnostic way and often facilitates business simulations to embed concepts like Collaboration, Business Value, Optimal Flow of Work, Team Dynamics across all levels of the organisation.<p><br></p>He has is certified in and has deep experience in various Agile and traditional methodologies, ie Scrum and Kanban, SAFe, Prince II etc.   He also holds a Masters Degree (MComm) in Project Management with “The role of the Project Manager in Agile Project environments“ as focus for his studies.  He has also been trained in various coaching and sense-making methods such as ORSC, Tavistock and Cynefin.<p><br></p>Wessel has been involved in several national and international projects in various industries such as Financial Services, Manufacturing, Logistics, Telecoms and Pharma.  Projects have involved Data Warehousing, Custom Application Development and ERP implementations.<p><br></p></p>",
+                                    "name": "Wessel Blignaut",
+                                    "priority": 1,
+                                    "profilePic": "img/speakers/wessel.jpeg"
                                 }
                             ],
                             "description": "<p>You get agreement from HR and Management to change the policy in the organization. You will measure the performance of the team as a whole instead of individual performance. Come experience the impact of organizational policies and its effect on performance by playing a fun game.</p><br><p></p>",
@@ -710,7 +716,8 @@
                                 "boundary-room"
                             ],
                             "speakerNames": [
-                                "Rochelle Roos"
+                                "Rochelle Roos",
+                                "Wessel Blignaut"
                             ]
                         },
                         {
@@ -1048,7 +1055,7 @@
                                 {
                                     "about": "<p>Alok is the Executive Head – Business Optimisation at Joburg Centre for Software Engineering (JCSE). Alok is an expert strategist and has helped senior management teams to develop and implement cross functional business and process improvement opportunities. Alok is a Business Management graduate (MBA), and is possibly the only professional in South Africa to possess a combination of niche and extraordinary skills in the international best practice frameworks and disciplines of Information Technology & Software Engineering on CMMI, TSP, ITIL, Six Sigma, PMP and ISO 9001-2000.<p><br></p>An expert strategist, Alok has helped senior management to develop and implement cross functional business and process improvement opportunities. These initiatives encompass SDLC Life-cycle Methodologies (Agile, Waterfall, Hybrid), Due Diligence, Gap Analysis, Process Definition, Process Mapping, Business Process Engineering/Re-engineering, Measurements, Service Oriented Architecture and Benchmarking.</p>",
                                     "name": "Alok Goswami",
-                                    "profilePic": "img/speakers/alok.png",
+                                    "profilePic": "img/speakers/alok.jpeg",
                                     "priority": 1
                                 },
                                 {
@@ -1080,7 +1087,7 @@
                             "date": "1st October 2018",
                             "speakers": [],
                             "description": "<p>Social event</p><br><p></p>",
-                            "name": "Closing Drinks and Networking",
+                            "name": "Networking",
                             "locationId": "ballroom",
                             "timeStart": "5:15 pm",
                             "timeEnd": "7:00 pm",
@@ -1096,9 +1103,17 @@
     ],
     "speakers": [
         {
+            "about": "<p>Wessel is a business agility coach with many years’ experience in various large corporates.   His passion for people comes through in his coaching approach, as he focuses not only on helping teams optimise their team activities, but also on the group dynamics that enable self-organisation.  He believes in experiential approaches that lay the foundation for agility in a method-agnostic way and often facilitates business simulations to embed concepts like Collaboration, Business Value, Optimal Flow of Work, Team Dynamics across all levels of the organisation.<p><br></p>He has is certified in and has deep experience in various Agile and traditional methodologies, ie Scrum and Kanban, SAFe, Prince II etc.   He also holds a Masters Degree (MComm) in Project Management with “The role of the Project Manager in Agile Project environments“ as focus for his studies.  He has also been trained in various coaching and sense-making methods such as ORSC, Tavistock and Cynefin.<p><br></p>Wessel has been involved in several national and international projects in various industries such as Financial Services, Manufacturing, Logistics, Telecoms and Pharma.  Projects have involved Data Warehousing, Custom Application Development and ERP implementations.<p><br></p></p>",
+            "name": "Wessel Blignaut",
+            "profilePic": "img/speakers/wessel.jpeg",
+            "priority": 0,
+            "twitter": "@wesselblignaut",
+            "contentLink": ""
+        },
+        {
             "about": "<p>Alok is the Executive Head – Business Optimisation at Joburg Centre for Software Engineering (JCSE). Alok is an expert strategist and has helped senior management teams to develop and implement cross functional business and process improvement opportunities.  Alok is a Business Management graduate (MBA), and is possibly the only professional in South Africa to possess a combination of niche and extraordinary skills in the international best practice frameworks and disciplines of Information Technology & Software Engineering on CMMI, TSP, ITIL, Six Sigma, PMP and ISO 9001-2000.<p><br></p>An expert strategist, Alok has helped senior management to develop and implement cross functional business and process improvement opportunities. These initiatives encompass SDLC Life-cycle Methodologies (Agile, Waterfall, Hybrid), Due Diligence, Gap Analysis, Process Definition, Process Mapping, Business Process Engineering/Re-engineering, Measurements, Service Oriented Architecture and Benchmarking.<p><br></p></p>",
             "name": "Alok Goswami",
-            "profilePic": "img/speakers/alok.png",
+            "profilePic": "img/speakers/alok.jpeg",
             "priority": 0,
             "twitter": "",
             "contentLink": ""

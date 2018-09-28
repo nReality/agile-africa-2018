@@ -23,7 +23,7 @@
     <center>
       <button margin-top light outline class="speaker-button" *ngFor="let speaker of session.speakers" (click)="goToSpeakerDetail(speaker)">
         <ion-avatar item-start class="speaker-avatar">
-          <img [src]="getSpeakerImage(speaker)">
+          <img class="speaker-avatar-image" [src]="getSpeakerImage(speaker)">
         </ion-avatar>
         {{speaker.name}}
       </button>
